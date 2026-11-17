@@ -281,8 +281,9 @@ export function measurePage() {
     const sticky = photos.some((item) => getComputedStyle(item).position === 'sticky');
     return [{ block: row.closest('[data-block-id]')?.getAttribute('data-block-id') ?? null, media: { top: Math.round(media.top), bottom: Math.round(media.bottom) }, copy: { top: Math.round(text.top), bottom: Math.round(text.bottom) }, sticky }];
   });
-  // Each section's buttons and the text right above them (actionsDetached).
-  const actions = [...main.querySelectorAll('[data-authoring-block] .button')].filter((button) => button.getBoundingClientRect().width > 0 && !button.closest('form, nav, .track__controls, .related-tile, .gallery__item, .feature-card, .case, article')).flatMap((button) => {
+  // Each section's buttons and the text right above them (actionsDetached). A row of buttons is measured by its first:
+  // the one beside it sits where the row puts it (aloha's quote page, 2026-11-18: the form's call, then "Prefer email?").
+  const actions = [...main.querySelectorAll('[data-authoring-block] .button')].filter((button) => button.getBoundingClientRect().width > 0 && !button.previousElementSibling?.classList.contains('button') && !button.closest('form, nav, .track__controls, .related-tile, .gallery__item, .feature-card, .case, article')).flatMap((button) => {
     const section = button.closest('[data-authoring-block]');
     const box = button.getBoundingClientRect();
     const above = [...section.querySelectorAll('h1, h2, h3, p, li')].filter((item) => !item.contains(button) && item.getBoundingClientRect().height > 0 && item.getBoundingClientRect().bottom <= box.top + 2 && item.getBoundingClientRect().right > box.left - 400 && item.getBoundingClientRect().left < box.right + 400);

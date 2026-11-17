@@ -537,7 +537,7 @@
       {
         "id": "related",
         "type": "relatedPages",
-        "heading": "Related services",
+        "heading": "Related pages",
         "links": [
           {
             "label": "Blog",
@@ -6264,7 +6264,7 @@
       {
         "id": "related-2",
         "type": "relatedPages",
-        "heading": "Related services",
+        "heading": "Related pages",
         "links": [
           {
             "label": "Case Studies",
@@ -6395,7 +6395,7 @@
       {
         "id": "related-2",
         "type": "relatedPages",
-        "heading": "Related services",
+        "heading": "Related pages",
         "links": [
           {
             "label": "Resources",
@@ -6690,7 +6690,7 @@
       {
         "id": "related",
         "type": "relatedPages",
-        "heading": "Related services",
+        "heading": "Related pages",
         "links": [
           {
             "label": "FAQ",
@@ -6951,18 +6951,6 @@
         }
       },
       {
-        "id": "related-2",
-        "type": "relatedPages",
-        "heading": "Related services",
-        "links": [
-          {
-            "label": "Terms and Conditions",
-            "href": "/terms-and-conditions/"
-          }
-        ],
-        "variant": "tiles"
-      },
-      {
         "id": "cta",
         "type": "cta",
         "sourceSectionIds": [
@@ -7102,18 +7090,6 @@
           }
         ],
         "mediaKind": "process"
-      },
-      {
-        "id": "related-2",
-        "type": "relatedPages",
-        "heading": "Related services",
-        "links": [
-          {
-            "label": "Privacy Policy",
-            "href": "/privacy-policy/"
-          }
-        ],
-        "variant": "tiles"
       },
       {
         "id": "cta",
@@ -7381,7 +7357,7 @@
       {
         "id": "related",
         "type": "relatedPages",
-        "heading": "Related services",
+        "heading": "Related pages",
         "links": [
           {
             "label": "Case Studies",
@@ -7826,7 +7802,7 @@
           {
             "heading": "Dynamic pricing",
             "paragraphs": [
-              "we check and adjust your nightly rates up to 3 times a day, weighing local demand, events, competitor rates, seasonal trends and booking pace."
+              "we check and adjust your nightly rates every day, weighing local demand, events, competitor rates, seasonal trends and booking pace."
             ],
             "placeholder": true
           },
@@ -8001,7 +7977,7 @@
         "heading": "Common Challenges San Diego Owners Face and How We Handle Them",
         "paragraphs": [
           "During peak weeks, back-to-back turnovers leave no slack, so we book cleaning crews before the rush, and local partners clean and walk through your property after every stay. Those routine checks cover outdoor fixtures exposed to salt air, because corrosion caught late turns a small problem into a larger repair and a poor review. We approve any repair up to USD 300 per job without asking you.",
-          "Beach and downtown properties compete in a crowded field, so we adjust your rates up to 3 times a day against nearby listings. Strict noise and neighbor rules also shape how you host, so we set quiet hours and guest limits in your house rules.",
+          "Beach and downtown properties compete in a crowded field, so we adjust your rates every day against nearby listings. Strict noise and neighbor rules also shape how you host, so we set quiet hours and guest limits in your house rules.",
           "One more rule shapes your calendar: as of November 2026, San Diego's [STRO Ordinance](https://www.sandiego.gov/treasurer/short-term-residential-occupancy) doesn't allow renting for 21 to 89 days a year, so we keep your calendar below or above that range."
         ],
         "wordCount": 146,
@@ -8096,7 +8072,7 @@
       {
         "id": "related",
         "type": "relatedPages",
-        "heading": "Related services",
+        "heading": "Related pages",
         "links": [
           {
             "label": "Locations",
@@ -8549,7 +8525,7 @@
       {
         "id": "related",
         "type": "relatedPages",
-        "heading": "Related services",
+        "heading": "Related pages",
         "links": [
           {
             "label": "Locations",
@@ -8954,7 +8930,7 @@
       {
         "id": "related",
         "type": "relatedPages",
-        "heading": "Related services",
+        "heading": "Related pages",
         "links": [
           {
             "label": "Locations",

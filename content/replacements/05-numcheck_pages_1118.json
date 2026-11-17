@@ -1,0 +1,4 @@
+[
+  { "n": 1, "url": "/san-diego/", "old": "we check and adjust your nightly rates up to 3 times a day", "new": "we check and adjust your nightly rates every day", "reason": "numcheck 2026-11-18 (scratch_offload/blog_1118/numcheck/staylumen-pages.json): /dynamic-pricing/ says one daily update; only San Diego said up to 3 times a day" },
+  { "n": 2, "url": "/san-diego/", "old": "so we adjust your rates up to 3 times a day against nearby listings", "new": "so we adjust your rates every day against nearby listings", "reason": "numcheck 2026-11-18: the same, /dynamic-pricing/'s daily update" }
+]

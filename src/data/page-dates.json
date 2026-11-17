@@ -1,6 +1,6 @@
 {
   "/": {
-    "hash": "57cd0844ea4a58d0",
+    "hash": "52ae5b6605b5d613",
     "modified": "2026-11-17"
   },
   "/vacation-rental-cleaning/": {
@@ -12,11 +12,11 @@
     "modified": "2026-11-17"
   },
   "/airbnb-design-furnishing/": {
-    "hash": "2c9145c244a73e94",
+    "hash": "baff36393af835af",
     "modified": "2026-11-17"
   },
   "/airbnb-co-hosting/": {
-    "hash": "e8b885519da098bf",
+    "hash": "67429b532fb1dba8",
     "modified": "2026-11-17"
   },
   "/dynamic-pricing/": {
@@ -32,71 +32,75 @@
     "modified": "2026-11-17"
   },
   "/short-term-rental-licensing-compliance/": {
-    "hash": "b129d78ffe24b036",
-    "modified": "2026-11-16"
+    "hash": "76e254a678e8e6fa",
+    "modified": "2026-11-17"
   },
   "/about-us/": {
-    "hash": "0c130fb788955f82",
+    "hash": "3edc9f6372282fdb",
     "modified": "2026-11-17"
   },
   "/contact-us/": {
-    "hash": "937fee25189ae760",
+    "hash": "6e63527653c67ed4",
     "modified": "2026-11-17"
   },
   "/faq/": {
-    "hash": "cdaa5dd372e2517b",
+    "hash": "3f09c063ed44e4d9",
     "modified": "2026-11-17"
   },
   "/case-studies/": {
-    "hash": "9cfe8a348e4a82b5",
+    "hash": "df417743c15b7a2d",
     "modified": "2026-11-17"
   },
   "/resources/": {
-    "hash": "427733df2da7e6e9",
+    "hash": "7ff05a6878dcba4d",
     "modified": "2026-11-17"
   },
   "/privacy-policy/": {
-    "hash": "d6248ca9851aba76",
+    "hash": "668e1d6d29705fdd",
     "modified": "2026-11-17"
   },
   "/terms-and-conditions/": {
-    "hash": "ee2d2094beda419c",
+    "hash": "0ab02907feeaa60a",
     "modified": "2026-11-17"
   },
   "/request-a-quote/": {
-    "hash": "ea95f7c9fa268db1",
+    "hash": "bbf5527037984bf2",
     "modified": "2026-11-17"
   },
   "/locations/": {
-    "hash": "82ec0d7311f41ad5",
+    "hash": "4d00221741168a8d",
     "modified": "2026-11-17"
   },
   "/san-diego/": {
-    "hash": "39ad9d2b48fa8743",
+    "hash": "4d77365f5d565fd6",
     "modified": "2026-11-17"
   },
   "/scottsdale/": {
-    "hash": "895e9f420deea29c",
+    "hash": "11e8472a69b5722c",
     "modified": "2026-11-17"
   },
   "/nashville/": {
-    "hash": "50ad2afff304deee",
+    "hash": "068ddcc18e6d68a8",
     "modified": "2026-11-17"
   },
   "/blog/": {
-    "hash": "2073e159e1e36c6a",
+    "hash": "3e4d41bb8889791b",
     "modified": "2026-11-17"
   },
   "/blog/vacation-rental-management-agreement/": {
-    "hash": "1f25bf345a57424b",
+    "hash": "ca5646f378c57ca5",
     "modified": "2026-11-17"
   },
   "/blog/vacation-rental-management-fees/": {
-    "hash": "e8c40e26cb60f135",
+    "hash": "0d901fa6b97861ff",
     "modified": "2026-11-17"
   },
   "/blog/vacation-rental-profitability-tracking/": {
-    "hash": "a576b595f81de1ab",
+    "hash": "f7a05cd5c1c9db0f",
+    "modified": "2026-11-17"
+  },
+  "/blog/airbnb-80-20-rule/": {
+    "hash": "e0731b4b1731cd1e",
     "modified": "2026-11-17"
   }
 }

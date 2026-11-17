@@ -109,7 +109,7 @@ export const PHONE_STEP_PX = 270;
 export const PHONE_STEPS_BASE_PX = 160;
 // A hero whose photo is not laid full-bleed under its title (a banner, a split) keeps its photo's own shape on a phone
 // unless its phone frame (src/data/phone-heroes.json) is taller (lib/plan-assertions.mjs phone_hero_strip).
-const FRAMED_HEROES = new Set(['media-banner', 'media-split']);
+export const FRAMED_HEROES = new Set(['media-banner', 'media-split']);
 // The content's width at 1440 (--container-max 72rem) and on a 390px phone (1.25rem gutters).
 export const TITLE_COLUMNS = Object.freeze({ desktop: 1152, phone: 350 });
 

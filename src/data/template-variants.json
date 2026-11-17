@@ -785,6 +785,11 @@
         "intro": "text",
         "faq": "accordion",
         "table": "grid",
+        "blocks": {
+          "featureGrid-1": {
+            "variant": "cards"
+          }
+        },
         "splitSequence": [
           "tinted",
           "tinted",
@@ -792,12 +797,7 @@
           "single"
         ],
         "featureGrid": "bullets",
-        "process": "list",
-        "blocks": {
-          "featureGrid-1": {
-            "variant": "cards"
-          }
-        }
+        "process": "list"
       },
       "contact": {
         "cta": "inline",
@@ -916,22 +916,22 @@
         "after": 0.31
       },
       "charts:*": {
-        "base": 148,
-        "perWord": 4.58,
-        "visual": 0.86,
-        "before": 0,
-        "after": 0.14
+        "base": 99,
+        "perWord": 3.78,
+        "visual": 0.73,
+        "before": 0.11,
+        "after": 0.27
       },
       "charts:": {
-        "base": 148,
-        "perWord": 4.58,
-        "visual": 0.86,
-        "before": 0,
-        "after": 0.14
+        "base": 99,
+        "perWord": 3.78,
+        "visual": 0.73,
+        "before": 0.11,
+        "after": 0.27
       },
       "cta:*": {
-        "base": 218,
-        "perWord": 3.96,
+        "base": 252,
+        "perWord": 3.08,
         "visual": 0.03,
         "before": 0.95,
         "after": 0.95
@@ -951,11 +951,11 @@
         "after": 0.76
       },
       "cta:image-band+photo": {
-        "base": 482,
+        "base": 446,
         "perWord": 0,
-        "visual": 0.46,
-        "before": 0.07,
-        "after": 0.15
+        "visual": 0.52,
+        "before": 0.08,
+        "after": 0.08
       },
       "cta:image-band": {
         "base": 554,
@@ -965,25 +965,25 @@
         "after": 0.22
       },
       "featureGrid:*": {
-        "base": 92,
-        "perWord": 3.29,
+        "base": 96,
+        "perWord": 3.27,
         "visual": 0.35,
         "before": 0.58,
         "after": 0.5
       },
       "featureGrid:bullets": {
-        "base": 86,
-        "perWord": 3.34,
+        "base": 90,
+        "perWord": 3.32,
         "visual": 0,
         "before": 1,
         "after": 1
       },
       "featureGrid:cards": {
-        "base": 157,
-        "perWord": 2.67,
-        "visual": 0.53,
-        "before": 0.36,
-        "after": 0.24
+        "base": 164,
+        "perWord": 2.6,
+        "visual": 0.52,
+        "before": 0.38,
+        "after": 0.27
       },
       "featureGrid:icons": {
         "base": 285,
@@ -1002,7 +1002,7 @@
       "gallery:*": {
         "base": 645,
         "perWord": 0,
-        "visual": 0.84,
+        "visual": 0.86,
         "before": 0.06,
         "after": 0.06
       },
@@ -1016,19 +1016,19 @@
       "gallery:grid": {
         "base": 387,
         "perWord": 0,
-        "visual": 0.7,
+        "visual": 0.73,
         "before": 0.09,
         "after": 0.09
       },
       "hero:*": {
-        "base": 1060,
+        "base": 1067,
         "perWord": 0,
         "visual": 1,
         "before": 0,
         "after": 0
       },
       "hero:media-overlay": {
-        "base": 1060,
+        "base": 1067,
         "perWord": 0,
         "visual": 1,
         "before": 0,
@@ -1164,7 +1164,7 @@
         "base": 632,
         "perWord": 0.14,
         "visual": 0.34,
-        "before": 0.09,
+        "before": 0.08,
         "after": 0.12
       },
       "splitMedia:panel": {
@@ -1178,7 +1178,7 @@
         "base": 632,
         "perWord": 0.14,
         "visual": 0.34,
-        "before": 0.09,
+        "before": 0.08,
         "after": 0.12
       },
       "stats:*": {
@@ -1231,7 +1231,7 @@
         "after": 0.88
       },
       "hero:media-overlay@solution": {
-        "base": 1319,
+        "base": 1347,
         "perWord": 0,
         "visual": 1,
         "before": 0,
@@ -1277,7 +1277,7 @@
         "perWord": 0.42,
         "visual": 0.35,
         "before": 0.06,
-        "after": 0.09
+        "after": 0.1
       },
       "iconList:checks@solution": {
         "base": 60,
@@ -1295,20 +1295,20 @@
       },
       "orderCase:": {
         "base": 116,
-        "perWord": 3.61,
+        "perWord": 3.58,
         "visual": 0,
         "before": 1,
         "after": 1
       },
       "orderCase:*": {
         "base": 116,
-        "perWord": 3.61,
+        "perWord": 3.58,
         "visual": 0,
         "before": 1,
         "after": 1
       },
       "orderCase:@solution": {
-        "base": 354,
+        "base": 352,
         "perWord": 0,
         "visual": 0,
         "before": 1,
@@ -1343,14 +1343,14 @@
         "after": 1
       },
       "cta:band": {
-        "base": 310,
-        "perWord": 1.41,
+        "base": 275,
+        "perWord": 2.36,
         "visual": 0,
         "before": 1,
         "after": 1
       },
       "cta:band@solution": {
-        "base": 285,
+        "base": 287,
         "perWord": 2.31,
         "visual": 0,
         "before": 1,
@@ -1387,16 +1387,16 @@
       "gallery:grid@solution": {
         "base": 387,
         "perWord": 0,
-        "visual": 0.7,
+        "visual": 0.73,
         "before": 0.09,
         "after": 0.09
       },
       "charts:@solution": {
-        "base": 157,
-        "perWord": 4.38,
-        "visual": 0.86,
+        "base": 109,
+        "perWord": 3.5,
+        "visual": 0.82,
         "before": 0,
-        "after": 0.14
+        "after": 0.19
       },
       "hero:media-overlay@home": {
         "base": 600,
@@ -1429,7 +1429,7 @@
       "table:grid@home": {
         "base": 965,
         "perWord": 0,
-        "visual": 0.47,
+        "visual": 0.48,
         "before": 0.16,
         "after": 0.04
       },
@@ -1504,16 +1504,16 @@
         "after": 1
       },
       "cta:image-band+photo@home": {
-        "base": 482,
+        "base": 446,
         "perWord": 0,
-        "visual": 0.46,
-        "before": 0.07,
-        "after": 0.15
+        "visual": 0.52,
+        "before": 0.08,
+        "after": 0.08
       },
       "table:grid@solution": {
         "base": 1154,
         "perWord": 0,
-        "visual": 0.52,
+        "visual": 0.53,
         "before": 0.09,
         "after": 0.03
       },
@@ -1539,7 +1539,7 @@
         "after": 1
       },
       "featureGrid:bullets@about": {
-        "base": 455,
+        "base": 637,
         "perWord": 0,
         "visual": 0,
         "before": 1,
@@ -1567,11 +1567,11 @@
         "after": 1
       },
       "charts:@about": {
-        "base": 262,
+        "base": 197,
         "perWord": 0,
-        "visual": 0.91,
+        "visual": 0.84,
         "before": 0,
-        "after": 0.14
+        "after": 0.18
       },
       "logos:@about": {
         "base": 317,
@@ -1595,14 +1595,14 @@
         "after": 1
       },
       "cta:dark": {
-        "base": 362,
+        "base": 328,
         "perWord": 0,
         "visual": 0,
         "before": 1,
         "after": 1
       },
       "cta:dark@about": {
-        "base": 362,
+        "base": 328,
         "perWord": 0,
         "visual": 0,
         "before": 1,
@@ -1658,8 +1658,8 @@
         "after": 1
       },
       "cta:inline": {
-        "base": 178,
-        "perWord": 3.38,
+        "base": 221,
+        "perWord": 0,
         "visual": 0,
         "before": 1,
         "after": 1
@@ -1672,7 +1672,7 @@
         "after": 1
       },
       "orderCase:@general": {
-        "base": 817,
+        "base": 811,
         "perWord": 0,
         "visual": 0,
         "before": 1,
@@ -1693,11 +1693,11 @@
         "after": 0.04
       },
       "charts:@general": {
-        "base": 253,
+        "base": 189,
         "perWord": 0,
-        "visual": 0.83,
-        "before": 0,
-        "after": 0.17
+        "visual": 0.42,
+        "before": 0.5,
+        "after": 0.56
       },
       "featureGrid:bullets@general": {
         "base": 569,
@@ -1756,7 +1756,7 @@
         "after": 1
       },
       "cta:inline@places_hub": {
-        "base": 255,
+        "base": 221,
         "perWord": 0,
         "visual": 0,
         "before": 1,
@@ -1764,7 +1764,7 @@
       },
       "hero:media-overlay@place": {
         "base": 40,
-        "perWord": 78.5,
+        "perWord": 181,
         "visual": 1,
         "before": 0,
         "after": 0
@@ -1791,11 +1791,11 @@
         "after": 1
       },
       "splitMedia:single@place": {
-        "base": 634,
+        "base": 635,
         "perWord": 0.13,
         "visual": 0.35,
         "before": 0.06,
-        "after": 0.11
+        "after": 0.12
       },
       "process:list@place": {
         "base": 300,
@@ -1805,8 +1805,8 @@
         "after": 1
       },
       "featureGrid:cards@place": {
-        "base": 90,
-        "perWord": 3.36,
+        "base": 106,
+        "perWord": 3.19,
         "visual": 0.54,
         "before": 0.35,
         "after": 0.21
@@ -1826,7 +1826,7 @@
         "after": 1
       },
       "cta:band@place": {
-        "base": 353,
+        "base": 355,
         "perWord": 0,
         "visual": 0,
         "before": 1,
@@ -1842,7 +1842,7 @@
       "trustBar:@general": {
         "base": 81,
         "perWord": 0.47,
-        "visual": 0.25,
+        "visual": 0.29,
         "before": 0.75,
         "after": 0.75
       },
@@ -1856,26 +1856,26 @@
       "trustBar:@place": {
         "base": 53,
         "perWord": 2.33,
-        "visual": 0.39,
+        "visual": 0.34,
         "before": 0.67,
         "after": 0.67
       },
       "page-toc:": {
-        "base": 348,
+        "base": 306,
         "perWord": 0,
         "visual": 0,
         "before": 1,
         "after": 1
       },
       "page-toc:*": {
-        "base": 348,
+        "base": 306,
         "perWord": 0,
         "visual": 0,
         "before": 1,
         "after": 1
       },
       "page-toc:@solution": {
-        "base": 343,
+        "base": 300,
         "perWord": 0,
         "visual": 0,
         "before": 1,
@@ -1891,21 +1891,21 @@
       "team:": {
         "base": 328,
         "perWord": 0,
-        "visual": 0.61,
+        "visual": 0.56,
         "before": 0.25,
         "after": 0.11
       },
       "team:*": {
         "base": 328,
         "perWord": 0,
-        "visual": 0.61,
+        "visual": 0.56,
         "before": 0.25,
         "after": 0.11
       },
       "team:@about": {
         "base": 328,
         "perWord": 0,
-        "visual": 0.61,
+        "visual": 0.56,
         "before": 0.25,
         "after": 0.11
       },
@@ -1994,7 +1994,7 @@
         "after": 0.21
       },
       "page-toc:@place": {
-        "base": 370,
+        "base": 330,
         "perWord": 0,
         "visual": 0,
         "before": 1,
@@ -2002,6 +2002,20 @@
       },
       "proof:dark@place": {
         "base": 423,
+        "perWord": 0,
+        "visual": 0,
+        "before": 1,
+        "after": 1
+      },
+      "cta:band@general": {
+        "base": 284,
+        "perWord": 1.43,
+        "visual": 0,
+        "before": 1,
+        "after": 1
+      },
+      "featureGrid:cards@about": {
+        "base": 335,
         "perWord": 0,
         "visual": 0,
         "before": 1,
