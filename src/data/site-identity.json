@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "seo-site-identity-v1",
+  "source": "make-wordmark",
+  "siteName": "Staylumen",
+  "origin": "https://staylumen.com",
+  "logo": {
+    "src": "/logo-header-inverse.webp",
+    "width": 384,
+    "height": 33
+  },
+  "schemaLogo": {
+    "src": "/icon-512.png",
+    "width": 512,
+    "height": 512
+  },
+  "icons": [
+    {
+      "rel": "icon",
+      "src": "/favicon-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "rel": "apple-touch-icon",
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "manifest": null,
+  "ogImage": {
+    "src": "/og-image.png",
+    "width": 1200,
+    "height": 630
+  },
+  "generated": {
+    "wordmark": "docs/research/brand/wordmark-2.png",
+    "mark": "docs/research/brand/mark.png",
+    "ink": "#111111",
+    "replaceable": true
+  },
+  "logoFit": {
+    "source": "docs/research/brand/logo.png",
+    "background": "#000000",
+    "contrast": 1.11,
+    "inverse": true,
+    "ink": "#ffffff",
+    "inverseContrast": 20.65,
+    "png": {
+      "src": "/logo.png",
+      "width": 384,
+      "height": 33,
+      "sha256": "7469a84005bd451a1c0330057239763f0994aeb1a90d6ba0235dfa8fa53be8a5"
+    }
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "schemaVersion": "seo-site-proof-v1",
+  "standIn": true,
+  "note": "Stand-in proof (scripts/scaffold-site-proof.mjs): replace with real, permitted values before launch; listed in docs/research/release-signoff.json. The order terms are the approved facts.",
+  "headings": {
+    "factory": "At a glance",
+    "certifications": "Licences and memberships",
+    "clients": "Clients we work with",
+    "caseStudies": "Client results",
+    "testimonials": "What clients say",
+    "history": "Our story",
+    "terms": "Working with us at a glance",
+    "orderRoutes": "Ways to get started"
+  },
+  "factory": [
+    {
+      "value": "110",
+      "label": "clients served",
+      "fromCopy": "/"
+    },
+    {
+      "value": "25",
+      "label": "people on the team"
+    }
+  ],
+  "certifications": [],
+  "clients": [
+    {
+      "name": "Bayline Hospitality",
+      "note": "Florida, USA"
+    },
+    {
+      "name": "Maple Crest Partners",
+      "note": "Tennessee, USA"
+    },
+    {
+      "name": "Willow Bend Hotel Group",
+      "note": "Oregon, USA"
+    },
+    {
+      "name": "Quail Hollow Ventures",
+      "note": "Ohio, USA"
+    },
+    {
+      "name": "Red Barn Hospitality Partners",
+      "note": "Arizona, USA"
+    },
+    {
+      "name": "Eagle Rock Owners Group",
+      "note": "Minnesota, USA"
+    }
+  ],
+  "testimonials": [],
+  "caseStudies": [
+    {
+      "client": "Family business owner",
+      "market": "Columbus, USA",
+      "title": "Vacation rental cleaning for a family-owned business",
+      "summary": "Vacation rental cleaning set up with the owners over a planned handover, with the results reported to them every week.",
+      "results": [
+        {
+          "value": "6 weeks",
+          "label": "handover"
+        },
+        {
+          "value": "1",
+          "label": "weekly report"
+        },
+        {
+          "value": "2",
+          "label": "owner meetings a month"
+        }
+      ],
+      "href": "/vacation-rental-cleaning/",
+      "pages": [
+        "/vacation-rental-cleaning/"
+      ]
+    },
+    {
+      "client": "Owner-operator",
+      "market": "San Antonio, USA",
+      "title": "Airbnb listing optimization & seo for an owner with two sites",
+      "summary": "Airbnb listing optimization & seo brought both sites under one way of working and one report.",
+      "results": [
+        {
+          "value": "2",
+          "label": "sites"
+        },
+        {
+          "value": "1",
+          "label": "shared report"
+        },
+        {
+          "value": "3 months",
+          "label": "to a settled routine"
+        }
+      ],
+      "href": "/airbnb-listing-optimization-seo/",
+      "pages": [
+        "/airbnb-listing-optimization-seo/"
+      ]
+    },
+    {
+      "client": "Regional owner group",
+      "market": "Tampa, USA",
+      "title": "Airbnb design & furnishing for a first-time owner",
+      "summary": "Airbnb design & furnishing started in the owner's first month, with the routines and reports set up from day one.",
+      "results": [
+        {
+          "value": "1st",
+          "label": "month of ownership"
+        },
+        {
+          "value": "4",
+          "label": "routines set up"
+        },
+        {
+          "value": "1",
+          "label": "weekly report"
+        }
+      ],
+      "href": "/airbnb-design-furnishing/",
+      "pages": [
+        "/airbnb-design-furnishing/"
+      ]
+    },
+    {
+      "client": "First-time owner",
+      "market": "Minneapolis, USA",
+      "title": "Airbnb co-hosting for a family-owned business",
+      "summary": "Airbnb co-hosting set up with the owners over a planned handover, with the results reported to them every week.",
+      "results": [
+        {
+          "value": "6 weeks",
+          "label": "handover"
+        },
+        {
+          "value": "1",
+          "label": "weekly report"
+        },
+        {
+          "value": "2",
+          "label": "owner meetings a month"
+        }
+      ],
+      "href": "/airbnb-co-hosting/",
+      "pages": [
+        "/airbnb-co-hosting/"
+      ]
+    },
+    {
+      "client": "Managing partner of an owner group",
+      "market": "Phoenix, USA",
+      "title": "Dynamic pricing for an owner with two sites",
+      "summary": "Dynamic pricing brought both sites under one way of working and one report.",
+      "results": [
+        {
+          "value": "2",
+          "label": "sites"
+        },
+        {
+          "value": "1",
+          "label": "shared report"
+        },
+        {
+          "value": "3 months",
+          "label": "to a settled routine"
+        }
+      ],
+      "href": "/dynamic-pricing/",
+      "pages": [
+        "/dynamic-pricing/"
+      ]
+    },
+    {
+      "client": "Second-generation owner",
+      "market": "Portland, USA",
+      "title": "Airbnb booking management for a first-time owner",
+      "summary": "Airbnb booking management started in the owner's first month, with the routines and reports set up from day one.",
+      "results": [
+        {
+          "value": "1st",
+          "label": "month of ownership"
+        },
+        {
+          "value": "4",
+          "label": "routines set up"
+        },
+        {
+          "value": "1",
+          "label": "weekly report"
+        }
+      ],
+      "href": "/airbnb-booking-management/",
+      "pages": [
+        "/airbnb-booking-management/"
+      ]
+    },
+    {
+      "client": "Family business owner",
+      "market": "Columbus, USA",
+      "title": "Airbnb property maintenance for a family-owned business",
+      "summary": "Airbnb property maintenance set up with the owners over a planned handover, with the results reported to them every week.",
+      "results": [
+        {
+          "value": "6 weeks",
+          "label": "handover"
+        },
+        {
+          "value": "1",
+          "label": "weekly report"
+        },
+        {
+          "value": "2",
+          "label": "owner meetings a month"
+        }
+      ],
+      "href": "/airbnb-property-maintenance/",
+      "pages": [
+        "/airbnb-property-maintenance/"
+      ]
+    },
+    {
+      "client": "Owner-operator",
+      "market": "San Antonio, USA",
+      "title": "Short-term rental licensing & compliance for an owner with two sites",
+      "summary": "Short-term rental licensing & compliance brought both sites under one way of working and one report.",
+      "results": [
+        {
+          "value": "2",
+          "label": "sites"
+        },
+        {
+          "value": "1",
+          "label": "shared report"
+        },
+        {
+          "value": "3 months",
+          "label": "to a settled routine"
+        }
+      ],
+      "href": "/short-term-rental-licensing-compliance/",
+      "pages": [
+        "/short-term-rental-licensing-compliance/"
+      ]
+    }
+  ],
+  "history": [],
+  "terms": {
+    "columns": [
+      "Term",
+      "Details"
+    ],
+    "rows": []
+  },
+  "trade": "service",
+  "clientsFor": "Staylumen",
+  "team": [
+    {
+      "name": "Erin Navarro",
+      "role": "Founder",
+      "years": 18,
+      "bio": "Runs the company and agrees the scope of the work with each new owner.",
+      "reviews": [
+        "place",
+        "location"
+      ]
+    },
+    {
+      "name": "Claire Carver",
+      "role": "Revenue manager",
+      "years": 12,
+      "bio": "Sets the rates and watches the booking pace for the properties we work for.",
+      "blogAuthor": true,
+      "reviews": [
+        "solution",
+        "service",
+        "product_manufacturer",
+        "product_wholesale"
+      ]
+    },
+    {
+      "name": "Hannah Thorne",
+      "role": "Account lead",
+      "years": 9,
+      "bio": "The owner's day-to-day contact: the weekly report, questions and changes to the plan."
+    }
+  ],
+  "privacy": {
+    "source": "site-factory",
+    "placeholder": true
+  }
+}

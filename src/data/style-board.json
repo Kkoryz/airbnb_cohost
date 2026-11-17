@@ -1,0 +1,2352 @@
+{
+  "schemaVersion": "seo-site-style-board-v1",
+  "route": "/style-board/",
+  "modules": [
+    {
+      "key": "intro:text",
+      "type": "intro",
+      "variant": "text",
+      "uses": 24,
+      "names": [
+        "intro/proof"
+      ],
+      "evidence": [
+        {
+          "pageType": "about",
+          "index": 4,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "about",
+          "index": 6,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "about",
+          "index": 10,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "contact",
+          "index": 3,
+          "module": "intro/proof",
+          "gap": "icon-links"
+        },
+        {
+          "pageType": "contact",
+          "index": 5,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "home",
+          "index": 4,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "place",
+          "index": 2,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "place",
+          "index": 3,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "place",
+          "index": 4,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "place",
+          "index": 5,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "place",
+          "index": 11,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "place",
+          "index": 13,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "place",
+          "index": 15,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "solution",
+          "index": 3,
+          "module": "intro/proof",
+          "gap": "layout"
+        },
+        {
+          "pageType": "solution",
+          "index": 4,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "solution",
+          "index": 5,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "solution",
+          "index": 6,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "solution",
+          "index": 13,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "solution",
+          "index": 21,
+          "module": "intro/proof"
+        }
+      ],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/request-a-quote/",
+          "pageType": "general",
+          "blockId": "overview",
+          "splitIndex": 0,
+          "words": 104,
+          "slots": 0,
+          "block": {
+            "id": "overview",
+            "type": "intro",
+            "sourceSectionIds": [
+              "overview"
+            ],
+            "heading": "What to Share About Your Property and Its Results",
+            "paragraphs": [
+              "When you ask for a rental property management quote, send us the city and state, the property type, how many bedrooms and bathrooms it has and how many guests it sleeps. If it's already listed, add your Airbnb, Vrbo or Booking.com listing links and roughly the last 12 months of occupancy and nightly rates. Let us know whether you own the property or are authorized to manage it, whether your area requires a short-term rental permit or registration and whether you hold one, and whether you have a cleaning or maintenance team we'd work with."
+            ],
+            "wordCount": 95
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/san-diego/",
+          "pageType": "general",
+          "blockId": "m12",
+          "splitIndex": 0,
+          "words": 38,
+          "slots": 0,
+          "block": {
+            "id": "m12",
+            "type": "intro",
+            "sourceSectionIds": [
+              "m12"
+            ],
+            "heading": "Talk With Us About Your San Diego Rental",
+            "paragraphs": [
+              "Qualifying owners get a [free, no-obligation 30-minute discovery call](/contact-us/). On that call, we prepare a revenue projection based on local listings matched to your bedrooms, guest capacity and key amenities."
+            ],
+            "wordCount": 30,
+            "variant": "text"
+          }
+        }
+      ]
+    },
+    {
+      "key": "gallery:band",
+      "type": "gallery",
+      "variant": "band",
+      "uses": 7,
+      "names": [
+        "gallery:band",
+        "figure"
+      ],
+      "evidence": [],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/",
+          "pageType": "home",
+          "blockId": "media-module-budget-6",
+          "splitIndex": 0,
+          "words": 0,
+          "slots": 1,
+          "block": {
+            "id": "media-module-budget-6",
+            "type": "gallery",
+            "variant": "band",
+            "items": [
+              {
+                "media": null
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "featureGrid:icons",
+      "type": "featureGrid",
+      "variant": "icons",
+      "uses": 4,
+      "names": [
+        "featureGrid:icons"
+      ],
+      "evidence": [
+        {
+          "pageType": "home",
+          "index": 3,
+          "module": "featureGrid:icons"
+        }
+      ],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/",
+          "pageType": "home",
+          "blockId": "m2-2",
+          "splitIndex": 0,
+          "words": 86,
+          "slots": 0,
+          "block": {
+            "id": "m2-2",
+            "type": "featureGrid",
+            "sourceSectionIds": [
+              "m2"
+            ],
+            "continues": "m2",
+            "items": [
+              {
+                "heading": "Our eligibility review",
+                "paragraphs": [
+                  "Before we accept your listing, we check the local short-term rental rules, including permit and licensed-manager requirements, and assess its revenue potential."
+                ]
+              },
+              {
+                "heading": "Local revenue evidence",
+                "paragraphs": [
+                  "To judge your property's revenue outlook, we look at nightly rates, occupancy and seasonality for comparable local listings over the past 12 months."
+                ]
+              },
+              {
+                "heading": "Experienced owner support",
+                "paragraphs": [
+                  "Our [online-only team](/about-us/) has more than 10 years of hosting experience and manages over 110 properties. We work directly with owners and hosts, and we don't sell or book stays for guests."
+                ],
+                "placeholder": true
+              }
+            ],
+            "variant": "icons",
+            "mediaKind": "lifestyle"
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/",
+          "pageType": "home",
+          "blockId": "m7",
+          "splitIndex": 0,
+          "words": 75,
+          "slots": 0,
+          "block": {
+            "id": "m7",
+            "type": "featureGrid",
+            "sourceSectionIds": [
+              "m7"
+            ],
+            "heading": "Homes We Manage, From Studios to Estates",
+            "items": [
+              {
+                "heading": "Studios through villas",
+                "paragraphs": [
+                  "We manage everything from unique studios to luxury villas, including homes with swimming pools, hot tubs, pool tables, game rooms and movie theaters."
+                ]
+              },
+              {
+                "heading": "Amenity-specific checks",
+                "paragraphs": [
+                  "We shape your operating plan around your property and add pool, hot tub and game-room checks to every turnover checklist."
+                ]
+              },
+              {
+                "heading": "Luxury estate care",
+                "paragraphs": [
+                  "For luxury estates, we vet guests stringently, and partner crews carry out preventative maintenance at the property."
+                ]
+              }
+            ],
+            "variant": "icons",
+            "mediaKind": "process"
+          }
+        }
+      ]
+    },
+    {
+      "key": "table:grid",
+      "type": "table",
+      "variant": "grid",
+      "uses": 3,
+      "names": [
+        "table:grid"
+      ],
+      "evidence": [],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/airbnb-booking-management/",
+          "pageType": "solution",
+          "blockId": "m6",
+          "splitIndex": 0,
+          "words": 308,
+          "slots": 0,
+          "block": {
+            "id": "m6",
+            "type": "table",
+            "sourceSectionIds": [
+              "m6"
+            ],
+            "heading": "Booking Management Only or Full Management: What's Included",
+            "columns": [
+              "Area",
+              "What you get or keep"
+            ],
+            "rows": [
+              [
+                "Booking management fit",
+                "Booking management only is the right fit when you live close by and already have cleaners and maintenance people you can rely on."
+              ],
+              [
+                "Booking management scope",
+                "We handle inquiries, guest screening, reservations, guest messages and reviews inside your own platform accounts. Master calendar management and dynamic pricing are optional services you choose one by one, and adding dynamic pricing means giving us the access to change your rates."
+              ],
+              [
+                "What stays with you",
+                "You arrange and pay for cleaning and maintenance. You also look after key handover, restocking, damage follow-up and on-site help when a guest has an urgent problem, and you set your own rates if you don't choose dynamic pricing."
+              ],
+              [
+                "Full management",
+                "If you want the property to run without you being involved day to day, full management adds pricing, calendar control, listing optimization, damage claims, and permit and tax support. It also covers coordinating local partners for cleaning, key handover and maintenance."
+              ],
+              [
+                "Fees and transition",
+                "Your existing bookings stay in place with any of our [management options and onboarding](/). Full management costs 10% of rental revenue plus USD 100 a month in software fees per listing. We invoice it with your monthly statement, and you pay within 7 days by ACH or card. Reservations-only services are chosen à la carte, including master calendar management at USD 50 per listing per month and dynamic pricing at USD 75 per listing per month. These are billed monthly in advance, with no 10% management fee and no monthly software fee."
+              ],
+              [
+                "Dynamic pricing",
+                "With [Dynamic Pricing](/dynamic-pricing/), we check and adjust your nightly rates by hand in your accounts at least once a day. We base each change on local demand data for the next 180 days, market comparisons and your listing's booking trends."
+              ]
+            ],
+            "mediaKind": "product"
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/resources/",
+          "pageType": "general",
+          "blockId": "m2",
+          "splitIndex": 0,
+          "words": 213,
+          "slots": 0,
+          "block": {
+            "id": "m2",
+            "type": "table",
+            "sourceSectionIds": [
+              "m2"
+            ],
+            "heading": "How to Get Each Resource & When It Helps",
+            "paragraphs": [
+              "Don't read everything at once. Pick up each resource at the stage it's built for and put it to work right away on a real decision or task."
+            ],
+            "columns": [
+              "Resource or option",
+              "How to get it or when it helps"
+            ],
+            "rows": [
+              [
+                "All resources",
+                "Request any resource through our enquiry form, and we'll email you the files within one business day."
+              ],
+              [
+                "Rules guide",
+                "Use it before you buy or list a property."
+              ],
+              [
+                "Launch checklist and co-host access guide",
+                "Use both in the 2 weeks before you go live."
+              ],
+              [
+                "Messaging templates",
+                "Use them from your first booking on."
+              ],
+              [
+                "Turnover checklist",
+                "Use it any time you brief a new local cleaning or maintenance partner or switch to a different one."
+              ],
+              [
+                "Checklist timing",
+                "If you read a checklist months ahead, you'll have forgotten it or it will be out of date by the time you need it."
+              ],
+              [
+                "Editable versions",
+                "When you adapt a document, you get a copy that fits your property, and you have to add our later revisions to it yourself."
+              ],
+              [
+                "Licensing and compliance support",
+                "Our [Short-Term Rental Licensing & Compliance service](/short-term-rental-licensing-compliance/) points you to resources for checking two things: whether a home you own or are thinking of buying can be rented short-term, and which regulations apply to it."
+              ]
+            ],
+            "mediaKind": "process"
+          }
+        }
+      ]
+    },
+    {
+      "key": "featureGrid:bullets",
+      "type": "featureGrid",
+      "variant": "bullets",
+      "uses": 11,
+      "names": [
+        "featureGrid:bullets"
+      ],
+      "evidence": [
+        {
+          "pageType": "about",
+          "index": 12,
+          "module": "featureGrid:bullets"
+        },
+        {
+          "pageType": "about",
+          "index": 13,
+          "module": "featureGrid:bullets"
+        },
+        {
+          "pageType": "about",
+          "index": 14,
+          "module": "featureGrid:bullets"
+        },
+        {
+          "pageType": "about",
+          "index": 15,
+          "module": "featureGrid:bullets"
+        },
+        {
+          "pageType": "about",
+          "index": 16,
+          "module": "featureGrid:bullets"
+        }
+      ],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/dynamic-pricing/",
+          "pageType": "solution",
+          "blockId": "featureGrid-1",
+          "splitIndex": 0,
+          "words": 360,
+          "slots": 0,
+          "block": {
+            "id": "featureGrid-1",
+            "type": "featureGrid",
+            "sourceSectionIds": [
+              "overview_2"
+            ],
+            "heading": "A Managed Pricing Service, Not Software to Run Yourself",
+            "items": [
+              {
+                "heading": "Tools with human oversight",
+                "paragraphs": [
+                  "We check the tool's recommendations against your booking history and our market subscriptions. These cover comparable rates, occupancy and booking pace across Airbnb, Vrbo and Booking.com, along with event and holiday calendars that look 180 days ahead."
+                ]
+              },
+              {
+                "heading": "Listing optimization",
+                "paragraphs": [
+                  "If your occupancy is low, [Airbnb Listing Optimization & SEO](/airbnb-listing-optimization-seo/) delivers measurable ranking gains for most listings within 2–4 weeks and full optimization within 30 to 90 days. We measure this by comparing the 12 months before handover with the 12 months after, or with the shorter period that has passed."
+                ],
+                "placeholder": true
+              },
+              {
+                "heading": "Meet our team",
+                "paragraphs": [
+                  "On your discovery call, our [remote management team](/about-us/) shares its current listing count and its results with comparable properties."
+                ]
+              },
+              {
+                "heading": "Co-hosting and reservations",
+                "paragraphs": [
+                  "[Airbnb Co-Hosting](/airbnb-co-hosting/) starts by optimizing your existing listings and then moves into ongoing management. [Airbnb Booking Management](/airbnb-booking-management/) handles your calendar and reservations, and you can add owner stays and personal blocks on any dates that don't overlap existing bookings."
+                ]
+              },
+              {
+                "heading": "Management options",
+                "paragraphs": [
+                  "[Full management](/) costs 10% of rental revenue plus USD 100 per listing per month, payable within 7 days by ACH or card. Reservations-only calendar management costs USD 50 per listing per month and dynamic pricing costs USD 75 per listing per month. Both are billed monthly upfront, with no management or software fees."
+                ],
+                "placeholder": true
+              },
+              {
+                "heading": "Property improvements",
+                "paragraphs": [
+                  "Through [Airbnb Design & Furnishing](/airbnb-design-furnishing/), we recommend décor and amenity improvements based on what guests want, including pools, hot tubs and experience-driven spaces. When your project requires them, we source certified designers, architects and licensed contractors."
+                ]
+              },
+              {
+                "heading": "Revenue estimates",
+                "paragraphs": [
+                  "Your [revenue projection](/request-a-quote/) is based on local comparables' past 12 months. It shows estimated gross revenue and your net payout after platform fees, our 10% fee and the monthly software fee, and it leaves out cleaning fees, taxes and deposits. It's an estimate, not a guarantee of earnings."
+                ],
+                "placeholder": true
+              },
+              {
+                "heading": "Access and privacy",
+                "paragraphs": [
+                  "Under our [privacy policy](/privacy-policy/), you control our team's access, and that access works without your password. We use your data only to manage your listing and never for marketing. When the engagement ends, we remove our access within 1 business day and delete any copies within 30 days."
+                ],
+                "placeholder": true
+              }
+            ],
+            "variant": "bullets",
+            "mediaKind": "process",
+            "planned": true
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/vacation-rental-cleaning/",
+          "pageType": "solution",
+          "blockId": "m3",
+          "splitIndex": 0,
+          "words": 58,
+          "slots": 0,
+          "block": {
+            "id": "m3",
+            "type": "featureGrid",
+            "sourceSectionIds": [
+              "m3"
+            ],
+            "heading": "Bedroom Linen Changes and Guest Staging",
+            "items": [
+              {
+                "heading": "Fresh bedroom linen",
+                "paragraphs": [
+                  "Our partners strip the dirty linens and towels, wash them and make up the beds with fresh linen for your next guests."
+                ]
+              },
+              {
+                "heading": "Guest-ready staging",
+                "paragraphs": [
+                  "Our partners restock guest essentials and set up your unit to your written specifications. Reference photos help them match the home shown in your listing."
+                ]
+              }
+            ],
+            "variant": "bullets",
+            "mediaKind": "process",
+            "planned": true
+          }
+        }
+      ]
+    },
+    {
+      "key": "iconList:icons",
+      "type": "iconList",
+      "variant": "icons",
+      "uses": 2,
+      "names": [
+        "iconList:icons"
+      ],
+      "evidence": [],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/",
+          "pageType": "home",
+          "blockId": "iconList-1",
+          "splitIndex": 0,
+          "words": 118,
+          "slots": 0,
+          "block": {
+            "id": "iconList-1",
+            "type": "iconList",
+            "sourceSectionIds": [
+              "m5_2"
+            ],
+            "heading": "A Seamless Handover Without Lost Bookings",
+            "items": [
+              {
+                "heading": "Listings stay live",
+                "text": "During the handover, we join your existing listings as co-host, and they stay live throughout the transition."
+              },
+              {
+                "heading": "Existing bookings continue",
+                "text": "Our structured onboarding moves your calendars, pricing and listing data across without disrupting reservations you already have or breaking booking continuity."
+              },
+              {
+                "heading": "Guest conversations continue",
+                "text": "We pick up conversations already under way with no gap in messaging, which protects your reviews, response times and platform performance."
+              },
+              {
+                "heading": "Controlled account access",
+                "text": "Under our [privacy arrangements](/privacy-policy/), our team uses password-free access that you can revoke. Data is restricted to management and never shared for marketing. Access is removed within 1 business day after the engagement ends, and copies are deleted within 30 days.",
+                "placeholder": true
+              }
+            ],
+            "mediaKind": "process"
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/",
+          "pageType": "home",
+          "blockId": "m4",
+          "splitIndex": 0,
+          "words": 112,
+          "slots": 0,
+          "block": {
+            "id": "m4",
+            "type": "iconList",
+            "sourceSectionIds": [
+              "m4"
+            ],
+            "heading": "Your Home, Cared For by Local Partners",
+            "items": [
+              {
+                "heading": "Coordinated local work",
+                "text": "We arrange independent local partner companies for cleaning, key handover and maintenance. None of our own staff work at your property."
+              },
+              {
+                "heading": "Your existing team",
+                "text": "If your on-site team is reliable and available for same-day turnovers, we keep them on. If not, we arrange a vetted local partner."
+              },
+              {
+                "heading": "Vacation Rental Cleaning",
+                "text": "Through our [Vacation Rental Cleaning](/vacation-rental-cleaning/) service, we coordinate hotel-standard cleaning and sanitizing before and after stays, along with fresh linen, restocking and inspections between guests."
+              },
+              {
+                "heading": "Airbnb Property Maintenance",
+                "text": "Through our [Airbnb Property Maintenance](/airbnb-property-maintenance/) service, we coordinate routine upkeep and on-call repairs with local vendors, including pools, hot tubs, lawns and outdoor areas."
+              }
+            ],
+            "mediaKind": "process"
+          }
+        }
+      ]
+    },
+    {
+      "key": "splitMedia:single",
+      "type": "splitMedia",
+      "variant": "single",
+      "uses": 37,
+      "names": [
+        "splitMedia:single"
+      ],
+      "evidence": [
+        {
+          "pageType": "about",
+          "index": 2,
+          "module": "splitMedia:single"
+        },
+        {
+          "pageType": "about",
+          "index": 8,
+          "module": "splitMedia:single"
+        },
+        {
+          "pageType": "about",
+          "index": 9,
+          "module": "splitMedia:single"
+        },
+        {
+          "pageType": "about",
+          "index": 17,
+          "module": "splitMedia:single"
+        },
+        {
+          "pageType": "home",
+          "index": 5,
+          "module": "splitMedia:single"
+        },
+        {
+          "pageType": "solution",
+          "index": 14,
+          "module": "splitMedia:single"
+        }
+      ],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/san-diego/",
+          "pageType": "general",
+          "blockId": "m7",
+          "splitIndex": 2,
+          "words": 157,
+          "slots": 1,
+          "block": {
+            "id": "m7",
+            "type": "splitMedia",
+            "sourceSectionIds": [
+              "m7"
+            ],
+            "heading": "Common Challenges San Diego Owners Face and How We Handle Them",
+            "paragraphs": [
+              "During peak weeks, back-to-back turnovers leave no slack, so we book cleaning crews before the rush, and local partners clean and walk through your property after every stay. Those routine checks cover outdoor fixtures exposed to salt air, because corrosion caught late turns a small problem into a larger repair and a poor review. We approve any repair up to USD 300 per job without asking you.",
+              "Beach and downtown properties compete in a crowded field, so we adjust your rates up to 3 times a day against nearby listings. Strict noise and neighbor rules also shape how you host, so we set quiet hours and guest limits in your house rules.",
+              "One more rule shapes your calendar: as of November 2026, San Diego's [STRO Ordinance](https://www.sandiego.gov/treasurer/short-term-residential-occupancy) doesn't allow renting for 21 to 89 days a year, so we keep your calendar below or above that range."
+            ],
+            "wordCount": 146,
+            "media": null,
+            "mediaKind": "process",
+            "visuals": [
+              {
+                "id": "m7-ranges",
+                "type": "data",
+                "purpose": "Shows the range of rental days per year that is not permitted in the city of San Diego.",
+                "data": {
+                  "shape": "ranges",
+                  "items": [
+                    {
+                      "label": "Rental days not permitted",
+                      "min": 21,
+                      "max": 89,
+                      "unit": "days per year"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "brief-m7-1",
+                "type": "photo",
+                "content": "An independent local maintenance partner in plain, unmarked clothing examines salt corrosion on a patio gate latch during a between-stay inspection at a homeowner's coastal rental.",
+                "setting": "San Diego rental's coastal patio",
+                "caption": "Local partners check coastal wear between stays."
+              }
+            ]
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/case-studies/",
+          "pageType": "general",
+          "blockId": "related",
+          "splitIndex": 0,
+          "words": 16,
+          "slots": 1,
+          "block": {
+            "id": "related",
+            "type": "splitMedia",
+            "sourceSectionIds": [
+              "related"
+            ],
+            "heading": "More Resources for Vacation Rental Owners",
+            "paragraphs": [
+              "Our [sign-up and onboarding FAQ](/faq/) walks you through the timetable."
+            ],
+            "wordCount": 10,
+            "media": null,
+            "mediaKind": "process",
+            "visuals": [
+              {
+                "id": "brief-related-1",
+                "type": "photo",
+                "content": "A rental homeowner seated at her kitchen table consults an open laptop while marking a date on a paper calendar, with the screen facing away and all calendar details out of focus.",
+                "setting": "Homeowner’s kitchen",
+                "caption": "Planning your rental’s onboarding timeline."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "process:list",
+      "type": "process",
+      "variant": "list",
+      "uses": 27,
+      "names": [
+        "process:list"
+      ],
+      "evidence": [],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/airbnb-design-furnishing/",
+          "pageType": "solution",
+          "blockId": "m4",
+          "splitIndex": 0,
+          "words": 220,
+          "slots": 0,
+          "block": {
+            "id": "m4",
+            "type": "process",
+            "sourceSectionIds": [
+              "m4"
+            ],
+            "heading": "White Glove Delivery, Assembly and Final Walkthrough",
+            "steps": [
+              {
+                "heading": "Source and deliver",
+                "text": "Our white glove service takes care of sourcing, shipping and delivering all furniture and amenities to your home. Furniture usually arrives within 2-3 weeks; we chase any supplier delay and tell you."
+              },
+              {
+                "heading": "Inspect and assemble",
+                "text": "When items arrive, our delivery partners inspect every one and photograph any damage. Then they assemble everything and clean up afterwards."
+              },
+              {
+                "heading": "Resolve supplier claims",
+                "text": "We handle returns, replacements and warranty claims, including defects that show up after installation within the supplier’s warranty period. The purchases, warranties and refunds stay yours, and we send you the claim records within 2 business days of filing."
+              },
+              {
+                "heading": "Test the home",
+                "text": "Once assembly is done, our local partner tests every item against the itemized list you approved, including lock codes, Wi-Fi, TVs, appliances and alarms."
+              },
+              {
+                "heading": "Report and accept",
+                "text": "Within 2 business days of the walkthrough, we send you dated photos of every room, the checked-off item list and the open issues with their fix dates. You accept the home once those issues are closed."
+              },
+              {
+                "heading": "Open your calendar",
+                "text": "You open your calendar after the walkthrough, once the issues are closed. Waiting means your first booking comes later than if you opened on delivery. But missing items, dead TVs and faulty codes lead to early reviews, and those hurt new listings most."
+              }
+            ],
+            "mediaKind": "process"
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/airbnb-co-hosting/",
+          "pageType": "solution",
+          "blockId": "faq-steps",
+          "splitIndex": 0,
+          "words": 57,
+          "slots": 0,
+          "block": {
+            "id": "faq-steps",
+            "type": "process",
+            "heading": "How co-hosting gets started.",
+            "steps": [
+              {
+                "heading": "Sign up",
+                "text": "Signing up takes less than 15 minutes."
+              },
+              {
+                "heading": "Add us as co-host",
+                "text": "You add us through Airbnb's co-host feature, so you never share your password."
+              },
+              {
+                "heading": "Audit your listing",
+                "text": "We audit your existing listing."
+              },
+              {
+                "heading": "Agree a strategy",
+                "text": "We agree a strategy with you."
+              },
+              {
+                "heading": "Go live",
+                "text": "Most homes are live within 7–14 days."
+              }
+            ],
+            "variant": "list",
+            "continues": "faq"
+          }
+        }
+      ]
+    },
+    {
+      "key": "testimonials:carousel",
+      "type": "testimonials",
+      "variant": "carousel",
+      "uses": 5,
+      "names": [
+        "owner:testimonials",
+        "testimonials:carousel"
+      ],
+      "evidence": [
+        {
+          "pageType": "place",
+          "index": 9,
+          "module": "owner:testimonials",
+          "gap": "carousel"
+        },
+        {
+          "pageType": "solution",
+          "index": 12,
+          "module": "owner:testimonials",
+          "gap": "layout"
+        }
+      ],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/",
+          "pageType": "home",
+          "blockId": "owner-testimonials",
+          "splitIndex": 0,
+          "words": 153,
+          "slots": 3,
+          "block": {
+            "id": "owner-testimonials",
+            "type": "testimonials",
+            "heading": "What clients say",
+            "items": [
+              {
+                "quote": "Before anything was ordered, the team studied the rentals around our 3-bedroom house and built a furnishing plan around what guests nearby actually book, and they still left every final décor call to us. Now that they run the listing straight from our own Airbnb account, managing the place from a distance finally feels easy.",
+                "author": "Short-term rental owner, real estate investment, Arizona, United States",
+                "placeholder": true
+              },
+              {
+                "quote": "Once our home was ready for guests, the team had the listing rewritten, reshot and live in under 10 days, with a keyword-rich description that actually shows up in search. It felt like we finally had people in our corner who knew exactly what to do.",
+                "author": "Retired School Administrator, Education, Arizona",
+                "placeholder": true
+              },
+              {
+                "quote": "They tell us exactly what they're changing on our pricing and why, and no question is ever too small for them. We always feel in the loop. Highly recommend!",
+                "author": "Property Owner, Vacation Rentals, Arizona, USA",
+                "placeholder": true
+              }
+            ]
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/airbnb-design-furnishing/",
+          "pageType": "solution",
+          "blockId": "owner-testimonials",
+          "splitIndex": 0,
+          "words": 67,
+          "slots": 1,
+          "block": {
+            "id": "owner-testimonials",
+            "type": "testimonials",
+            "heading": "What clients say",
+            "items": [
+              {
+                "quote": "Before anything was ordered, the team studied the rentals around our 3-bedroom house and built a furnishing plan around what guests nearby actually book, and they still left every final décor call to us. Now that they run the listing straight from our own Airbnb account, managing the place from a distance finally feels easy.",
+                "author": "Short-term rental owner, real estate investment, Arizona, United States",
+                "placeholder": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "logos:grid",
+      "type": "logos",
+      "variant": "grid",
+      "uses": 2,
+      "names": [
+        "owner:logos",
+        "logos:grid"
+      ],
+      "evidence": [
+        {
+          "pageType": "about",
+          "index": 3,
+          "module": "owner:logos"
+        },
+        {
+          "pageType": "home",
+          "index": 9,
+          "module": "owner:logos",
+          "gap": "layout"
+        }
+      ],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/",
+          "pageType": "home",
+          "blockId": "owner-logos",
+          "splitIndex": 0,
+          "words": 36,
+          "slots": 0,
+          "block": {
+            "id": "owner-logos",
+            "type": "logos",
+            "heading": "Clients we work with",
+            "items": [
+              {
+                "name": "Bayline Hospitality",
+                "note": "Florida, USA"
+              },
+              {
+                "name": "Maple Crest Partners",
+                "note": "Tennessee, USA"
+              },
+              {
+                "name": "Willow Bend Hotel Group",
+                "note": "Oregon, USA"
+              },
+              {
+                "name": "Quail Hollow Ventures",
+                "note": "Ohio, USA"
+              },
+              {
+                "name": "Red Barn Hospitality Partners",
+                "note": "Arizona, USA"
+              },
+              {
+                "name": "Eagle Rock Owners Group",
+                "note": "Minnesota, USA"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "relatedPages:links",
+      "type": "relatedPages",
+      "variant": "links",
+      "uses": 17,
+      "names": [
+        "relatedPages:links"
+      ],
+      "evidence": [
+        {
+          "pageType": "place",
+          "index": 6,
+          "module": "relatedPages:links"
+        },
+        {
+          "pageType": "place",
+          "index": 7,
+          "module": "relatedPages:links"
+        },
+        {
+          "pageType": "place",
+          "index": 8,
+          "module": "relatedPages:links",
+          "gap": "layout"
+        },
+        {
+          "pageType": "solution",
+          "index": 15,
+          "module": "relatedPages:links",
+          "gap": "layout"
+        }
+      ],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/airbnb-design-furnishing/",
+          "pageType": "solution",
+          "blockId": "related",
+          "splitIndex": 0,
+          "words": 19,
+          "slots": 0,
+          "block": {
+            "id": "related",
+            "type": "relatedPages",
+            "heading": "Related services",
+            "links": [
+              {
+                "label": "Vacation Rental Cleaning",
+                "href": "/vacation-rental-cleaning/"
+              },
+              {
+                "label": "Airbnb Co-Hosting",
+                "href": "/airbnb-co-hosting/"
+              },
+              {
+                "label": "Dynamic Pricing",
+                "href": "/dynamic-pricing/"
+              },
+              {
+                "label": "Airbnb Booking Management",
+                "href": "/airbnb-booking-management/"
+              },
+              {
+                "label": "Airbnb Property Maintenance",
+                "href": "/airbnb-property-maintenance/"
+              },
+              {
+                "label": "Short-Term Rental Licensing & Compliance",
+                "href": "/short-term-rental-licensing-compliance/"
+              }
+            ],
+            "variant": "tiles"
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/terms-and-conditions/",
+          "pageType": "privacy",
+          "blockId": "related-2",
+          "splitIndex": 0,
+          "words": 4,
+          "slots": 0,
+          "block": {
+            "id": "related-2",
+            "type": "relatedPages",
+            "heading": "Related services",
+            "links": [
+              {
+                "label": "Privacy Policy",
+                "href": "/privacy-policy/"
+              }
+            ],
+            "variant": "tiles"
+          }
+        }
+      ]
+    },
+    {
+      "key": "faq:accordion",
+      "type": "faq",
+      "variant": "accordion",
+      "uses": 18,
+      "names": [
+        "faq:accordion"
+      ],
+      "evidence": [
+        {
+          "pageType": "place",
+          "index": 17,
+          "module": "faq:accordion"
+        },
+        {
+          "pageType": "solution",
+          "index": 20,
+          "module": "faq:accordion"
+        }
+      ],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/vacation-rental-cleaning/",
+          "pageType": "solution",
+          "blockId": "faq",
+          "splitIndex": 0,
+          "words": 626,
+          "slots": 0,
+          "block": {
+            "id": "faq",
+            "type": "faq",
+            "sourceSectionIds": [
+              "faq"
+            ],
+            "heading": "Frequently Asked Questions",
+            "items": [
+              {
+                "question": "Can I engage you just to coordinate turnover cleaning while keeping listing management and guest communication with my current team?",
+                "answer": "Yes. You can hire us just to coordinate turnover cleaning, and your current team keeps handling listing management and guest communication. We take care of all contact with local cleaning partners and pass on the schedules from your booking calendar along with your special requests."
+              },
+              {
+                "question": "How much should I charge for Airbnb cleaning?",
+                "answer": "Under full management, we propose a guest cleaning fee that covers the partner's turnover invoice, including laundry and restocking. We compare it with similar listings nearby so the guest's total stays competitive. The fee goes live only after you approve it. We review it whenever the partner's rate changes, and at least every 6 months. Cleaning fees come to you with each booking payout and are excluded from the rental revenue we use to calculate our 10% management fee."
+              },
+              {
+                "question": "Can you coordinate turnovers through my existing property-management or cleaning app, or would I need to change systems?",
+                "answer": "No, you don't need to change systems. We connect cleaning assignments to most major property-management platforms through a direct calendar link or your channel manager. If your cleaning app offers team or partner access, we work inside it. If it doesn't, we sync turnovers from your platform calendars."
+              },
+              {
+                "question": "If a guest reports a missed cleaning task at arrival, how quickly can your partners return to correct it?",
+                "answer": "The cleaning partner comes back within 6–24 hours to redo the missed area, at no extra cost to you. If that partner can't return within that window, we send a different local partner to make the correction."
+              },
+              {
+                "question": "Which conditions, such as severe smoke residue, bodily fluids or pest contamination, are outside turnover-cleaning scope and require specialist treatment?",
+                "answer": "Turnover cleaning doesn't cover severe smoke residue, blood or other bodily fluids beyond normal bathroom use, pest infestations, animal waste beyond routine pet hair, or any repair and restoration work. When our cleaning partners find any of these conditions, they photograph them. We then arrange a separate assessment by a licensed specialist, such as a biohazard, odor-remediation or pest-control company, and the specialist invoices you directly."
+              },
+              {
+                "question": "How do cleaners distinguish forgotten belongings from trash, and who handles storage and return of items found during a turnover?",
+                "answer": "Our cleaning partners throw away only items that are clearly disposable, such as food leftovers, empty packaging and used toiletries. Anything that could have value, including clothing, chargers, documents and jewelry, gets photographed, bagged, labeled and kept as a found item. The partner stores it securely for 30 days. We contact the guest through the booking platform within 24 hours, and if they want the item back, we arrange shipping at their cost."
+              },
+              {
+                "question": "Can you handle laundry for a smaller property with no washer or dryer, or when its machines break down?",
+                "answer": "Yes. When your property has no washer or dryer, we arrange for a local laundry partner to collect the used linens and bring back clean sets. For this off-site laundry service, you keep 3 full sets of linens and towels for each bed and bathroom. If your machines break down, we move that turnover to off-site laundry the same day and arrange the appliance repair through our maintenance partners."
+              },
+              {
+                "question": "What checkout-to-check-in window do you require for my property, including days when several of my units turn over at once?",
+                "answer": "We need at least 4 hours between checkout and check-in for homes with up to 3 bedrooms, and 5 hours for larger homes. A standard 11 a.m. checkout with a 4 p.m. check-in meets both. When several of your units turn over on the same day, each unit gets its own partner crew, so the same window applies to every property."
+              }
+            ],
+            "variant": "accordion",
+            "visuals": [
+              {
+                "id": "turnover_window_amounts",
+                "type": "data",
+                "purpose": "Shows the minimum gap between checkout and check-in that we need for each home size.",
+                "caption": "Minimum checkout-to-check-in window by home size.",
+                "data": {
+                  "shape": "amounts",
+                  "items": [
+                    {
+                      "label": "Up to 3 bedrooms",
+                      "value": 4,
+                      "unit": "hours"
+                    },
+                    {
+                      "label": "Larger homes",
+                      "value": 5,
+                      "unit": "hours"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/san-diego/",
+          "pageType": "general",
+          "blockId": "faq",
+          "splitIndex": 0,
+          "words": 177,
+          "slots": 0,
+          "block": {
+            "id": "faq",
+            "type": "faq",
+            "sourceSectionIds": [
+              "faq"
+            ],
+            "heading": "Frequently Asked Questions",
+            "items": [
+              {
+                "question": "If I sell my San Diego home, does my short-term rental license go to the buyer, or does the new owner have to apply again?",
+                "answer": "Your license doesn’t pass to the buyer; the new owner has to apply for their own. As of November 2026, San Diego short-term rental licenses [can’t be transferred between owners or between properties](https://www.sandiego.gov/treasurer/short-term-residential-occupancy). When a buyer’s purchase depends on short-term rental income, we advise them to plan their own licensing path from the start instead of relying on the seller’s license."
+              },
+              {
+                "question": "Could I rent to traveling nurses or Navy families for 30 days or more instead of nightly guests, and would the same city rules apply?",
+                "answer": "A stay of a full month or longer doesn’t need a San Diego STRO license. As of November 2026, the [STRO licensing rules](https://www.sandiego.gov/treasurer/short-term-residential-occupancy) cover stays of under one month. We treat stays of a full month or longer as a separate option with different licensing requirements, and we go by the full-month threshold rather than counting every 30-day stay as the same thing."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "cta:image-band",
+      "type": "cta",
+      "variant": "image-band",
+      "uses": 1,
+      "names": [
+        "cta:image-band"
+      ],
+      "evidence": [
+        {
+          "pageType": "home",
+          "index": 8,
+          "module": "cta:image-band",
+          "gap": "layout"
+        }
+      ],
+      "samples": [
+        {
+          "role": "only",
+          "route": "/",
+          "pageType": "home",
+          "blockId": "cta",
+          "splitIndex": 0,
+          "words": 33,
+          "slots": 1,
+          "block": {
+            "id": "cta",
+            "type": "cta",
+            "sourceSectionIds": [
+              "cta"
+            ],
+            "heading": "Send Us Your Enquiry",
+            "paragraphs": [
+              "Send us an enquiry with your property details. We will prepare an earnings estimate and plan, and you will hear back within one business day."
+            ],
+            "cta": {
+              "label": "Talk to our team",
+              "href": "/contact-us/"
+            },
+            "links": [],
+            "variant": "image-band",
+            "visuals": [
+              {
+                "id": "brief-cta-1",
+                "type": "photo",
+                "content": "A property owner stands on the porch of their rental home speaking into a phone, with the open front door and furnished entryway behind them.",
+                "setting": "Rental home porch, medium portrait",
+                "caption": "Tell us about your rental."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "featureGrid:cards",
+      "type": "featureGrid",
+      "variant": "cards",
+      "uses": 29,
+      "names": [
+        "featureGrid:cards"
+      ],
+      "evidence": [
+        {
+          "pageType": "about",
+          "index": 5,
+          "module": "featureGrid:cards"
+        },
+        {
+          "pageType": "place",
+          "index": 14,
+          "module": "featureGrid:cards"
+        },
+        {
+          "pageType": "solution",
+          "index": 11,
+          "module": "featureGrid:cards"
+        }
+      ],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/short-term-rental-licensing-compliance/",
+          "pageType": "solution",
+          "blockId": "m2",
+          "splitIndex": 0,
+          "words": 152,
+          "slots": 0,
+          "block": {
+            "id": "m2",
+            "type": "featureGrid",
+            "sourceSectionIds": [
+              "m2"
+            ],
+            "heading": "The Compliance Team Keeps Your Licenses, Permits and Registrations Current",
+            "items": [
+              {
+                "heading": "Expiry alerts",
+                "paragraphs": [
+                  "Every permit, license and registration expiry date goes into our compliance calendar. We email you 90 days before each deadline, then send reminders at 60 and 30 days that list any missing documents, inspections or fees."
+                ]
+              },
+              {
+                "heading": "Renewal filing",
+                "paragraphs": [
+                  "We prepare and file your renewal forms, help you submit them at least 30 days before expiry, and follow the application until the renewed permit is issued."
+                ]
+              },
+              {
+                "heading": "Documents and access",
+                "paragraphs": [
+                  "You send us your current permit, proof of short-term rental insurance, any ownership or ID documents we ask for, and access to the licensing portal, or a delegate login where the portal offers one."
+                ]
+              },
+              {
+                "heading": "Signatures and fees",
+                "paragraphs": [
+                  "Where an agent is allowed to file, you give us signed authorization. You sign any documents the permit holder must sign personally, attend owner interviews, and pay license and permit fees directly to the authority."
+                ]
+              }
+            ],
+            "variant": "cards",
+            "mediaKind": "process"
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/airbnb-co-hosting/",
+          "pageType": "solution",
+          "blockId": "m5-2",
+          "splitIndex": 0,
+          "words": 54,
+          "slots": 0,
+          "block": {
+            "id": "m5-2",
+            "type": "featureGrid",
+            "sourceSectionIds": [
+              "m5"
+            ],
+            "continues": "m5",
+            "items": [
+              {
+                "heading": "Included software licenses",
+                "paragraphs": [
+                  "Under full management, your stated software fee covers our channel manager, pricing and calendar tools, so you don't buy separate licenses."
+                ]
+              },
+              {
+                "heading": "Direct-booking trade-offs",
+                "paragraphs": [
+                  "Direct bookings avoid channel host fees. In exchange, you pay domain and card-processing costs directly, and you give up the guest-vetting and protection programs that booking platforms offer."
+                ]
+              }
+            ],
+            "variant": "cards",
+            "mediaKind": "product"
+          }
+        }
+      ]
+    },
+    {
+      "key": "iconList:checks",
+      "type": "iconList",
+      "variant": "checks",
+      "uses": 32,
+      "names": [
+        "iconList:checks"
+      ],
+      "evidence": [],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/faq/",
+          "pageType": "general",
+          "blockId": "m4",
+          "splitIndex": 0,
+          "words": 230,
+          "slots": 0,
+          "block": {
+            "id": "m4",
+            "type": "iconList",
+            "sourceSectionIds": [
+              "m4"
+            ],
+            "heading": "What Are Your Contract, Insurance and Cancellation Terms?",
+            "items": [
+              {
+                "heading": "Contract and cancellation",
+                "text": "We work month to month, with no long-term lock-in. You can cancel with 30 days’ notice, and there's no cancellation fee."
+              },
+              {
+                "heading": "Your property insurance",
+                "text": "Before go-live, send us your property insurance policy. It has to explicitly cover short-term rental use with paying guests, and you need to keep it active for as long as we work together."
+              },
+              {
+                "heading": "Homeowner policy exclusions",
+                "text": "If your homeowner policy excludes paying guests, you're exposed from the very first booking, and that policy doesn't meet our insurance requirement."
+              },
+              {
+                "heading": "Insured local partners",
+                "text": "Every cleaning and maintenance partner we arrange has to carry its own insurance. We check that insurance, along with any required trade license, before their first job."
+              },
+              {
+                "heading": "Final management fee",
+                "text": "After your end date, we invoice our 10% fee only on stays that have checked out by that date. Stays that check out later carry no fee from us."
+              },
+              {
+                "heading": "Final software charge",
+                "text": "Your closing charges also include the monthly software fee per listing for the final month."
+              },
+              {
+                "heading": "Final statement payment",
+                "text": "We send your final statement by the 10th of the following month, and payment is due within 7 days by ACH or card."
+              },
+              {
+                "heading": "Taxes on services",
+                "text": "Our quoted management fee and service prices don't include taxes. If your state taxes these fees, we add sales tax as a separate line on your monthly invoice."
+              }
+            ],
+            "mediaKind": "material"
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/airbnb-property-maintenance/",
+          "pageType": "solution",
+          "blockId": "iconList-1",
+          "splitIndex": 0,
+          "words": 54,
+          "slots": 0,
+          "block": {
+            "id": "iconList-1",
+            "type": "iconList",
+            "sourceSectionIds": [
+              "overview_2_2"
+            ],
+            "heading": "Remote Maintenance Coordination and Fees",
+            "items": [
+              {
+                "heading": "Partner invoices",
+                "text": "Local partners bill you directly at their own maintenance rates, and we add no markup."
+              },
+              {
+                "heading": "Coordination fees",
+                "text": "Arranging repairs and following up on them are covered by our 10% remote management fee and our USD 100 monthly software fee per listing. There's no separate charge for coordination.",
+                "placeholder": true
+              }
+            ],
+            "mediaKind": "material"
+          }
+        }
+      ]
+    },
+    {
+      "key": "orderCase:default",
+      "type": "orderCase",
+      "variant": null,
+      "uses": 4,
+      "names": [
+        "orderCase"
+      ],
+      "evidence": [],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/case-studies/",
+          "pageType": "general",
+          "blockId": "cases",
+          "splitIndex": 0,
+          "words": 130,
+          "slots": 0,
+          "block": {
+            "id": "cases",
+            "type": "orderCase",
+            "heading": "Client results",
+            "items": [
+              {
+                "product": "Vacation Rental Cleaning",
+                "text": "For a 3-bedroom vacation home near Orlando, we set up and coordinated a local cleaning partner with a full turnover checklist and laundry routine. The cleanliness rating rose from 4.6 to 4.9, and turnovers ready on time went from 88% to 99%.",
+                "placeholder": true
+              },
+              {
+                "product": "Airbnb Listing Optimization & SEO",
+                "text": "For a 2-bedroom Smoky Mountains cabin, we rewrote the listing, optimized its photos and set up dynamic pricing and guest messaging. Occupancy rose from 52% to 76%, and the average response time fell from 3 hours to 12 minutes.",
+                "placeholder": true
+              },
+              {
+                "product": "Airbnb Design & Furnishing",
+                "text": "For a 2-bedroom Scottsdale condo, we built a furnishing strategy from nearby competitors, planned guest-proof furniture and amenities, and relaunched the listing. Occupancy rose from 48% to 71%, and the average rating went from 4.5 to 4.9.",
+                "placeholder": true
+              }
+            ]
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/airbnb-design-furnishing/",
+          "pageType": "solution",
+          "blockId": "cases",
+          "splitIndex": 0,
+          "words": 42,
+          "slots": 0,
+          "block": {
+            "id": "cases",
+            "type": "orderCase",
+            "heading": "Client results",
+            "items": [
+              {
+                "product": "Airbnb Design & Furnishing",
+                "text": "For a 2-bedroom Scottsdale condo, we built a furnishing strategy from nearby competitors, planned guest-proof furniture and amenities, and relaunched the listing. Occupancy rose from 48% to 71%, and the average rating went from 4.5 to 4.9.",
+                "placeholder": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "cta:band",
+      "type": "cta",
+      "variant": "band",
+      "uses": 8,
+      "names": [
+        "cta:band"
+      ],
+      "evidence": [
+        {
+          "pageType": "place",
+          "index": 10,
+          "module": "cta:band"
+        },
+        {
+          "pageType": "place",
+          "index": 16,
+          "module": "cta:band"
+        },
+        {
+          "pageType": "solution",
+          "index": 8,
+          "module": "cta:band"
+        },
+        {
+          "pageType": "solution",
+          "index": 17,
+          "module": "cta:band"
+        }
+      ],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/airbnb-design-furnishing/",
+          "pageType": "solution",
+          "blockId": "cta",
+          "splitIndex": 0,
+          "words": 45,
+          "slots": 0,
+          "block": {
+            "id": "cta",
+            "type": "cta",
+            "sourceSectionIds": [
+              "cta"
+            ],
+            "heading": "Start Your Airbnb Furnishing Project With Us",
+            "paragraphs": [
+              "Send us an enquiry with your property details, budget and goals. We reply within one business day and send your written quote within 3 business days of receiving the property details."
+            ],
+            "cta": {
+              "label": "Talk to us about airbnb design & furnishing",
+              "href": "/request-a-quote/"
+            },
+            "links": [],
+            "variant": "band"
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/vacation-rental-cleaning/",
+          "pageType": "solution",
+          "blockId": "cta",
+          "splitIndex": 0,
+          "words": 30,
+          "slots": 0,
+          "block": {
+            "id": "cta",
+            "type": "cta",
+            "sourceSectionIds": [
+              "cta"
+            ],
+            "heading": "Ask About Turnover Cleaning for Your Rental",
+            "paragraphs": [
+              "Send us an enquiry about turnover cleaning for your rental. We’ll respond within one business day."
+            ],
+            "cta": {
+              "label": "Talk to us about vacation rental cleaning",
+              "href": "/request-a-quote/"
+            },
+            "links": [],
+            "variant": "band"
+          }
+        }
+      ]
+    },
+    {
+      "key": "gallery:grid",
+      "type": "gallery",
+      "variant": "grid",
+      "uses": 4,
+      "names": [
+        "gallery:grid"
+      ],
+      "evidence": [],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/airbnb-design-furnishing/",
+          "pageType": "solution",
+          "blockId": "media-module-1",
+          "splitIndex": 0,
+          "words": 0,
+          "slots": 4,
+          "block": {
+            "id": "media-module-1",
+            "type": "gallery",
+            "variant": "grid",
+            "items": [
+              {},
+              {},
+              {},
+              {}
+            ],
+            "competitor": true
+          }
+        }
+      ]
+    },
+    {
+      "key": "proof:dark",
+      "type": "proof",
+      "variant": "dark",
+      "uses": 6,
+      "names": [
+        "intro/proof"
+      ],
+      "evidence": [
+        {
+          "pageType": "about",
+          "index": 4,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "about",
+          "index": 6,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "about",
+          "index": 10,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "contact",
+          "index": 3,
+          "module": "intro/proof",
+          "gap": "icon-links"
+        },
+        {
+          "pageType": "contact",
+          "index": 5,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "home",
+          "index": 4,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "place",
+          "index": 2,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "place",
+          "index": 3,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "place",
+          "index": 4,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "place",
+          "index": 5,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "place",
+          "index": 11,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "place",
+          "index": 13,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "place",
+          "index": 15,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "solution",
+          "index": 3,
+          "module": "intro/proof",
+          "gap": "layout"
+        },
+        {
+          "pageType": "solution",
+          "index": 4,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "solution",
+          "index": 5,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "solution",
+          "index": 6,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "solution",
+          "index": 13,
+          "module": "intro/proof"
+        },
+        {
+          "pageType": "solution",
+          "index": 21,
+          "module": "intro/proof"
+        }
+      ],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/nashville/",
+          "pageType": "general",
+          "blockId": "m4",
+          "splitIndex": 0,
+          "words": 76,
+          "slots": 0,
+          "block": {
+            "id": "m4",
+            "type": "proof",
+            "sourceSectionIds": [
+              "m4"
+            ],
+            "heading": "Nashville's Busy Seasons and Big Booking Events",
+            "paragraphs": [
+              "Nashville's [peak leisure season](https://www.nashville.gov/sites/default/files/2026-02/Tourism-and-Convention-Commission-Minutes-120225.pdf?ct=1772139912) runs from March through early November. A [2025 Visit Music City report](https://www.visitmusiccity.com/media/press-release/2025/live-music-drives-surge-nashvilles-summer-tourism) found that on July 4th, short-term rentals earned 30% of Davidson County's $8.38 million in lodging room revenue. We open calendars early, set higher rates and stricter minimum stays for peak and event dates, and adjust rates as those dates approach, because a booking secured at a standard rate can't be repriced later."
+            ],
+            "wordCount": 68,
+            "mediaKind": "material"
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/about-us/",
+          "pageType": "about",
+          "blockId": "m6",
+          "splitIndex": 0,
+          "words": 29,
+          "slots": 0,
+          "block": {
+            "id": "m6",
+            "type": "proof",
+            "sourceSectionIds": [
+              "m6"
+            ],
+            "heading": "Our Insurance and What It Covers",
+            "paragraphs": [
+              "Our business insurance is separate from your property and short-term rental cover: our business policy doesn't replace the host insurance your property needs."
+            ],
+            "wordCount": 23,
+            "mediaKind": "material"
+          }
+        }
+      ]
+    },
+    {
+      "key": "team:default",
+      "type": "team",
+      "variant": null,
+      "uses": 1,
+      "names": [
+        "team"
+      ],
+      "evidence": [],
+      "samples": [
+        {
+          "role": "only",
+          "route": "/about-us/",
+          "pageType": "about",
+          "blockId": "owner-team",
+          "splitIndex": 0,
+          "words": 66,
+          "slots": 0,
+          "block": {
+            "id": "owner-team",
+            "type": "team",
+            "heading": "Meet the team",
+            "items": [
+              {
+                "anchor": "team-erin-navarro",
+                "name": "Erin Navarro",
+                "role": "Founder",
+                "years": 18,
+                "bio": "Runs the company and agrees the scope of the work with each new owner.",
+                "reviews": [
+                  "place",
+                  "location"
+                ]
+              },
+              {
+                "anchor": "team-claire-carver",
+                "name": "Claire Carver",
+                "role": "Revenue manager",
+                "years": 12,
+                "bio": "Sets the rates and watches the booking pace for the properties we work for.",
+                "blogAuthor": true,
+                "reviews": [
+                  "solution",
+                  "service",
+                  "product_manufacturer",
+                  "product_wholesale"
+                ]
+              },
+              {
+                "anchor": "team-hannah-thorne",
+                "name": "Hannah Thorne",
+                "role": "Account lead",
+                "years": 9,
+                "bio": "The owner's day-to-day contact: the weekly report, questions and changes to the plan."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "key": "cta:dark",
+      "type": "cta",
+      "variant": "dark",
+      "uses": 1,
+      "names": [
+        "cta:dark"
+      ],
+      "evidence": [
+        {
+          "pageType": "about",
+          "index": 18,
+          "module": "cta:dark"
+        }
+      ],
+      "samples": [
+        {
+          "role": "only",
+          "route": "/about-us/",
+          "pageType": "about",
+          "blockId": "cta",
+          "splitIndex": 0,
+          "words": 24,
+          "slots": 0,
+          "block": {
+            "id": "cta",
+            "type": "cta",
+            "sourceSectionIds": [
+              "cta"
+            ],
+            "heading": "Ready to Work With Our Team?",
+            "paragraphs": [
+              "To work with our team, send us an enquiry about short-term rental management for your property."
+            ],
+            "cta": {
+              "label": "Contact us",
+              "href": "/contact-us/"
+            },
+            "links": [],
+            "variant": "dark"
+          }
+        }
+      ]
+    },
+    {
+      "key": "featureGrid:columns",
+      "type": "featureGrid",
+      "variant": "columns",
+      "uses": 2,
+      "names": [
+        "featureGrid:columns"
+      ],
+      "evidence": [],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/contact-us/",
+          "pageType": "contact",
+          "blockId": "m2",
+          "splitIndex": 0,
+          "words": 123,
+          "slots": 0,
+          "block": {
+            "id": "m2",
+            "type": "featureGrid",
+            "sourceSectionIds": [
+              "m2"
+            ],
+            "heading": "The Best Way to Get in Touch for Each Request",
+            "paragraphs": [
+              "Every channel reaches someone who can act on your request; only the support line gives immediate help."
+            ],
+            "items": [
+              {
+                "heading": "New owner enquiries",
+                "paragraphs": [
+                  "If this is your first time getting in touch, use the enquiry form to start talking with us about managing your property."
+                ]
+              },
+              {
+                "heading": "Existing client account questions",
+                "paragraphs": [
+                  "Email your account manager about pricing, statements or your listing. This channel is for account matters, not for urgent help at an occupied property."
+                ]
+              },
+              {
+                "heading": "Urgent help during stays",
+                "paragraphs": [
+                  "If something urgent comes up at a property where guests are staying, call your dedicated client support line. Outside business hours it takes urgent issues only, and our support team handles those 24/7 with no waiting on hold."
+                ],
+                "placeholder": true
+              }
+            ],
+            "mediaKind": "product"
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/contact-us/",
+          "pageType": "contact",
+          "blockId": "m2-2",
+          "splitIndex": 0,
+          "words": 59,
+          "slots": 0,
+          "block": {
+            "id": "m2-2",
+            "type": "featureGrid",
+            "sourceSectionIds": [
+              "m2"
+            ],
+            "continues": "m2",
+            "items": [
+              {
+                "heading": "Guest booking requests",
+                "paragraphs": [
+                  "If you want to book a stay, contact the host through the booking platform. We don't sell or book stays."
+                ]
+              },
+              {
+                "heading": "Property earnings and plans",
+                "paragraphs": [
+                  "Send us your property details for our [free, no-obligation revenue analysis](/request-a-quote/). We'll prepare an earnings estimate and a plan, then walk you through the revenue projection on a free 30-minute discovery call."
+                ],
+                "placeholder": true
+              }
+            ],
+            "mediaKind": "product"
+          }
+        }
+      ]
+    },
+    {
+      "key": "form:plain",
+      "type": "form",
+      "variant": "plain",
+      "uses": 3,
+      "names": [
+        "form",
+        "form:plain"
+      ],
+      "evidence": [
+        {
+          "pageType": "contact",
+          "index": 4,
+          "module": "form",
+          "gap": "other"
+        }
+      ],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/resources/",
+          "pageType": "general",
+          "blockId": "resource-request",
+          "splitIndex": 0,
+          "words": 155,
+          "slots": 0,
+          "block": {
+            "id": "resource-request",
+            "type": "form",
+            "request": "resource",
+            "requestType": "resource",
+            "heading": "Request a resource",
+            "paragraphs": [
+              "Tell us which resource you would like and where to send it: we email it to you."
+            ],
+            "fields": [
+              {
+                "name": "name",
+                "label": "Name",
+                "kind": "text",
+                "required": true,
+                "autocomplete": "name",
+                "purpose": "So we know whom we are writing to."
+              },
+              {
+                "name": "email",
+                "label": "Email",
+                "kind": "email",
+                "required": true,
+                "autocomplete": "email",
+                "purpose": "Where we send the resource."
+              },
+              {
+                "name": "resource",
+                "label": "Which resource",
+                "kind": "select",
+                "required": true,
+                "purpose": "The guide, template or checklist we send you.",
+                "options": [
+                  "Rules guide",
+                  "Launch checklist and co-host access guide",
+                  "Messaging templates",
+                  "Turnover checklist",
+                  "Something else (tell us below)"
+                ]
+              },
+              {
+                "name": "message",
+                "label": "Anything else",
+                "kind": "textarea",
+                "required": false,
+                "purpose": "Optional: a question, or the resource if it is not listed.",
+                "recorded": "anything else you tell us"
+              }
+            ],
+            "consent": {
+              "label": "I agree that my details are used to send me this resource, as described in the privacy policy.",
+              "privacyRoute": "/privacy/"
+            },
+            "honeypot": "website",
+            "endpoint": "/api/leads",
+            "status": "ready",
+            "submitLabel": "Request the resource",
+            "requiredNote": "Fields marked * are required.",
+            "messages": {
+              "invalid": "Please check the highlighted fields.",
+              "sending": "Sending…",
+              "sent": "Thank you: your message has been sent. We will reply by email.",
+              "failed": "Your message could not be sent. Please try again, or write to us by email."
+            }
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/contact-us/",
+          "pageType": "contact",
+          "blockId": "form",
+          "splitIndex": 0,
+          "words": 119,
+          "slots": 0,
+          "block": {
+            "id": "form",
+            "type": "form",
+            "heading": "Send an enquiry",
+            "fields": [
+              {
+                "name": "name",
+                "label": "Name",
+                "kind": "text",
+                "required": true,
+                "autocomplete": "name",
+                "purpose": "So we know whom we are answering."
+              },
+              {
+                "name": "email",
+                "label": "Email",
+                "kind": "email",
+                "required": true,
+                "autocomplete": "email",
+                "purpose": "Where we send our reply."
+              },
+              {
+                "name": "company",
+                "label": "Company",
+                "kind": "text",
+                "required": false,
+                "autocomplete": "organization",
+                "purpose": "Optional: helps us answer for your business."
+              },
+              {
+                "name": "phone",
+                "label": "Phone",
+                "kind": "tel",
+                "required": false,
+                "autocomplete": "tel",
+                "purpose": "Optional: only if you would like a call back."
+              },
+              {
+                "name": "message",
+                "label": "Message",
+                "kind": "textarea",
+                "required": true,
+                "purpose": "What you would like to know or order."
+              }
+            ],
+            "consent": {
+              "label": "I agree that my details are used to answer this enquiry, as described in the privacy policy.",
+              "privacyRoute": "/privacy/"
+            },
+            "honeypot": "website",
+            "endpoint": "/api/leads",
+            "status": "ready",
+            "submitLabel": "Send enquiry",
+            "requiredNote": "Fields marked * are required.",
+            "messages": {
+              "invalid": "Please check the highlighted fields.",
+              "sending": "Sending…",
+              "sent": "Thank you: your message has been sent. We will reply by email.",
+              "failed": "Your message could not be sent. Please try again, or write to us by email."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "contactChannels:cards",
+      "type": "contactChannels",
+      "variant": "cards",
+      "uses": 1,
+      "names": [
+        "contactChannels:cards"
+      ],
+      "evidence": [
+        {
+          "pageType": "contact",
+          "index": 6,
+          "module": "contactChannels:cards"
+        }
+      ],
+      "samples": [
+        {
+          "role": "only",
+          "route": "/contact-us/",
+          "pageType": "contact",
+          "blockId": "channels",
+          "splitIndex": 0,
+          "words": 2,
+          "slots": 0,
+          "block": {
+            "id": "channels",
+            "type": "contactChannels",
+            "heading": "Contact details"
+          }
+        }
+      ]
+    },
+    {
+      "key": "cta:inline",
+      "type": "cta",
+      "variant": "inline",
+      "uses": 11,
+      "names": [
+        "cta:inline"
+      ],
+      "evidence": [
+        {
+          "pageType": "home",
+          "index": 6,
+          "module": "cta:inline"
+        }
+      ],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/san-diego/",
+          "pageType": "general",
+          "blockId": "cta",
+          "splitIndex": 0,
+          "words": 46,
+          "slots": 0,
+          "block": {
+            "id": "cta",
+            "type": "cta",
+            "sourceSectionIds": [
+              "cta"
+            ],
+            "heading": "Ask About Your San Diego Rental",
+            "paragraphs": [
+              "Send us your San Diego property address, bedrooms, bathrooms, guest capacity and key amenities. We’ll reply within one business day; qualifying owners receive a free, no-obligation 30-minute discovery call with a property revenue projection."
+            ],
+            "cta": {
+              "label": "Talk to us about san diego",
+              "href": "/request-a-quote/"
+            },
+            "links": []
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/request-a-quote/",
+          "pageType": "general",
+          "blockId": "cta",
+          "splitIndex": 0,
+          "words": 21,
+          "slots": 0,
+          "block": {
+            "id": "cta",
+            "type": "cta",
+            "sourceSectionIds": [
+              "cta"
+            ],
+            "heading": "Send Us Your Property Details",
+            "paragraphs": [
+              "Send us your property details to request an earnings estimate and plan."
+            ],
+            "cta": {
+              "label": "Prefer email? Contact us",
+              "href": "/contact-us/"
+            },
+            "links": []
+          }
+        }
+      ]
+    },
+    {
+      "key": "dataPractices:default",
+      "type": "dataPractices",
+      "variant": null,
+      "uses": 1,
+      "names": [
+        "dataPractices"
+      ],
+      "evidence": [],
+      "samples": [
+        {
+          "role": "only",
+          "route": "/privacy-policy/",
+          "pageType": "privacy",
+          "blockId": "data-practices",
+          "splitIndex": 0,
+          "words": 4,
+          "slots": 0,
+          "block": {
+            "id": "data-practices",
+            "type": "dataPractices",
+            "heading": "What this site collects"
+          }
+        }
+      ]
+    },
+    {
+      "key": "process:circles",
+      "type": "process",
+      "variant": "circles",
+      "uses": 1,
+      "names": [
+        "process:circles"
+      ],
+      "evidence": [],
+      "samples": [
+        {
+          "role": "only",
+          "route": "/request-a-quote/",
+          "pageType": "general",
+          "blockId": "m2",
+          "splitIndex": 0,
+          "words": 112,
+          "slots": 0,
+          "block": {
+            "id": "m2",
+            "type": "process",
+            "sourceSectionIds": [
+              "m2"
+            ],
+            "heading": "From Your Request to a Signed Agreement",
+            "paragraphs": [
+              "Bring your personal-use dates, existing bookings and local permit or HOA rules to the call so your proposal reflects your availability and constraints."
+            ],
+            "steps": [
+              {
+                "heading": "Reply and discovery",
+                "text": "We reply within one business day. We then book a 30-minute discovery call within 3 business days of that reply, and on the call we show you anonymized results for comparable properties we manage."
+              },
+              {
+                "heading": "Your written proposal",
+                "text": "Within 2 business days of the call, you receive a written proposal and a management agreement with our registered US company."
+              },
+              {
+                "heading": "Approval and launch",
+                "text": "Once you approve, signing up takes under 15 minutes, and most homes go live within 7–14 days."
+              }
+            ],
+            "mediaKind": "process"
+          }
+        }
+      ]
+    }
+  ],
+  "unbacked": [
+    "gallery:band",
+    "table:grid",
+    "iconList:icons",
+    "process:list",
+    "iconList:checks",
+    "orderCase:default",
+    "gallery:grid",
+    "team:default",
+    "featureGrid:columns",
+    "dataPractices:default",
+    "process:circles"
+  ]
+}

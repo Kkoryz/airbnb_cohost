@@ -1,0 +1,40 @@
+{
+  "title": "Staylumen Blog for Short-Term Rental Owners",
+  "description": "The Staylumen blog: practical guides for short-term rental owners on management, co-hosting, pricing, listings and the costs of running a rental.",
+  "heading": "Staylumen Blog",
+  "intro": "Guides for short-term rental owners weighing how to run, price and hand off a vacation rental.",
+  "blocks": [
+    {
+      "id": "overview",
+      "type": "intro",
+      "sourceSectionIds": [
+        "overview"
+      ],
+      "heading": "What You Will Find in These Guides",
+      "paragraphs": [
+        "Our [online management team](/about-us/) writes these guides from the daily work of running owners' listings, pricing and guest messages remotely across the United States. Each one looks at a decision you face as an owner, from fees to agreements to tracking profit. For checklists, see our [free owner resources](/resources/); for contracts and payouts, our [owner FAQ](/faq/)."
+      ],
+      "wordCount": 56
+    },
+    {
+      "id": "cta",
+      "type": "cta",
+      "sourceSectionIds": [
+        "cta"
+      ],
+      "heading": "Send Us an Enquiry & Work With Our Team",
+      "paragraphs": [
+        "[Send us an enquiry](/contact-us/) to discuss working with our team on your short-term rental. We’ll reply within one business day."
+      ],
+      "cta": {
+        "label": "Talk to our team",
+        "href": "/contact-us/"
+      },
+      "links": []
+    }
+  ],
+  "source": {
+    "package": "sf/authoring/v1",
+    "pageId": "site:blog"
+  }
+}

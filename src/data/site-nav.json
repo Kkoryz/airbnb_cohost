@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "seo-site-nav-v1",
+  "source": "site-factory pages.json",
+  "brand": null,
+  "header": [
+    {
+      "label": "Services",
+      "route": null,
+      "children": [
+        {
+          "label": "Vacation Rental Cleaning",
+          "route": "/vacation-rental-cleaning/",
+          "children": []
+        },
+        {
+          "label": "Airbnb Listing Optimization & SEO",
+          "route": "/airbnb-listing-optimization-seo/",
+          "children": []
+        },
+        {
+          "label": "Airbnb Design & Furnishing",
+          "route": "/airbnb-design-furnishing/",
+          "children": []
+        },
+        {
+          "label": "Airbnb Co-Hosting",
+          "route": "/airbnb-co-hosting/",
+          "children": []
+        },
+        {
+          "label": "Dynamic Pricing",
+          "route": "/dynamic-pricing/",
+          "children": []
+        },
+        {
+          "label": "Airbnb Booking Management",
+          "route": "/airbnb-booking-management/",
+          "children": []
+        },
+        {
+          "label": "Airbnb Property Maintenance",
+          "route": "/airbnb-property-maintenance/",
+          "children": []
+        },
+        {
+          "label": "Short-Term Rental Licensing & Compliance",
+          "route": "/short-term-rental-licensing-compliance/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "About Us",
+      "route": "/about-us/",
+      "children": []
+    },
+    {
+      "label": "Case Studies",
+      "route": "/case-studies/",
+      "children": []
+    },
+    {
+      "label": "Blog",
+      "route": "/blog/",
+      "children": []
+    },
+    {
+      "label": "Contact Us",
+      "route": "/contact-us/",
+      "children": []
+    },
+    {
+      "label": "Locations",
+      "route": "/locations/",
+      "children": [
+        {
+          "label": "San Diego",
+          "route": "/san-diego/",
+          "children": []
+        },
+        {
+          "label": "Scottsdale",
+          "route": "/scottsdale/",
+          "children": []
+        },
+        {
+          "label": "Nashville",
+          "route": "/nashville/",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "label": "FAQ",
+      "route": "/faq/",
+      "children": []
+    },
+    {
+      "label": "Resources",
+      "route": "/resources/",
+      "children": []
+    },
+    {
+      "label": "Privacy Policy",
+      "route": "/privacy-policy/",
+      "children": []
+    },
+    {
+      "label": "Terms and Conditions",
+      "route": "/terms-and-conditions/",
+      "children": []
+    },
+    {
+      "label": "Request a Quote",
+      "route": "/request-a-quote/",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "/": {
+    "splitMedia-1": [
+      {
+        "id": "brief-splitMedia-1-1",
+        "type": "photo",
+        "content": "A remote operations coordinator speaks by phone at an office desk while examining a prospective local partner’s turnover photographs on a tablet with no visible text.",
+        "setting": "Management office, close desk view",
+        "caption": "Finding a local company to care for your home."
+      }
+    ],
+    "splitMedia-2": [
+      {
+        "id": "brief-splitMedia-2-1",
+        "type": "photo",
+        "content": "A rental owner uses a calculator beside a basket of replacement toiletries and loosely stacked receipts turned face down on the kitchen counter.",
+        "setting": "Owner’s home kitchen",
+        "caption": "Planning for restocking and other property expenses."
+      }
+    ],
+    "m5": [
+      {
+        "id": "brief-m5-1",
+        "type": "photo",
+        "content": "A listing specialist at an office workstation selects a rental living-room photograph from a grid of property images on a monitor with no readable text.",
+        "setting": "Management office, wide workstation view",
+        "caption": "Preparing your listing for launch."
+      }
+    ],
+    "cta": [
+      {
+        "id": "brief-cta-1",
+        "type": "photo",
+        "content": "A property owner stands on the porch of their rental home speaking into a phone, with the open front door and furnished entryway behind them.",
+        "setting": "Rental home porch, medium portrait",
+        "caption": "Tell us about your rental."
+      }
+    ]
+  },
+  "/vacation-rental-cleaning/": {
+    "splitMedia-1": [
+      {
+        "id": "brief-splitMedia-1-1",
+        "type": "photo",
+        "content": "A remote turnover coordinator at the company's office speaks through a headset while reviewing room photos on a laptop with no readable text, arranging the next clean with an owner's existing independent cleaner.",
+        "setting": "Company's remote operations office",
+        "caption": "We coordinate turnovers with your existing cleaner."
+      }
+    ],
+    "splitMedia-2": [
+      {
+        "id": "brief-splitMedia-2-1",
+        "type": "photo",
+        "content": "An independent cleaning partner's cleaner applies liquid from an unmarked bottle to a soft cloth beside an owner's neatly arranged preferred supplies on a vacation rental's bathroom vanity.",
+        "setting": "Vacation rental bathroom, close view",
+        "caption": "Your preferred products and surface-care instructions guide each clean."
+      }
+    ],
+    "m6": [
+      {
+        "id": "brief-m6-1",
+        "type": "photo",
+        "content": "An independent cleaning partner's cleaner crouches beside a vacation rental's coffee table and photographs its freshly chipped corner with a phone whose screen faces away from the camera.",
+        "setting": "Vacation rental living room after checkout",
+        "caption": "Local partners document damage for our remote team to coordinate the report."
+      }
+    ]
+  },
+  "/airbnb-listing-optimization-seo/": {
+    "related": [
+      {
+        "id": "brief-related-1",
+        "type": "photo",
+        "content": "A rental owner positions a reading lamp beside an armchair in their rental’s living room, following a furnishing recommendation from the remote team.",
+        "setting": "Owner’s rental living room",
+        "caption": "Thoughtful furnishing recommendations for your rental."
+      }
+    ],
+    "m5": [
+      {
+        "id": "brief-m5-1",
+        "type": "photo",
+        "content": "A listing specialist at the company’s office studies several weeks of plotted search-position measurements on a monitor showing only unlabeled graphs, photographed closely over their shoulder with no readable text or logos.",
+        "setting": "Company office, close over-the-shoulder view",
+        "caption": "Assessing ranking progress over several weeks."
+      }
+    ]
+  },
+  "/airbnb-design-furnishing/": {
+    "splitMedia-1": [
+      {
+        "id": "brief-splitMedia-1-1",
+        "type": "photo",
+        "content": "A property owner stretches a tape measure with no legible markings across the narrow landing at a stair turn in an unfurnished rental home, checking the furniture delivery route.",
+        "setting": "Unfurnished rental home's stair landing",
+        "caption": "Measure tight turns along the entire delivery route."
+      }
+    ],
+    "splitMedia-2": [
+      {
+        "id": "brief-splitMedia-2-1",
+        "type": "photo",
+        "content": "A property owner seated at their dining table studies a proposed room layout and furniture images on a laptop, with no readable text visible, while pointing out a furniture choice to their spouse.",
+        "setting": "Owner's own home, close dining-table view",
+        "caption": "Review your room designs and furniture choices before ordering."
+      }
+    ]
+  },
+  "/airbnb-co-hosting/": {
+    "m2": [
+      {
+        "id": "brief-m2-1",
+        "type": "photo",
+        "content": "A local photography partner adjusts a tripod-mounted camera to photograph an owner's guest-ready bedroom, with neatly made bedding and daylight falling across the room.",
+        "setting": "Owner's rental bedroom",
+        "caption": "Fresh listing photography prepares your home for launch."
+      }
+    ],
+    "related": [
+      {
+        "id": "brief-related-1",
+        "type": "photo",
+        "content": "A remote pricing specialist works at a laptop in the company's office, using the trackpad beside an out-of-focus calendar grid with colored reservation blocks and no readable text.",
+        "setting": "Company office, close over-the-shoulder view",
+        "caption": "Coordinating pricing and calendar rules around your bookings."
+      }
+    ]
+  },
+  "/dynamic-pricing/": {
+    "m5": [
+      {
+        "id": "brief-m5-1",
+        "type": "photo",
+        "content": "A revenue manager at her office desk explains a pricing review to a rental owner on a video call, gesturing toward a simple chart on her monitor beside the owner's video tile, with no readable text or logos visible.",
+        "setting": "The remote management company's office",
+        "caption": "Your revenue manager explains pricing changes and results."
+      }
+    ]
+  },
+  "/airbnb-property-maintenance/": {
+    "splitMedia-1": [
+      {
+        "id": "brief-splitMedia-1-1",
+        "type": "photo",
+        "content": "A remote maintenance coordinator speaks by phone with a home warranty service representative to arrange technician access, seated at a desk with an open laptop whose screen faces away from the camera.",
+        "setting": "The company's central management office",
+        "caption": "Arranging warranty service and technician access remotely."
+      }
+    ]
+  },
+  "/short-term-rental-licensing-compliance/": {
+    "splitMedia-1": [
+      {
+        "id": "brief-splitMedia-1-1",
+        "type": "photo",
+        "content": "A prospective buyer seated at her dining table studies a printed eligibility summary beside a photograph of the house she is considering, with all document text out of focus and unreadable.",
+        "setting": "Prospective buyer’s dining room",
+        "caption": "Review your address-specific eligibility summary before making an offer."
+      }
+    ],
+    "splitMedia-2": [
+      {
+        "id": "brief-splitMedia-2-1",
+        "type": "photo",
+        "content": "A researcher at the company’s office points to a passage in a printed response from a local planning office while comparing it with an open ordinance binder, photographed over his shoulder with all text unreadable.",
+        "setting": "Company’s remote research office",
+        "caption": "Written clarification from the local authority informs your summary."
+      }
+    ],
+    "splitMedia-3": [
+      {
+        "id": "brief-splitMedia-3-1",
+        "type": "photo",
+        "content": "A homeowner hangs her own jacket in the hallway of her primary residence, with her lived-in living room and an open furnished spare bedroom visible in the wider frame, without readable text or logos.",
+        "setting": "Owner-occupied home",
+        "caption": "Hosting in your primary residence may be an option where local rules allow."
+      }
+    ]
+  },
+  "/about-us/": {
+    "m2": [
+      {
+        "id": "brief-m2-1",
+        "type": "photo",
+        "content": "A listing specialist at a shared office desk points to an unreadable calendar grid on a monitor angled away from the camera while two colleagues lean in to review it, with other teammates softly out of focus at desks behind them and no visible logos or readable words.",
+        "setting": "The team's central office",
+        "caption": "Specialists working together on owners’ listings."
+      }
+    ]
+  },
+  "/faq/": {
+    "m3": [
+      {
+        "id": "brief-m3-1",
+        "type": "photo",
+        "content": "A rental owner sits at a home desk comparing a monthly owner statement with supporting booking and payment records laid beside a laptop, pointing to one entry with a pen, with all paper and screen details out of focus and unreadable.",
+        "setting": "Rental owner's home office",
+        "caption": "Checking an owner statement against booking and payment records."
+      }
+    ]
+  },
+  "/case-studies/": {
+    "related": [
+      {
+        "id": "brief-related-1",
+        "type": "photo",
+        "content": "A rental homeowner seated at her kitchen table consults an open laptop while marking a date on a paper calendar, with the screen facing away and all calendar details out of focus.",
+        "setting": "Homeowner’s kitchen",
+        "caption": "Planning your rental’s onboarding timeline."
+      }
+    ]
+  },
+  "/san-diego/": {
+    "m4": [
+      {
+        "id": "brief-m4-1",
+        "type": "photo",
+        "content": "A pricing specialist at the company's remote office adjusts a property's summer rates at a desktop monitor displaying an out-of-focus calendar grid with no readable text, photographed over his shoulder.",
+        "setting": "Company’s remote management office",
+        "caption": "Planning summer and convention pricing ahead of demand."
+      }
+    ],
+    "m7": [
+      {
+        "id": "brief-m7-1",
+        "type": "photo",
+        "content": "An independent local maintenance partner in plain, unmarked clothing examines salt corrosion on a patio gate latch during a between-stay inspection at a homeowner's coastal rental.",
+        "setting": "San Diego rental's coastal patio",
+        "caption": "Local partners check coastal wear between stays."
+      }
+    ]
+  },
+  "/scottsdale/": {
+    "m3": [
+      {
+        "id": "brief-m3-1",
+        "type": "photo",
+        "content": "A revenue analyst in the company's remote office uses a calculator beside an open laptop with its screen facing away from the camera while preparing a Scottsdale owner's annual projection.",
+        "setting": "Desk in the company's remote office",
+        "caption": "Preparing your annual rental revenue and net payout projection."
+      }
+    ],
+    "m7": [
+      {
+        "id": "brief-m7-1",
+        "type": "photo",
+        "content": "A Scottsdale homeowner lifts a pool skimmer basket filled with windblown desert leaves from the pool edge, shown close enough to emphasize the debris.",
+        "setting": "Poolside at an owner's Scottsdale rental",
+        "caption": "Desert conditions make regular pool care essential."
+      }
+    ],
+    "m9": [
+      {
+        "id": "brief-m9-1",
+        "type": "photo",
+        "content": "An independent local partner technician in plain, unbranded workwear rinses the exposed condenser coils of an outdoor air-conditioning unit with a hose.",
+        "setting": "Side yard of a Scottsdale rental home",
+        "caption": "Local partner servicing coordinated between stays."
+      }
+    ],
+    "m10": [
+      {
+        "id": "brief-m10-1",
+        "type": "photo",
+        "content": "In a wide view, a Cave Creek rental owner opens the patio doors of their desert home onto a shaded terrace overlooking native cactus and rocky hills.",
+        "setting": "Owner's rental home in Cave Creek",
+        "caption": "Supporting owners in Cave Creek and nearby Arizona markets."
+      }
+    ]
+  },
+  "/nashville/": {
+    "m2": [
+      {
+        "id": "brief-m2-1",
+        "type": "photo",
+        "content": "A remote property manager wearing a plain headset works at a desk with two monitors facing away from the camera, beside a window overlooking an office courtyard.",
+        "setting": "Company’s remote management office",
+        "caption": "Managing your Nashville listing remotely."
+      }
+    ],
+    "m3": [
+      {
+        "id": "brief-m3-1",
+        "type": "photo",
+        "content": "In a close overhead view, an analyst sorts unmarked photographs of one owner's Nashville home beside photographs of comparable rentals on a plain desk.",
+        "setting": "Office analysis desk",
+        "caption": "Your home’s projection starts with comparable properties."
+      }
+    ],
+    "m6": [
+      {
+        "id": "brief-m6-1",
+        "type": "photo",
+        "content": "A Nashville homeowner unfolds a luggage rack beside a neatly made bed in a guest bedroom with a clear path to the closet.",
+        "setting": "Owner’s Nashville rental bedroom",
+        "caption": "Practical amenities for the guests your home attracts."
+      }
+    ],
+    "m8": [
+      {
+        "id": "brief-m8-1",
+        "type": "photo",
+        "content": "An independent local cleaning partner in plain clothing tucks a fresh sheet around a mattress during a turnover, with a basket of clean linens beside the bed.",
+        "setting": "Nashville rental between stays",
+        "caption": "Local partners handle the turnovers we coordinate."
+      }
+    ],
+    "m11": [
+      {
+        "id": "brief-m11-1",
+        "type": "photo",
+        "content": "A lake-cabin owner presses fresh weatherstripping into an open exterior doorframe, with the porch and lake visible beyond.",
+        "setting": "Owner’s lakeside cabin near Hendersonville",
+        "caption": "Preparing a lake home for seasonal stays."
+      }
+    ]
+  }
+}

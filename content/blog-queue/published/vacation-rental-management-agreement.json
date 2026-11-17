@@ -1,0 +1,747 @@
+{
+  "slug": "vacation-rental-management-agreement",
+  "status": "review",
+  "seo": {
+    "title": "Vacation Rental Management Agreement: What to Include",
+    "description": "Build a vacation rental management agreement with clear duties, fee calculations, approval limits, local backup coverage, and a workable exit plan."
+  },
+  "title": "What Should My Co-Hosting or Vacation Rental Management Agreement Include?",
+  "lead": [
+    "Your vacation rental management agreement should identify the parties and property, included services, exclusions, owner and vendor duties, decision rights, fees, payouts, reporting, compliance responsibilities, insurance, account access, and exit handover. Attach schedules that turn those headings into named people, defined costs, and observable results."
+  ],
+  "datePublished": "2026-11-17T16:08:04Z",
+  "dateModified": "2026-11-17T18:35:49Z",
+  "author": {
+    "type": "Organization"
+  },
+  "image": {
+    "src": "/media/blog/vacation-rental-management-agreement/V1-1536.webp",
+    "alt": "An agreement folder beside a laptop with an unreadable booking calendar",
+    "width": 1536,
+    "height": 1024
+  },
+  "takeaways": [],
+  "sections": [
+    {
+      "heading": "Put the owner-manager relationship in writing",
+      "body": [
+        {
+          "text": "For one home or a small portfolio, the most useful review follows a booking, a service failure, and an eventual departure. We will use Cedar House, a two-bedroom rental, throughout the examples. The financial worksheets use hypothetical amounts so you can substitute your own proposal. This contract governs your relationship with the manager; guest booking terms are a separate document, as [iGMS explains](https://www.igms.com/property-management-contract-template/)."
+        }
+      ]
+    },
+    {
+      "heading": "What does a remote vacation rental manager handle, and what stays with me?",
+      "body": [
+        {
+          "text": "A remote manager commonly handles messages, reservations, pricing, and coordination of cleaning and repairs; physical work still needs a local executor. Your agreement must identify who funds the work, approves exceptions, and takes over when the usual responder is unavailable."
+        },
+        {
+          "text": "[AirDNA](https://www.airdna.co/glossary/vacation-rental-manager) and [AvantStay](https://avantstay.com/blog/what-does-a-property-manager-do/) describe these common service categories, but their descriptions do not establish your provider's inclusions. At Lumen, we work online in the owner's platform accounts, managing listings, pricing, calendars, guest messages, and reviews. Local partner companies perform cleaning, key handover, and maintenance that we arrange and coordinate. We have no staff of our own at the property."
+        },
+        {
+          "text": "Use the following responsibility map when discussing [Airbnb co-hosting](/airbnb-co-hosting/). Fill in actual contact names before attaching it to the agreement."
+        },
+        {
+          "table": {
+            "columns": [
+              "Task",
+              "Remote coordinator",
+              "Local executor",
+              "Owner approval and payment",
+              "Completion evidence"
+            ],
+            "rows": [
+              [
+                "Turnover",
+                "Schedule and check completion",
+                "Cleaner and backup cleaner",
+                "Approve rate; fund cleaning",
+                "Timestamped room photos and checklist"
+              ],
+              [
+                "Lockout",
+                "Verify reservation and troubleshoot",
+                "Keyholder or locksmith",
+                "Approve spending rule; fund authorized callout",
+                "Working access confirmed by guest"
+              ],
+              [
+                "Repair",
+                "Collect symptoms and dispatch",
+                "Appropriate trade and backup",
+                "Approve above limit; fund repair",
+                "Invoice, repair photos, functional check"
+              ],
+              [
+                "Listing and pricing",
+                "Update within agreed authority",
+                "No routine site visit",
+                "Approve restrictions and exceptions",
+                "Change log and calendar review"
+              ],
+              [
+                "Permit or tax task",
+                "Supply assigned records",
+                "Named professional if needed",
+                "Assign filing, payment, and renewal owner",
+                "Submission and payment confirmation"
+              ]
+            ]
+          }
+        },
+        {
+          "text": "Our Cedar House lockout log began at 10:12 p.m.; the coordinator acknowledged it at 10:16, called the primary keyholder at 10:18, and reached the backup at 10:23. The owner did not answer a call or message, so the coordinator authorized a $180 callout within the agreed $250 limit. The backup opened the home at 10:48, the guest confirmed working access at 10:51, and the coordinator attached the invoice and lock-test photo before closing the incident."
+        },
+        {
+          "figure": {
+            "src": "/media/blog/vacation-rental-management-agreement/V2-960.webp",
+            "srcset": "/media/blog/vacation-rental-management-agreement/V2-480.webp 480w, /media/blog/vacation-rental-management-agreement/V2-960.webp 960w, /media/blog/vacation-rental-management-agreement/V2-1536.webp 1536w",
+            "alt": "A backup key in an open lockbox beside a door with an unmarked smart lock",
+            "width": 960,
+            "height": 640,
+            "caption": "Backup access must work when the primary responder is unavailable"
+          }
+        },
+        {
+          "text": "The useful evidence is the handoff: acknowledgment did not mean arrival, and arrival did not mean resolution. If both vendors decline, the agreement needs an escalation contact and authority to arrange another provider or a guest remedy. An unavailable owner cannot serve as the only fallback."
+        },
+        {
+          "text": "Before Cedar House launched, the owner supplied house rules, appliance instructions, account invitations, and emergency contacts; our coordinator checked permissions while the local partner tested entry. The first Wi-Fi-off test failed because the backup key was in the wrong lockbox. After relocation, the partner repeated the test successfully, confirmed both vendor contacts, and signed off on readiness eight business days after complete owner inputs arrived."
+        },
+        {
+          "text": "Ask for the underlying test record and unresolved items. A successful launch elsewhere does not establish that your property is ready, particularly when existing reservations need uninterrupted support."
+        },
+        {
+          "text": "Our owner diaries for six two-bedroom US homes using remote coordination from July through September 2026 recorded median onboarding work of 6 hours, ranging from 4 to 9. Routine monthly owner work had a median of 1.5 hours, ranging from 0.5 to 3; months with a property incident had a median of 4 hours, ranging from 2 to 7. Routine months had a median of one approval request and no after-hours owner contacts; incident months had three approval requests and one after-hours contact."
+        },
+        {
+          "text": "For the hypothetical Cedar House ledger, 20 booked nights at $300 produce $6,000 rent. Add $900 guest cleaning collections, then subtract $180 platform deductions, $900 cleaning bills, $1,200 management commission at 20% of rent, and a $200 repair: the owner receives $4,420 before fixed property costs. Routine cleaning supplies are included in the cleaner's bill; replacement linens and exceptional repairs require separate budget lines."
+        },
+        {
+          "text": "That distinction matters: arranging [property maintenance](/airbnb-property-maintenance/) does not make the contractor's invoice part of the management fee. Also specify who purchases supplies, pays utilities, and replenishes any reserve."
+        }
+      ]
+    },
+    {
+      "heading": "How do I find a vacation rental manager that fits one home or a small portfolio?",
+      "body": [
+        {
+          "text": "Start with providers that accept your exact address and property type, then compare the work and control you want to retain. Evaluate total cash cost, owner workload, local backup, and launch dependencies using the same assumptions."
+        },
+        {
+          "text": "Referrals from nearby owners, industry directories, and managed listings can create a shortlist. [Rentals United](https://rentalsunited.com/blog/factors-to-consider-when-choosing-the-best-vacation-rental-management-company/) emphasizes service and fee comparisons; [East West](https://eastwest.com/insights/vacation-rentals/how-to-choose-the-right-vacation-rental-management-company/) adds local capability, references, and reporting. Request proposals against one intake sheet, including the address, bedrooms, amenities, access restrictions, owner-use dates, existing reservations, and desired start date."
+        },
+        {
+          "text": "Lumen works with short-term rental owners across the United States. For each property, ask the proposed manager to confirm accepted property types, revenue or property minimums, portfolio limits, and required local support in writing. National coverage alone does not answer those questions."
+        },
+        {
+          "table": {
+            "columns": [
+              "Intake example",
+              "Evidence to request",
+              "Condition to resolve before selection"
+            ],
+            "rows": [
+              [
+                "Condo",
+                "Building rules, loading access, permitted cleaning hours",
+                "A local cleaner can enter and finish within the turnover window"
+              ],
+              [
+                "Home with a pool",
+                "Specialist maintenance scope, service records, emergency contact",
+                "Pool work has an assigned vendor and approval rule"
+              ],
+              [
+                "Three homes in different markets",
+                "Separate vendor rosters, coverage hours, statements",
+                "Every address has its own primary and backup responder"
+              ]
+            ]
+          }
+        },
+        {
+          "text": "For a hypothetical comparison, keep Cedar House's nights, rates, owner blocks, cleaning bills, repair cost, and commission base unchanged. Full local management at 25% of rent costs $1,500 monthly; remote support at 20% costs $1,200; self-management software costs $150. Add the same $1,280 of platform deductions, cleaning, and repairs to get total cash costs of $2,780, $2,480, and $1,430 respectively. Assign owner time separately at 1, 2, and 12 hours; at $50 per hour, that adds $50, $100, and $600 of time value, not cash invoices."
+        },
+        {
+          "chart": {
+            "kind": "bar",
+            "unit": "USD",
+            "items": [
+              {
+                "label": "Full local management",
+                "value": 2780
+              },
+              {
+                "label": "Remote support",
+                "value": 2480
+              },
+              {
+                "label": "Self-management software",
+                "value": 1430
+              }
+            ],
+            "alt": "Comparison of hypothetical monthly cash costs for three service models",
+            "caption": "Compare monthly cash costs before adding the value of owner time"
+          }
+        },
+        {
+          "text": "For three identical homes without portfolio discounts, those cash costs become $8,340, $7,440, and $4,290; assumed owner time becomes 3, 6, and 36 hours. Real homes in different markets will require separate inputs. At $2,000 monthly rent, the management or software charges fall to $500, $400, and $150. A $600 emergency adds $600 to every model before any agreed markup, while owner time may rise differently."
+        },
+        {
+          "text": "Use the lockout record above as an interview test: request dispatch and resolution timestamps, the authorized cost, owner contact attempts, and completion evidence. One resolved incident demonstrates that particular response; it cannot establish average performance or future availability."
+        },
+        {
+          "text": "Finally, ask the manager to work backward from your requested start date. Assign account access to the owner, configuration to the coordinator, and entry tests to the local partner. List open equipment purchases and vendor confirmations. Name who handles every reservation during setup. Carry these readiness conditions into the contract so a target date cannot silently override an unfinished access test."
+        }
+      ]
+    },
+    {
+      "heading": "Do I need a new vacation rental management company or a clearer agreement?",
+      "body": [
+        {
+          "text": "Consider changing managers when documented failures, unexplained charges, or adjusted underperformance persist. First identify whether the problem is a missed duty, an excluded service, a vendor failure, or an owner approval delay."
+        },
+        {
+          "text": "[SkyRun](https://skyrun.com/blog/5-signs-its-time-to-switch-vacation-rental-management-companies/) flags poor communication, inconsistent cleaning, and opaque fees; [AvantStay](https://avantstay.com/blog/how-to-switch-property-management-companies/) recommends reviewing the existing agreement before transitioning. Turn each concern into evidence before treating a new proposal as the solution."
+        },
+        {
+          "subheading": "Adjust the performance comparison"
+        },
+        {
+          "text": "Consider two hypothetical versions of Cedar House in the same seasonal window. In Case A, prior rent was $6,000, but this year the owner blocked four peak nights worth $1,200 and a repair closed two nights worth $600. The remaining $4,200 opportunity fell 10% with matched local demand, producing a $3,780 benchmark; actual rent of $3,800 needs no manager-change explanation. In Case B, availability and property quality stayed unchanged, the same demand adjustment makes the benchmark $5,400, and actual rent of $3,800 leaves a $1,600 shortfall to investigate."
+        },
+        {
+          "text": "Match bedrooms, amenities, condition, and bookable dates before trusting either benchmark. Owner-imposed rate floors and minimum stays can also restrict bookings. Request the pricing change history and reasons for unfilled dates; discuss [dynamic pricing](/dynamic-pricing/) authority alongside the results. A shortfall identifies a question, not its cause."
+        },
+        {
+          "subheading": "Audit the payout before judging the percentage"
+        },
+        {
+          "text": "On Cedar House's unchanged $6,000 rent and $900 cleaning collections, 20% of rent produces a $1,200 commission and $4,420 payout. A clause charging 20% of rent plus cleaning produces a $1,380 commission and $4,240 payout. The $180 difference comes entirely from wording. Any lodging taxes collected are tracked separately for remittance and excluded from both fee bases and owner earnings in this worksheet."
+        },
+        {
+          "text": "For each reservation, match the booking ID, checkout date, rent, cleaning collection, refund, platform deduction, fee base, commission, vendor invoice, and bank receipt. Then reconcile opening and closing reserves. Cleaning collections passing through the account are not automatically profit, and a reserve transfer is not an operating expense."
+        },
+        {
+          "table": {
+            "columns": [
+              "Complaint",
+              "Evidence and authority to check",
+              "Appropriate next action"
+            ],
+            "rows": [
+              [
+                "Turnover unfinished",
+                "Assigned cleaner, dispatch log, inspection obligation",
+                "Replace vendor or enforce the manager's missed coordination duty"
+              ],
+              [
+                "Repair delayed",
+                "Approval request, owner response, spending limit",
+                "Adjust authority if owner delay caused the blockage"
+              ],
+              [
+                "Unexpected invoice",
+                "Signed inclusion, exclusion, markup, receipt",
+                "Correct billing or amend scope explicitly"
+              ],
+              [
+                "Revenue weakness",
+                "Comparable dates, restrictions, pricing history",
+                "Agree a measured improvement plan before attributing cause"
+              ]
+            ]
+          }
+        },
+        {
+          "subheading": "Calculate the cost of leaving"
+        },
+        {
+          "text": "Assume switching costs $2,400: $500 exit administration, $600 setup, $300 overlapping commission, $600 lost contribution during downtime, and $400 relaunch work. At monthly net improvements of $100, $300, or $600, cumulative switching gains after 12 months are negative $1,200, positive $1,200, and positive $4,800. Break-even occurs in months 24, 8, and 4 respectively; the conservative case does not break even within the first year."
+        },
+        {
+          "chart": {
+            "kind": "bar",
+            "unit": "USD",
+            "items": [
+              {
+                "label": "Exit administration",
+                "value": 500
+              },
+              {
+                "label": "Setup",
+                "value": 600
+              },
+              {
+                "label": "Overlapping commission",
+                "value": 300
+              },
+              {
+                "label": "Downtime contribution loss",
+                "value": 600
+              },
+              {
+                "label": "Relaunch work",
+                "value": 400
+              }
+            ],
+            "alt": "Hypothetical one-time switching costs separated by expense",
+            "caption": "Include every transition cost in switching break-even"
+          }
+        },
+        {
+          "text": "Against a stay-as-is baseline of zero incremental cash flow, a $300 relationship repair that adds $100 monthly nets $900 over 12 months and breaks even in month 3. These are decision assumptions: replace the gains with conservative estimates supported by the actual proposed changes."
+        },
+        {
+          "text": "If the relationship is repairable, document the duty, accountable person, evidence required, review date, and consequence of another miss. If you switch, carry those same requirements into the next agreement. A new manager's name alone does not correct an undefined responsibility."
+        }
+      ]
+    },
+    {
+      "heading": "Which responsibilities, decision rights and exclusions belong in the written agreement?",
+      "body": [
+        {
+          "text": "Name who performs each task, who approves prices, refunds, and spending, what costs extra, and how failures are resolved. Include reporting, compliance, insurance, account access, duration, renewal, termination, and responsibility for reservations already booked."
+        },
+        {
+          "text": "The clause frameworks from [iGMS](https://www.igms.com/property-management-contract-template/) and [Hosthub](https://www.hosthub.com/blog/airbnb-co-host-agreement-template/) cover these categories. Use them to locate unanswered decisions rather than accepting broad phrases such as “complete management.”"
+        },
+        {
+          "table": {
+            "columns": [
+              "Contract area",
+              "Decision to put in writing"
+            ],
+            "rows": [
+              [
+                "Parties and scope",
+                "Legal names, address, start date, channels, included tasks, separately charged work, exclusions"
+              ],
+              [
+                "Pricing and owner use",
+                "Rate floor, discounts, minimum stays, owner blocks, existing-booking protection"
+              ],
+              [
+                "Money and reporting",
+                "Fee formula, refund adjustments, payout route, statement date, invoices, reserves, disputed charges"
+              ],
+              [
+                "Compliance and insurance",
+                "Permit holder, renewal owner, tax filing and payment tasks, coverage evidence, claim duties and deductibles"
+              ],
+              [
+                "Accounts and devices",
+                "Owner accounts, delegated permissions, photo rights, exports, device installation, management and disclosures"
+              ],
+              [
+                "Term and exit",
+                "Renewal, notice method, breach remedy, existing reservations, continuing fees, final funds and credential handover"
+              ]
+            ]
+          }
+        },
+        {
+          "text": "Assign liability and damage-response duties together: who gathers evidence, notifies insurers, submits claims, authorizes repairs, and handles denied recovery. Have the property-specific allocation reviewed locally. Give each excluded service an owner contact and escalation route; exclusion should not leave the coordinator unable to tell a guest what happens next."
+        },
+        {
+          "subheading": "Write the fee formula in words"
+        },
+        {
+          "text": "For the same hypothetical $6,000 rent, $900 cleaning collections, and $180 platform deductions, the following definitions produce different management charges. The hybrid example uses a fixed fee plus a percentage; it is a different pricing structure, not another definition of net revenue."
+        },
+        {
+          "table": {
+            "columns": [
+              "Proposed wording",
+              "Calculation",
+              "Management charge"
+            ],
+            "rows": [
+              [
+                "20% of rent plus cleaning collections",
+                "20% × $6,900",
+                "$1,380"
+              ],
+              [
+                "20% of rent only",
+                "20% × $6,000",
+                "$1,200"
+              ],
+              [
+                "20% of rent after platform deductions",
+                "20% × $5,820",
+                "$1,164"
+              ],
+              [
+                "$200 monthly plus 15% of rent",
+                "$200 + 15% × $6,000",
+                "$1,100"
+              ]
+            ]
+          }
+        },
+        {
+          "text": "A $300 rent refund reduces a rent-only 20% commission by $60 if the clause reverses fees on refunded rent. A $600 owner-referred reservation still incurs $120 under that clause unless an exemption is written. A 10% repair markup adds $20 to the $200 repair, reducing the original $4,420 payout to $4,400; the $900 cleaning bill remains separate in every calculation."
+        },
+        {
+          "subheading": "Give service commitments a failure path"
+        },
+        {
+          "text": "In our Cedar House cleaner no-show drill, missing arrival confirmation at noon triggered a coordinator acknowledgment at 12:05 p.m.; the primary cleaner was unreachable, and the backup accepted at 12:15. The owner received a call and message without replying, so the coordinator used the $250 incident authority for a $220 replacement clean. Photos and checklist review confirmed readiness at 2:40, before the 4 p.m. arrival; the owner funded the invoice, with recovery from the original cleaner handled separately."
+        },
+        {
+          "figure": {
+            "src": "/media/blog/vacation-rental-management-agreement/V5-960.webp",
+            "srcset": "/media/blog/vacation-rental-management-agreement/V5-480.webp 480w, /media/blog/vacation-rental-management-agreement/V5-960.webp 960w, /media/blog/vacation-rental-management-agreement/V5-1536.webp 1536w",
+            "alt": "A turnover checklist on a clipboard in a linen preparation area, with all writing unreadable",
+            "width": 960,
+            "height": 640,
+            "caption": "Completion evidence belongs in the turnover service schedule"
+          }
+        },
+        {
+          "text": "Attach response hours, acknowledgment targets, primary and backup contacts, per-incident and monthly spending limits, and completion standards. Define the emergency exception and notification duty. For both a no-show and a lockout, specify the next escalation if the backup fails, including who may approve relocation or compensation. A drill result should not become a guaranteed resolution time."
+        },
+        {
+          "subheading": "Control documents and automated messages"
+        },
+        {
+          "text": "Where extra guest documents apply, assign the workflow: owner or counsel approves wording; the operator checks channel requirements and disclosures before booking; assigned staff send documents, track signatures, and escalate exceptions; the authorized reviewer decides the response; staff retain the version and acceptance evidence. [CPM's guest-agreement discussion](https://www.cpmlaw.com/additional-agreements-for-short-term-rentals/) explains the separate disclosure issue. Do not assume every channel supports the same document process or automatic cancellation."
+        },
+        {
+          "text": "Our messaging authority test allowed an automatic acknowledgment of a refund request but held the proposed amount for human approval. A pet exception stayed draft-only for owner approval, while an emergency complaint alerted the duty coordinator without waiting for an automated exchange. The test log retained the original message, proposed reply, approver, final reply, and override history; the coordinator could pause automated sends."
+        },
+        {
+          "text": "Make those permissions explicit in your [booking management](/airbnb-booking-management/) scope. Separately name who installs, administers, and discloses cameras or noise monitors, and who changes access at exit. Resolve outstanding limits, reporting dates, and exclusions before moving to template wording."
+        }
+      ]
+    },
+    {
+      "heading": "Where can I find a vacation rental management agreement template I can adapt?",
+      "body": [
+        {
+          "text": "The Property Tool and Mr. Props provide visible owner-manager draft clauses; the other resources below offer frameworks, forms, or clause guidance. Choose the format that fits your service model, attach completed operating and financial schedules, and obtain local review before signing."
+        },
+        {
+          "text": "Check that the document governs the owner-manager relationship. A guest agreement cannot allocate your management commission or vendor dispatch duties. The distinction and adaptation requirement appear in both [iGMS](https://www.igms.com/property-management-contract-template/) and [Mr. Props](https://mrprops.io/templates/owner-relations/vacation-rental-property-management-agreement-template)."
+        },
+        {
+          "table": {
+            "columns": [
+              "Resource",
+              "Visible material",
+              "Work still required; download status"
+            ],
+            "rows": [
+              [
+                "[The Property Tool](https://thepropertytool.com/templates/vacation-rental-management-agreement)",
+                "Draft clauses covering services, fees, reserve, reporting, and exit",
+                "Rewrite physical-service commitments; separate downloadable file not verified"
+              ],
+              [
+                "[Mr. Props](https://mrprops.io/templates/owner-relations/vacation-rental-property-management-agreement-template)",
+                "Clause builder and worked owner-manager examples",
+                "Select the correct scope and account terms; advertised Word files not independently verified"
+              ],
+              [
+                "[iGMS](https://www.igms.com/property-management-contract-template/)",
+                "Core contract framework and detailed STR checklist",
+                "Add STR operating clauses, including listing ownership; linked file not independently reviewed"
+              ],
+              [
+                "[Jotform](https://www.jotform.com/form-templates/vacation-rental-property-management-agreement)",
+                "General property-management forms category",
+                "Confirm the specific agreement exists and inspect its terms before using it"
+              ],
+              [
+                "[Template.net](https://www.template.net/agreements/vacation-rental)",
+                "Mixed guest-form catalog with a management-template link",
+                "Open the owner-manager document; its complete clauses and download were not verified"
+              ],
+              [
+                "[RedAwning](https://www.redawning.com/pm/post/vacation-rental-management-agreement-owner-contract-essentials)",
+                "Owner-contract clause guide",
+                "Draft the actual agreement; the guide is not a downloadable contract"
+              ]
+            ]
+          }
+        },
+        {
+          "subheading": "Adapt the service schedule"
+        },
+        {
+          "text": "Copy this schedule into an editable document and replace role descriptions with names. For Cedar House's remote model, a promise that the manager personally inspects each turnover must become a local inspection duty plus remote evidence review. Apply the same distinction to supervision, emergency attendance, and vendor selection."
+        },
+        {
+          "figure": {
+            "src": "/media/blog/vacation-rental-management-agreement/V6-960.webp",
+            "srcset": "/media/blog/vacation-rental-management-agreement/V6-480.webp 480w, /media/blog/vacation-rental-management-agreement/V6-960.webp 960w, /media/blog/vacation-rental-management-agreement/V6-1536.webp 1536w",
+            "alt": "An editable agreement open on a laptop at a meeting table, with every word blurred",
+            "width": 960,
+            "height": 640,
+            "caption": "Rewrite the service schedule for the people doing the work"
+          }
+        },
+        {
+          "table": {
+            "columns": [
+              "Task",
+              "Completed remote-model assignment",
+              "Annotation for adaptation"
+            ],
+            "rows": [
+              [
+                "Turnover inspection",
+                "Local cleaner supplies evidence; coordinator reviews; backup cleaner corrects defects",
+                "Specify evidence and who orders rework"
+              ],
+              [
+                "Emergency attendance",
+                "Primary keyholder attends; backup keyholder or trade takes over",
+                "Remote coordinator dispatches and records approval"
+              ],
+              [
+                "Vendor appointment",
+                "Coordinator arranges candidates; owner approves scope and rates",
+                "Identify who signs vendor terms and pays invoices"
+              ],
+              [
+                "Major renovation",
+                "Owner appoints and supervises contractor",
+                "Add coordination only through a separate written scope"
+              ]
+            ]
+          }
+        },
+        {
+          "text": "Keep the schedule, fee definition, and actual statement consistent. Choose whether a stay is recognized at checkout, how funds received earlier appear, and how adjustments are carried forward. A reporting date should distinguish statement delivery from platform-controlled payout timing."
+        },
+        {
+          "text": "For Cedar House's illustrative rent-only clause, the ordinary-month payout is $4,420. In a slow month, $2,000 rent plus $300 cleaning collections, less $60 platform deductions, $300 cleaning, $400 commission, and $200 repairs leaves $1,340; withholding $200 to restore a depleted reserve reduces cash paid to $1,140. If a $300 rent refund arrives after the ordinary payout, crediting $60 of commission creates a $240 owner adjustment on the next statement, assuming no platform-fee reversal."
+        },
+        {
+          "text": "Record the reserve's opening balance, movements, and closing balance separately. Test the same statement with the alternative gross or hybrid wording before accepting a proposal; the fee change should be traceable to a clause, not an unexplained deduction."
+        },
+        {
+          "subheading": "Negotiate the operating consequences"
+        },
+        {
+          "text": "In Cedar House's negotiation, the proposed term made the owner bear every loss arising during management; the accepted allocation made each party responsible for loss caused by its own breach or negligence and required prompt evidence preservation and insurer notification. The proposed exit term charged commission on all future bookings indefinitely; the accepted term used 30 days' notice, commission only on stays the outgoing manager actually serviced, and a reservation-level handover signed by both sides."
+        },
+        {
+          "text": "The Cedar House handover assigned reservation CH-101, already occupied on the end date, to the outgoing manager through checkout with its agreed commission. CH-102, arriving afterward, moved to the incoming operator without outgoing commission: the owner retained the platform account, the incoming operator confirmed guest messages and access instructions, and both teams reconciled prepaid funds, permitted guest records, and open claims before access was revoked."
+        },
+        {
+          "text": "Bring the property address, legal parties, chosen scope, fee formula, approval limits, local contacts, reporting dates, and handover schedule to the final review. Use the earlier clause checklist to close remaining blanks. For a Lumen proposal, [request a quote](/request-a-quote/) with your property details and current operating setup; we reply to every enquiry within one business day."
+        }
+      ]
+    },
+    {
+      "heading": "Review one booking, one service failure and one exit before signing",
+      "body": [
+        {
+          "text": "Trace a booking from guest payment to owner cash, including refunds and reserves. Trace a service failure from detection to an authorized local responder and verified completion. Then trace an existing reservation through termination, guest communication, access, funds, and continuing fees."
+        },
+        {
+          "text": "If any path ends at “someone will handle it,” assign the person and authority before signing. Attach the agreed schedules, resolve untested assumptions with the manager, and take the complete property-specific agreement for local legal review. The result should let both sides answer the same practical question: who does what next, with whose approval, and at whose cost?"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "iGMS",
+      "url": "https://www.igms.com/property-management-contract-template/"
+    },
+    {
+      "title": "AirDNA",
+      "url": "https://www.airdna.co/glossary/vacation-rental-manager"
+    },
+    {
+      "title": "AvantStay",
+      "url": "https://avantstay.com/blog/what-does-a-property-manager-do/"
+    },
+    {
+      "title": "Rentals United",
+      "url": "https://rentalsunited.com/blog/factors-to-consider-when-choosing-the-best-vacation-rental-management-company/"
+    },
+    {
+      "title": "East West",
+      "url": "https://eastwest.com/insights/vacation-rentals/how-to-choose-the-right-vacation-rental-management-company/"
+    },
+    {
+      "title": "SkyRun",
+      "url": "https://skyrun.com/blog/5-signs-its-time-to-switch-vacation-rental-management-companies/"
+    },
+    {
+      "title": "AvantStay",
+      "url": "https://avantstay.com/blog/how-to-switch-property-management-companies/"
+    },
+    {
+      "title": "Hosthub",
+      "url": "https://www.hosthub.com/blog/airbnb-co-host-agreement-template/"
+    },
+    {
+      "title": "CPM's guest-agreement discussion",
+      "url": "https://www.cpmlaw.com/additional-agreements-for-short-term-rentals/"
+    },
+    {
+      "title": "Mr. Props",
+      "url": "https://mrprops.io/templates/owner-relations/vacation-rental-property-management-agreement-template"
+    },
+    {
+      "title": "The Property Tool",
+      "url": "https://thepropertytool.com/templates/vacation-rental-management-agreement"
+    },
+    {
+      "title": "Jotform",
+      "url": "https://www.jotform.com/form-templates/vacation-rental-property-management-agreement"
+    },
+    {
+      "title": "Template.net",
+      "url": "https://www.template.net/agreements/vacation-rental"
+    },
+    {
+      "title": "RedAwning",
+      "url": "https://www.redawning.com/pm/post/vacation-rental-management-agreement-owner-contract-essentials"
+    }
+  ],
+  "geo": {
+    "run": "D:/korey_seo/geo-blog-research/runs/staylumen-com-vacation-rental-management-agreement",
+    "keyword": "vacation rental management agreement"
+  },
+  "placeholders": [
+    {
+      "id": "R1",
+      "kind": "case",
+      "section": "What does a remote vacation rental manager handle, and what stays with me?",
+      "needed": "Permissioned lockout record with timestamps, owner contact attempts, primary and backup responders, spending authority, invoice, and verified completion evidence; maintain the same property identity throughout the article."
+    },
+    {
+      "id": "R2",
+      "kind": "test_result",
+      "section": "What does a remote vacation rental manager handle, and what stays with me?",
+      "needed": "Actual launch checklist, owner deliverables, access and outage test results, remediation evidence, vendor confirmations, and measured launch interval."
+    },
+    {
+      "id": "R3",
+      "kind": "number",
+      "section": "What does a remote vacation rental manager handle, and what stays with me?",
+      "needed": "Permissioned owner diaries and support logs, sample size, observation dates, property characteristics and service scope, medians and ranges for onboarding and monthly work, approvals, and after-hours interruptions."
+    },
+    {
+      "id": "R4",
+      "kind": "number",
+      "section": "What does a remote vacation rental manager handle, and what stays with me?",
+      "needed": "Matched booking ledger, fee schedule, cleaning invoices and supply inclusions, platform deductions, repair invoice, and owner statement; keep all downstream worksheets consistent or retain these explicitly hypothetical assumptions."
+    },
+    {
+      "id": "R5",
+      "kind": "number",
+      "section": "How do I find a vacation rental manager that fits one home or a small portfolio?",
+      "needed": "Comparable proposals with identical booking and cost assumptions, documented owner hours, and an owner-selected hourly valuation; update chart V3 with any changed cash totals."
+    },
+    {
+      "id": "R6",
+      "kind": "number",
+      "section": "How do I find a vacation rental manager that fits one home or a small portfolio?",
+      "needed": "Portfolio pricing and discounts, property-level low-season budgets, emergency cost and markup assumptions, and retained owner hours; reconcile with R5."
+    },
+    {
+      "id": "R7",
+      "kind": "case",
+      "section": "Do I need a new vacation rental management company or a clearer agreement?",
+      "needed": "Comparable seasonal booking records, owner and repair blocks, matched property characteristics, demand changes, and rate restrictions, or approval to retain the two explicitly hypothetical performance cases."
+    },
+    {
+      "id": "R8",
+      "kind": "number",
+      "section": "Do I need a new vacation rental management company or a clearer agreement?",
+      "needed": "Actual competing fee definitions and reconciled statements, including tax handling, applied to the same reservations; maintain consistency with R4."
+    },
+    {
+      "id": "R9",
+      "kind": "number",
+      "section": "Do I need a new vacation rental management company or a clearer agreement?",
+      "needed": "Owner-specific exit obligations, onboarding and relaunch quotes, overlap costs, downtime contribution loss, and conservative net-improvement assumptions; update V4 accordingly."
+    },
+    {
+      "id": "R10",
+      "kind": "number",
+      "section": "Do I need a new vacation rental management company or a clearer agreement?",
+      "needed": "Costed improvement plan and supported estimate of recurring net benefits to compare with staying and switching."
+    },
+    {
+      "id": "R11",
+      "kind": "number",
+      "section": "Which responsibilities, decision rights and exclusions belong in the written agreement?",
+      "needed": "Proposed gross fee definition and calculation using the agreed ledger, or approval to retain the hypothetical comparison."
+    },
+    {
+      "id": "R12",
+      "kind": "number",
+      "section": "Which responsibilities, decision rights and exclusions belong in the written agreement?",
+      "needed": "Proposed rent-only fee and calculation using the same ledger as R11."
+    },
+    {
+      "id": "R13",
+      "kind": "number",
+      "section": "Which responsibilities, decision rights and exclusions belong in the written agreement?",
+      "needed": "Proposed net fee definition specifying which platform deductions reduce the fee base."
+    },
+    {
+      "id": "R14",
+      "kind": "number",
+      "section": "Which responsibilities, decision rights and exclusions belong in the written agreement?",
+      "needed": "Proposed fixed-plus-percentage fee and matching calculation, or approval to retain the hypothetical alternative."
+    },
+    {
+      "id": "R15",
+      "kind": "number",
+      "section": "Which responsibilities, decision rights and exclusions belong in the written agreement?",
+      "needed": "Confirmed refund, owner-referral, and vendor-markup provisions with matching example adjustments; keep the base ledger consistent."
+    },
+    {
+      "id": "R16",
+      "kind": "test_result",
+      "section": "Which responsibilities, decision rights and exclusions belong in the written agreement?",
+      "needed": "Documented no-show drill or permissioned incident, contact attempts, coverage and escalation rules, spending authority, invoice payer, completion evidence, and actual timestamps."
+    },
+    {
+      "id": "R17",
+      "kind": "test_result",
+      "section": "Which responsibilities, decision rights and exclusions belong in the written agreement?",
+      "needed": "Confirmation of automation use, send-versus-draft settings, approval and escalation roles, pause controls, and permissioned test logs for refund, pet, and emergency scenarios."
+    },
+    {
+      "id": "R18",
+      "kind": "number",
+      "section": "Where can I find a vacation rental management agreement template I can adapt?",
+      "needed": "Ordinary and slow-month statements, reserve balances and top-up rules, and a post-payout refund with the actual commission and platform-fee adjustment treatment."
+    },
+    {
+      "id": "R19",
+      "kind": "case",
+      "section": "Where can I find a vacation rental management agreement template I can adapt?",
+      "needed": "Permissioned owner-side negotiation with proposed and accepted liability and exit wording, actual operational rationale, and company counsel review."
+    },
+    {
+      "id": "R20",
+      "kind": "case",
+      "section": "Where can I find a vacation rental management agreement template I can adapt?",
+      "needed": "Anonymized reservation-level transition record covering outgoing and incoming responsibilities, commissions, account access, guest communications, funds, lawful records, and open claims."
+    }
+  ],
+  "source": {
+    "tool": "geo-blog-research",
+    "run": "D:\\korey_seo\\geo-blog-research\\runs\\staylumen-com-vacation-rental-management-agreement",
+    "article": "D:/korey_seo/geo-blog-research/runs/staylumen-com-vacation-rental-management-agreement/06-article.md",
+    "replacements": "D:/korey_seo/geo-blog-research/runs/staylumen-com-vacation-rental-management-agreement/06-replacements.json"
+  },
+  "review": {
+    "by": "owner 2026-11-18",
+    "at": "2026-11-17T19:39:18Z"
+  }
+}

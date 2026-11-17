@@ -1,0 +1,122 @@
+[
+ {
+  "n": 1,
+  "page_id": "c-cf28f3c9154b:service",
+  "url": "/airbnb-property-maintenance/",
+  "section": "m3",
+  "old": "- **Habitability response**: For urgent leaks, AC failures and lockouts, our target is to have a fix underway within hours, not days.",
+  "new": "- **Habitability response**: For urgent leaks, AC failures and lockouts, we aim to have a local partner there within 4 hours, and if none can attend, we book another local vendor.",
+  "reason": "C18 (library S17/S20): a partner within 4 hours, else another local vendor, as the booking page's urgent-issue visual; \"within hours, not days\" was the vaguer value",
+  "hits_in_last_package": 1,
+  "hits_in_structured_data": 0,
+  "script": "hand_07_factsheet_1117.py"
+ },
+ {
+  "n": 2,
+  "page_id": "c-cf28f3c9154b:service",
+  "url": "/airbnb-property-maintenance/",
+  "section": "faq",
+  "old": "We also order the parts with the fastest delivery available, which is within 1 to 3 days.",
+  "new": "We order the parts on the supplier's fastest delivery and chase any delay, keeping you informed.",
+  "reason": "a parts delivery is the supplier's: its time not promised as ours; a delay we chase and report",
+  "hits_in_last_package": 1,
+  "hits_in_structured_data": 1,
+  "script": "hand_07_factsheet_1117.py"
+ },
+ {
+  "n": 3,
+  "page_id": "c-555717483840:service",
+  "url": "/airbnb-design-furnishing/",
+  "section": "m4",
+  "old": "Furniture arrives within 2-3 weeks.",
+  "new": "Furniture usually arrives within 2-3 weeks; we chase any supplier delay and tell you.",
+  "reason": "the furniture delivery is the supplier's: the usual 2-3 weeks kept as the page's FAQ says it (\"the usual 2–3 weeks\"), a slip we chase and report",
+  "hits_in_last_package": 1,
+  "hits_in_structured_data": 0,
+  "script": "hand_07_factsheet_1117.py"
+ },
+ {
+  "n": 4,
+  "page_id": "place:scottsdale",
+  "url": "/scottsdale/",
+  "section": "m8",
+  "old": "Airbnb Co-Hosting costs 10% of rental revenue plus a USD 100 monthly software fee.",
+  "new": "Airbnb Co-Hosting costs 10% of rental revenue plus a USD 100 monthly software fee per listing.",
+  "reason": "C24: the software fee is per listing, as every other page says it",
+  "hits_in_last_package": 1,
+  "hits_in_structured_data": 0,
+  "script": "hand_07_factsheet_1117.py"
+ },
+ {
+  "n": 5,
+  "page_id": "c-72015ea64385:service",
+  "url": "/airbnb-booking-management/",
+  "section": "overview_2",
+  "old": "holds Airbnb Superhost and VRBO Premier Host status.",
+  "new": "holds Airbnb Superhost and Vrbo Premier Host status.",
+  "reason": "the site spells the platform Vrbo (C2, C38 and every other page)",
+  "hits_in_last_package": 1,
+  "hits_in_structured_data": 0,
+  "script": "hand_07_factsheet_1117.py"
+ },
+ {
+  "n": 6,
+  "page_id": "site:about",
+  "url": "/about-us/",
+  "section": "m4",
+  "old": "We hold Airbnb Superhost and VRBO Premier Host status.",
+  "new": "We hold Airbnb Superhost and Vrbo Premier Host status.",
+  "reason": "the site spells the platform Vrbo (C2, C38 and every other page)",
+  "hits_in_last_package": 1,
+  "hits_in_structured_data": 0,
+  "script": "hand_07_factsheet_1117.py"
+ },
+ {
+  "n": 7,
+  "page_id": "c-57c34f723899:service",
+  "url": "/airbnb-co-hosting/",
+  "section": "m5",
+  "old": "we list your property on VRBO,",
+  "new": "we list your property on Vrbo,",
+  "reason": "the site spells the platform Vrbo (owner platforms fact, every other page)",
+  "hits_in_last_package": 1,
+  "hits_in_structured_data": 0,
+  "script": "hand_07_factsheet_1117.py"
+ },
+ {
+  "n": 8,
+  "page_id": "c-72015ea64385:service",
+  "url": "/airbnb-booking-management/",
+  "section": "m3",
+  "old": "extends your listings to VRBO,",
+  "new": "extends your listings to Vrbo,",
+  "reason": "the site spells the platform Vrbo (owner platforms fact, every other page)",
+  "hits_in_last_package": 1,
+  "hits_in_structured_data": 0,
+  "script": "hand_07_factsheet_1117.py"
+ },
+ {
+  "n": 9,
+  "page_id": "site:contact",
+  "url": "/contact-us/",
+  "section": "faq.visuals",
+  "old": "As a client, you get your own phone and text line with no waiting on hold. The phone line is open 24/7.",
+  "new": "As a client, you get your own phone and text line with no waiting on hold. Outside business hours, it takes urgent issues during stays, handled 24/7.",
+  "reason": "the data visual says the section's fixed value",
+  "hits_in_last_package": 1,
+  "hits_in_structured_data": 0,
+  "script": "hand_07_factsheet_1117.py"
+ },
+ {
+  "n": 10,
+  "page_id": "site:contact",
+  "url": "/contact-us/",
+  "section": "faq.visuals",
+  "old": "which we usually schedule within 3 business days of your enquiry, instead of an in-person office meeting.",
+  "new": "which we schedule within 3 business days of our reply, instead of an in-person office meeting.",
+  "reason": "the data visual says the section's fixed value",
+  "hits_in_last_package": 1,
+  "hits_in_structured_data": 0,
+  "script": "hand_07_factsheet_1117.py"
+ }
+]

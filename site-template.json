@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "seo-site-template-v1",
+  "sourceUrl": "https://www.hometeamluxuryrentals.com/",
+  "route": "/",
+  "components": [
+    "Hero"
+  ],
+  "islands": [],
+  "mode": "authoring",
+  "routes": [
+    "/",
+    "/about-us/",
+    "/airbnb-booking-management/",
+    "/airbnb-co-hosting/",
+    "/airbnb-design-furnishing/",
+    "/airbnb-listing-optimization-seo/",
+    "/airbnb-property-maintenance/",
+    "/case-studies/",
+    "/contact-us/",
+    "/dynamic-pricing/",
+    "/faq/",
+    "/locations/",
+    "/nashville/",
+    "/privacy-policy/",
+    "/request-a-quote/",
+    "/resources/",
+    "/san-diego/",
+    "/scottsdale/",
+    "/short-term-rental-licensing-compliance/",
+    "/terms-and-conditions/",
+    "/vacation-rental-cleaning/"
+  ],
+  "representatives": {
+    "solution": "/vacation-rental-cleaning/",
+    "place": "/san-diego/",
+    "about": "/about-us/",
+    "contact": "/contact-us/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "frames": {
+    "hero": {
+      "byPageType": {
+        "about": 1.21,
+        "contact": 1.86
+      }
+    },
+    "cta": {
+      "byPageType": {
+        "home": 0.44
+      }
+    }
+  },
+  "crops": {
+    "/media/photos/home-brief-cta-1-960.webp": {
+      "0.44": {
+        "src": "/media/photos/home-brief-cta-1-960-phone-44.webp",
+        "width": 451,
+        "height": 1025
+      }
+    }
+  },
+  "soft": [
+    "/media/photos/home-brief-cta-1-960-phone-44.webp (451px wide, from 1536x1024)"
+  ],
+  "unfocused": [],
+  "overBudget": []
+}

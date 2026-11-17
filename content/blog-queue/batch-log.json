@@ -1,0 +1,28 @@
+[
+  {
+    "at": "2026-11-17T20:13:11.143Z",
+    "count": 1,
+    "publish": true,
+    "written": [
+      {
+        "topic": "what is the 80 20 rule for airbnb",
+        "run": "D:/korey_seo/geo-blog-v2-1118/runs/staylumen-what-is-the-80-20-rule-for-airbnb",
+        "passed": false,
+        "held": [],
+        "words": 1954,
+        "paidUsd": 0.004,
+        "seconds": 903.7,
+        "slug": "airbnb-80-20-rule",
+        "queue": "drafts",
+        "reviewFailures": [
+          "blog flow final check: held; gates: sources"
+        ]
+      }
+    ],
+    "skipped": {
+      "airbnb host cancellation policy": "written before"
+    },
+    "waiting": null,
+    "by": "geo-blogs"
+  }
+]

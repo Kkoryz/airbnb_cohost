@@ -1,0 +1,4 @@
+[
+  { "n": 1, "url": "/blog/vacation-rental-management-agreement/", "old": "Rewrite physical-service commitments; separate downloadable file not verified", "new": "Rewrite physical-service commitments; separate file to download not verified", "reason": "08 2026-11-18, on publishing: the cell describes another site's template, not a file we offer; \"downloadable\" read as our promise of a file (data checks promise_without_asset). Same meaning" },
+  { "n": 2, "url": "/blog/vacation-rental-management-agreement/", "old": "Draft the actual agreement; the guide is not a downloadable contract", "new": "Draft the actual agreement; the guide is not a contract file to download", "reason": "08 2026-11-18, on publishing: the cell describes another site's guide, not a file we offer; \"downloadable\" read as our promise of a file (data checks promise_without_asset). Same meaning" }
+]

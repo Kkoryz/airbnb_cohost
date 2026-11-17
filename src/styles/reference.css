@@ -1,0 +1,522 @@
+﻿/* Reference treatment. See analysis/treatment.md for evidence and hook limits.
+   Specificity beats the starter tokens following this import in global.css. */
+:root:root {
+  --surface-primary: rgb(0 0 0);
+  --surface-secondary: rgb(213 213 213);
+  --surface-dark: rgb(0 0 0);
+  --surface-light: rgb(255 255 255);
+  --text-primary: rgb(255 255 255);
+  /* Template inverse means ink on dark surfaces; the lock names this differently. */
+  --text-inverse: rgb(255 255 255);
+  --text-muted: rgb(213 213 213);
+  --text-inverse-muted: rgb(255 255 255);
+  --heading-color: rgb(255 255 255);
+  --border-color: rgb(255 255 255 / 0.5);
+  --accent: rgb(255 255 255);
+  --accent-contrast: rgb(0 0 0);
+  --accent-text: rgb(255 255 255);
+  --link: rgb(255 255 255);
+  --focus-ring: currentColor;
+  --font-body: Montserrat, Arial, sans-serif;
+  --font-hero: Marcellus, Georgia, serif;
+  --font-display: Marcellus, Georgia, serif;
+  --font-subheading: Montserrat, Arial, sans-serif;
+  --font-ui: 'Open Sans', Arial, sans-serif;
+  --font-eyebrow: Montserrat, Arial, sans-serif;
+  --size-body: 1.125rem;
+  --size-lead: 1.125rem;
+  --size-eyebrow: 0.875rem;
+  --tracking-eyebrow: 0.16em;
+  --line-body: 1.5;
+  --weight-heading: 600;
+  --radius-card: 10px;
+  --radius-media: 5px;
+  --radius-button: 5px;
+  --radius-pill: 5px;
+  --shadow-card: none;
+  --shadow-dropdown: none;
+  --container-max: 75rem;
+  --gutter: clamp(1rem, 3.5vw, 3rem);
+  --grid-gap: 18px;
+  --section-space: clamp(2.5rem, 5vw, 5rem);
+  --header-height: 6.25rem;
+  --hero-align: center;
+  --hero-copy-max: 100%;
+  --hero-min-height: clamp(320px, 42vw, 600px);
+  --lead-align: center;
+  --lead-inline: auto;
+  /* 54% black is the smallest whole-percent shade giving white 4.5:1
+     even over a white pixel. No separate box behind photo copy. */
+  --hero-overlay: rgb(0 0 0 / 0.54);
+  --cta-overlay: rgb(0 0 0 / 0.54);
+  --band-overlay: rgb(0 0 0 / 0.54);
+  --text-scrim: transparent;
+  --label-bg: rgb(0 0 0 / 0.54);
+  --tile-shade: linear-gradient(to top, rgb(0 0 0 / 0.8), rgb(0 0 0 / 0) 75%);
+  --article-measure: 70ch;
+  --article-line-height: 1.5;
+  --article-paragraph-gap: 1rem;
+  --article-heading-gap: 1rem;
+  --article-section-gap: 2.5rem;
+  --article-figure-gap: 2.5rem;
+  --tap-min: 24px;
+}
+.site-header {
+  --font-ui: Montserrat, Arial, sans-serif;
+  --nav-transform: uppercase;
+  --surface-topbar: rgb(0 0 0);
+  --dropdown-bg: rgb(0 0 0);
+  --border-color: transparent;
+  --logo-height: 40px;
+  --logo-max-width: min(12rem, 45vw);
+}
+.site-footer {
+  --footer-brand-align: center;
+  --font-ui: Montserrat, Arial, sans-serif;
+}
+/* Module roots change palette and measure, not component-internal geometry. */
+.block--intro, .block--prose { --container-max: 70ch; }
+.block--proof, .block--cta:not([data-variant='inline']) {
+  --surface-secondary: rgb(0 0 0);
+  --radius-card: 0px;
+  --container-max: 70ch; --secondary-ink: rgb(255, 255, 255); --secondary-muted: rgb(140, 140, 140); --secondary-link: rgb(255, 255, 255); --secondary-accent: rgb(255, 255, 255);
+}
+.block--cta[data-variant='inline'] {
+  --container-max: 70ch;
+  --radius-card: 0px;
+}
+.block--split:not([data-variant='tinted']) { --surface-secondary: rgb(0 0 0); --secondary-ink: rgb(255, 255, 255); --secondary-muted: rgb(140, 140, 140); --secondary-link: rgb(255, 255, 255); --secondary-accent: rgb(255, 255, 255); }
+.block--split[data-variant='tinted'] {
+  --text-primary: rgb(0 0 0);
+  --heading-color: rgb(0 0 0);
+  --text-muted: rgb(0 0 0);
+  --accent: rgb(0 0 0);
+  --accent-contrast: rgb(255 255 255);
+  --accent-text: rgb(0 0 0);
+  --link: rgb(0 0 0);
+  color: var(--text-primary);
+}
+main[data-page-type='home'] .block--gallery {
+  --text-primary: rgb(0 0 0);
+  --heading-color: rgb(0 0 0);
+  --text-muted: rgb(0 0 0);
+  --accent: rgb(0 0 0);
+  --accent-contrast: rgb(255 255 255);
+  --accent-text: rgb(0 0 0);
+  --link: rgb(0 0 0);
+  background: var(--surface-light);
+  color: var(--text-primary);
+}
+.block--faq { --radius-card: 0px; }
+.block--testimonials {
+  --surface-testimonial: rgb(255 255 255);
+  --testimonial-padding: 1rem;
+  --text-muted: rgb(0 0 0);
+  --carousel-gap: 18px;
+  --carousel-item-width: min(100%, 18rem);
+  --carousel-control-bg: rgb(0 0 0);
+  --carousel-control-fg: rgb(255 255 255);
+}
+.testimonial {
+  --heading-color: rgb(0 0 0);
+  --text-primary: rgb(0 0 0);
+  --border-color: rgb(0 0 0 / 0.5);
+  /* The surface hook has no matching inherited-ink hook. AA takes precedence. */
+  color: var(--text-primary);
+}
+.block--cases { --surface-secondary: rgb(0 0 0); --radius-card: 0px; --secondary-ink: rgb(255, 255, 255); --secondary-muted: rgb(140, 140, 140); --secondary-link: rgb(255, 255, 255); --secondary-accent: rgb(255, 255, 255); }
+.block--table { --surface-secondary: rgb(0 0 0); --border-table: transparent; --secondary-ink: rgb(255, 255, 255); --secondary-muted: rgb(140, 140, 140); --secondary-link: rgb(255, 255, 255); --secondary-accent: rgb(255, 255, 255); }
+.block--contact-channels {
+  --channel-align: center;
+  --channel-card-bg: transparent;
+  --channel-card-border: 0;
+  --channel-card-padding: 1rem;
+  --channel-card-radius: 0px;
+  --channel-card-width: 20rem;
+  --channel-icon-bg: transparent;
+  --channel-icon-box: 4rem;
+  --channel-icon-size: 3rem;
+  --channel-icon-color: currentColor;
+}
+.block--logos, .block--certifications {
+  --certification-bg: transparent;
+  --certification-border: 0;
+  --certification-padding: 1rem;
+  --logos-item-width: 8rem;
+  --logos-gap: 18px;
+}
+.block--form { --radius-input: 3px; --input-border: rgb(255 255 255 / 0.5); }
+main:is([data-page-type='solution'], [data-page-type='place']) .page-hero {
+  --hero-align: start;
+  --font-hero: Montserrat, Arial, sans-serif;
+  --weight-heading: 700;
+}
+main[data-page-type='home'] .page-hero { --weight-heading: 400; }
+main[data-page-type='about'] .page-hero {
+  --weight-heading: 700;
+}
+main[data-page-type='contact'] .page-hero { --hero-min-height: clamp(240px, 28vw, 400px); }
+@media (max-width: 767px) {
+  :root:root { --header-height: 5rem; --gutter: 1rem; }
+}
+
+/* Shared module repairs from the design gate; heading fits and item grids stay
+   with the template. The photo treatment follows the template's photo hook. */
+main[data-hero-photo] .page-hero {
+  --hero-overlay: rgb(0 0 0 / 0.54);
+}
+.block--intro[data-variant='text'] .text-block,
+.block--proof[data-variant='dark'] .text-block {
+  text-align: start;
+  margin-inline: auto;
+}
+.block--intro[data-variant='text'] .text-block .text-block__copy,
+.block--proof[data-variant='dark'] .text-block .text-block__copy {
+  margin-inline: auto;
+}
+.block--intro[data-variant='text'] .text-block__copy,
+.block--proof[data-variant='dark'] .text-block__copy {
+  max-width: 70ch;
+}
+.block--grid[data-pattern='icons'] .feature-card {
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  padding: 0;
+  color: inherit;
+  --text-primary: inherit;
+  --heading-color: inherit;
+  --text-muted: inherit;
+  --accent-text: inherit;
+}
+.block--grid[data-pattern='icons'] .feature-grid__heading {
+  font-family: var(--font-subheading);
+  font-weight: 600;
+}
+.block--grid:is([data-pattern='icons'], [data-pattern='columns']) .feature-card__title,
+.icon-list__item h3,
+.block--process[data-variant='circles'] .process-step__title {
+  font-weight: 600;
+}
+.block--grid[data-pattern='bullets'] .point-list__title,
+.block--grid[data-pattern='cards'] .feature-card__title {
+  font-weight: 700;
+}
+@media (min-width: 900px) {
+  .block--grid[data-pattern='bullets'] .point-list__items {
+    border-inline-start: 1px solid var(--border-color);
+    padding-inline-start: 2rem;
+  }
+}
+.block--table[data-variant='grid'] .table-block__scroll {
+  max-width: 70ch;
+  margin-inline: auto;
+}
+/* Scroll covers match the template-assigned surface, including tinted sections.
+   The page's black canvas otherwise paints over black table text at the edges. */
+:is(.prose__table, .table-block__scroll)[data-scroll='sideways'] {
+  --surface-primary: var(--sticky-surface, var(--surface-dark));
+}
+.block--testimonials .testimonial figcaption {
+  order: -1;
+  border-top: 0;
+  padding-top: 0;
+  margin-top: 0;
+}
+.block--testimonials .testimonial__author { font-weight: 400; }
+.block--testimonials .testimonial__photo { width: 32px; height: 32px; }
+.block--logos .logos__item,
+.block--logos .logos__item[data-wordmark] {
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: inherit;
+  --heading-color: inherit;
+  --text-muted: inherit;
+}
+.block--logos .logos__item[data-wordmark] {
+  grid-template-rows: 1fr auto;
+  align-content: stretch;
+}
+.block--related .related-pages--grid .related-links__link {
+  border: 0;
+  border-radius: 0;
+  padding: 0.25rem 0;
+}
+.block--related .related-pages--grid .related-links__link::after { content: none; }
+.block--related .related-pages--grid .related-links { row-gap: 0.25rem; }
+.block--faq[data-variant='accordion'] .faq__items { gap: 0; }
+.block--faq[data-variant='accordion'] .faq__item {
+  border: 0;
+  border-bottom: 1px solid var(--border-color);
+}
+.block--cta[data-variant='image-band'] .cta__heading {
+  font-family: var(--font-display);
+  font-weight: 400;
+}
+.order-case {
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  color: inherit;
+}
+.order-case :is(.order-case__product, .order-case__text) { color: inherit; }
+.block--cta[data-variant='band'] {
+  --secondary-ink: #fff;
+  --secondary-muted: #fff;
+  --secondary-link: #fff;
+  --secondary-accent: #fff;
+}
+.block--team .team-card {
+  background: transparent;
+  border: 1px solid rgb(255 255 255 / 0.5);
+  --secondary-ink: inherit;
+  --secondary-muted: inherit;
+  --text-primary: inherit;
+  --heading-color: inherit;
+  --text-muted: inherit;
+  color: inherit;
+}
+.block--form {
+  --font-display: Montserrat, Arial, sans-serif;
+  --weight-heading: 700;
+  --input-border: #d5d5d5;
+}
+.block--form .form-block__field :is(input, textarea, select) {
+  background: #fff;
+  color: #000;
+}
+.block--form .form-block__field :is(input, textarea)::placeholder { color: #595959; opacity: 1; }
+.block--contact-channels .contact-channel__name {
+  text-transform: none;
+  letter-spacing: normal;
+}
+.block--contact-channels a.contact-channel__value { font-weight: 600; }
+.block--contact-channels .contact-channel__icon :is(svg, [stroke]) { stroke-width: 1; }
+@media (max-width: 599px) {
+  .block--contact-channels { --channel-card-padding: 0.5rem; }
+  .block--contact-channels .contact-channels { row-gap: 0.5rem; }
+}
+.block--data-practices .table-block__note { margin-block-start: 1rem; }
+
+/* Keep reading columns together; the heading uses the same edges as its copy. */
+.block--intro[data-variant='text'] .text-block,
+.block--proof[data-variant='dark'] .text-block,
+.block--faq .faq {
+  max-width: 70ch;
+  margin-inline: auto;
+}
+.block--intro[data-variant='text'] .text-block h2,
+.block--proof[data-variant='dark'] .text-block h2 {
+  max-width: none;
+  margin-inline: 0;
+  text-align: start;
+}
+/* Unboxed dark proof uses the same gutter as the other reading columns. */
+.block--proof[data-variant='dark'] .text-block { padding-inline: 0; }
+.split[data-layout='text'] .split__copy { max-width: 70ch; }
+.block--faq[data-variant='accordion'] .faq__item :is(summary, p),
+.block--faq[data-variant='accordion'] .faq__item > .faq__question {
+  padding-inline: 0;
+}
+.block--related .related__heading { text-align: start; }
+
+/* Transparent modules read on the section's surface, not a white card's ink.
+   Their text is the palette's black on the grey (#5c5c5c, AA's lightest grey, read as faint in two reviews). */
+.block--grid[data-pattern='columns'], .block--contact-channels {
+  --text-on-secondary: rgb(0 0 0);
+}
+.block--grid[data-pattern='columns'] .feature-card,
+.block--contact-channels .contact-channel {
+  color: inherit;
+  --text-primary: inherit;
+  --heading-color: inherit;
+  --text-muted: inherit;
+  --link: inherit;
+  --accent-text: inherit;
+}
+
+/* Design gate: transparent modules use their parent section's ink. */
+.block--proof .text-block,
+.block--faq .faq__item,
+.block--grid[data-pattern='cards'] .feature-card,
+.prose__chart,
+.prose__table th,
+.order-case,
+.post-author-card {
+  background: transparent;
+  color: inherit;
+  --text-primary: inherit;
+  --heading-color: inherit;
+  --text-muted: inherit;
+  --text-muted-2: inherit;
+  --link: inherit;
+  --accent-text: inherit;
+  --secondary-ink: inherit;
+  --secondary-muted: inherit;
+}
+.block--proof .text-block :is(h2, h3, p, li, dt, dd) { color: inherit; }
+.block--grid[data-pattern='cards'] .feature-card {
+  border: 1px solid currentColor;
+}
+.block--grid[data-pattern='icon-cards'] .feature-card {
+  text-align: start;
+  justify-items: start;
+}
+.block--faq .faq__item { border-color: currentColor; }
+.block--faq .faq__item summary { gap: 1rem; }
+.block--faq .faq__item summary::after { flex-shrink: 0; color: inherit; }
+.block--testimonials .track[data-fits] .track__items { justify-content: center; }
+.icon-list__icon { color: inherit; }
+.block--contact-channels .contact-channels__heading { text-align: center; }
+.block--contact-channels .contact-channel__icon { color: inherit; }
+.block--data-practices .table-block__note,
+.block--data-practices .table-block__note a { color: inherit; }
+main[data-page-type='contact'] .block--grid :is(.block__lead, .feature-card p) {
+  color: var(--text-primary);
+  opacity: 1;
+}
+
+.prose__chart { padding: 0; border: 0; --table-ground: var(--sticky-surface, var(--surface-primary)); }
+.prose__chart .chart-comparison { border: 0; }
+.prose__table :is(th, td) {
+  border: 0;
+  border-bottom: 1px solid color-mix(in srgb, currentColor 30%, transparent);
+}
+.prose__table th { background: transparent; color: inherit; }
+.prose__chart .chart-bars__track { background: color-mix(in srgb, currentColor 20%, transparent); }
+.prose__chart .chart-bars__bar { background: currentColor; }
+.post-author-card { padding: 0; border-radius: 0; }
+.post-header__title { font-weight: 700; }
+/* A visible scroll affordance on dark as well as tinted article surfaces. */
+.post-article .prose__table[data-scroll='sideways'] {
+  scrollbar-color: currentColor var(--sticky-surface, var(--surface-primary));
+  scrollbar-width: auto;
+  border-inline-end: 1px solid color-mix(in srgb, currentColor 50%, transparent);
+}
+
+main[data-hero-photo] .page-hero__lead { font-family: var(--font-body); }
+main[data-page-type='contact'][data-hero-photo] .page-hero { --weight-heading: 400; }
+main[data-page-type='blog_hub'] h1 { font-weight: 700; }
+.page-hero__form :is(input:not([type='checkbox']):not([type='radio']), select, textarea) {
+  background: #fff;
+  color: #000;
+  border-color: #d5d5d5;
+}
+.page-hero__form :is(input, textarea)::placeholder { color: #595959; opacity: 1; }
+@media (min-width: 1024px) {
+  body:has(main[data-hero-photo]) .site-header {
+    position: absolute;
+    inset: 0 0 auto;
+    background: transparent;
+  }
+  main[data-hero-photo] .page-hero__inner {
+    padding-block-start: calc(var(--header-height) + 1.5rem);
+  }
+}
+@media (min-width: 900px) {
+  main[data-hero-photo] .page-hero[data-hero-form]:not([data-title-row]) {
+    --hero-overlay: linear-gradient(to bottom, rgb(0 0 0 / 0.54), transparent 25%), linear-gradient(to right, rgb(0 0 0 / 0.60) 0%, rgb(0 0 0 / 0.54) 55%, rgb(0 0 0 / 0.30) 70%, transparent 100%);
+  }
+}
+
+/* CTA copy and its action form one column, with no extra boundary spacing. */
+.block--cta:is([data-variant='inline'], [data-variant='band'], [data-variant='dark']) .cta {
+  border-block: 1px solid color-mix(in srgb, currentColor 30%, transparent);
+}
+.block--cta .cta__content {
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 70ch;
+  margin-inline: auto;
+  text-align: start;
+}
+.block--cta .cta__content :is(.cta__heading, .cta__text) {
+  flex-basis: auto;
+  max-width: 70ch;
+  margin-inline: 0;
+  text-align: inherit;
+}
+/* This short close fits three lines in the supplied 390px comparison. */
+@media (min-width: 390px) {
+  main[data-page-type='about'] .block--cta .cta__content { align-items: center; text-align: center; }
+  main[data-page-type='about'] .block--cta .cta__content :is(.cta__heading, .cta__text) { margin-inline: auto; }
+}
+@media (min-width: 1024px) {
+  .block--cta .cta__content { align-items: center; text-align: center; }
+  .block--cta .cta__content :is(.cta__heading, .cta__text) { margin-inline: auto; }
+  .block--table .table-block__lead,
+  .block--grid > .container > .block__lead {
+    max-width: 70ch;
+    margin-inline: auto;
+    text-align: center;
+  }
+  main[data-page-type='contact'] .block--intro[data-variant='text'] .text-block,
+  main[data-page-type='contact'] .block--intro[data-variant='text'] .text-block :is(h2, p) {
+    text-align: center;
+    margin-inline: auto;
+  }
+}
+
+.site-footer[data-layout='minimal'] .site-footer__grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.site-footer[data-layout='minimal'] nav[data-nav-source='header_nav'] { order: -1; }
+.site-footer[data-layout='minimal'] :is(.site-footer__links, .site-footer__legal) {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem 1.25rem;
+}
+.site-footer[data-layout='minimal'] :is(.site-footer__brand, .site-footer__contact, .site-footer__copyright) {
+  text-align: center;
+}
+
+/* A table's header cells sit on the ground of the table they head (the transparent charts and article tables above),
+   the pinned first column of a sideways table included. */
+.prose__table th,
+.prose__table:not([data-columns='2']) th:first-child,
+.prose__chart .chart-comparison tbody th {
+  background: var(--table-ground, var(--sticky-surface, var(--surface-primary)));
+  color: inherit;
+}
+/* A form hero's copy starts at the top of its row, beside the form's first fields, so the title, lead and button stay
+   in the first screen however long the form runs. */
+@media (min-width: 900px) {
+  main[data-hero-photo] .page-hero[data-hero-form]:not([data-title-row]) .page-hero__inner { align-items: start; }
+}
+
+/* Helper text and chart notes read in their section's ink, not a muted grey on the grey surface. */
+.block--form .form-block__hint,
+.prose__chart figcaption { color: inherit; }
+/* On the article's black ground the sideways table's edge shades are light (the template's are black, unseen there). */
+.post-article .prose__table[data-scroll='sideways'] {
+  background:
+    linear-gradient(to right, var(--table-ground, var(--surface-primary)), var(--table-ground, var(--surface-primary)) 30%, transparent) left center / 2.5rem 100% no-repeat local,
+    linear-gradient(to left, var(--table-ground, var(--surface-primary)), var(--table-ground, var(--surface-primary)) 30%, transparent) right center / 2.5rem 100% no-repeat local,
+    radial-gradient(farthest-side at 0 50%, rgb(255 255 255 / 0.45), transparent) left center / 1.25rem 100% no-repeat scroll,
+    radial-gradient(farthest-side at 100% 50%, rgb(255 255 255 / 0.45), transparent) right center / 1.25rem 100% no-repeat scroll;
+}
+/* The contents lists (an article's, a page's) are unboxed, in their section's own ink, as the article's author card is. */
+.post-toc--inline,
+.page-toc {
+  padding: 0;
+  border-left: 0;
+  background: transparent;
+  color: inherit;
+  --text-primary: inherit;
+  --heading-color: inherit;
+  --text-muted: inherit;
+  --link: inherit;
+  --secondary-ink: inherit;
+  --secondary-muted: inherit;
+}
+.post-toc--inline :is(a, h2, p, li),
+.page-toc :is(a, h2, p, li) { color: inherit; }
+/* On a phone the footer's page links run down the screen, one under another, as the reference's do. */
+@media (max-width: 767px) {
+  .site-footer[data-layout='minimal'] nav[data-nav-source='header_nav'] .site-footer__links { flex-direction: column; align-items: center; }
+}

@@ -1,0 +1,13 @@
+{
+  "email": "info@staylumen.com",
+  "phone": "+1 617 235 0462",
+  "address": "",
+  "hours": "",
+  "same_as": [],
+  "placeholder": true,
+  "standIns": [
+    "email",
+    "phone",
+    "address"
+  ]
+}
