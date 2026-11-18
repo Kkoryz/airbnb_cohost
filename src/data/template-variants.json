@@ -75,19 +75,19 @@
           "category": "dynamic pricing"
         },
         "/airbnb-booking-management/": {
-          "src": "/media/photos/general-hero-5-960.webp",
-          "srcset": "/media/photos/general-hero-5-480.webp 480w, /media/photos/general-hero-5-960.webp 960w, /media/photos/general-hero-5-1536.webp 1344w",
+          "src": "/media/photos/airbnb-booking-management-hero-1-960.webp",
+          "srcset": "/media/photos/airbnb-booking-management-hero-1-480.webp 480w, /media/photos/airbnb-booking-management-hero-1-960.webp 960w, /media/photos/airbnb-booking-management-hero-1-1536.webp 1536w",
           "width": 960,
           "height": 640,
-          "alt": "An open binder with blurred charts rests on a wooden desk beside a sunlit window.",
-          "category": "general"
+          "alt": "An open report with blurred charts lies on a sunlit wooden table beside a pen and a coffee cup.",
+          "category": "airbnb booking management"
         },
         "/airbnb-property-maintenance/": {
           "src": "/media/photos/airbnb-property-maintenance-hero-1-960.webp",
           "srcset": "/media/photos/airbnb-property-maintenance-hero-1-480.webp 480w, /media/photos/airbnb-property-maintenance-hero-1-960.webp 960w, /media/photos/airbnb-property-maintenance-hero-1-1536.webp 1536w",
           "width": 960,
           "height": 640,
-          "alt": "An open report with blurred charts lies on a meeting table beside a pen and a coffee cup.",
+          "alt": "Papers and sticky notes are fanned out on a sunlit wooden desk.",
           "category": "airbnb property maintenance"
         },
         "/short-term-rental-licensing-compliance/": {
@@ -99,6 +99,14 @@
           "category": "short term rental licensing compliance"
         },
         "/about-us/": {
+          "src": "/media/photos/general-hero-5-960.webp",
+          "srcset": "/media/photos/general-hero-5-480.webp 480w, /media/photos/general-hero-5-960.webp 960w, /media/photos/general-hero-5-1536.webp 1344w",
+          "width": 960,
+          "height": 640,
+          "alt": "An open binder with blurred charts rests on a wooden desk beside a sunlit window.",
+          "category": "general"
+        },
+        "/contact-us/": {
           "src": "/media/photos/general-hero-6-960.webp",
           "srcset": "/media/photos/general-hero-6-480.webp 480w, /media/photos/general-hero-6-960.webp 960w, /media/photos/general-hero-6-1536.webp 1344w",
           "width": 960,
@@ -106,20 +114,12 @@
           "alt": "A person sits at a laptop beside plants and a sunlit window overlooking red rock formations.",
           "category": "general"
         },
-        "/contact-us/": {
+        "/faq/": {
           "src": "/media/photos/general-hero-7-960.webp",
           "srcset": "/media/photos/general-hero-7-480.webp 480w, /media/photos/general-hero-7-960.webp 960w, /media/photos/general-hero-7-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "An open report with blurred charts rests beside a pen and coffee cup on a sunlit wooden table.",
-          "category": "general"
-        },
-        "/faq/": {
-          "src": "/media/photos/general-hero-1-960.webp",
-          "srcset": "/media/photos/general-hero-1-480.webp 480w, /media/photos/general-hero-1-960.webp 960w, /media/photos/general-hero-1-1536.webp 1344w",
-          "width": 960,
-          "height": 640,
-          "alt": "A woman arranges teal cushions on a cream sofa in a sunlit living room with wooden furniture and plants.",
           "category": "general"
         },
         "/case-studies/": {
@@ -171,12 +171,12 @@
           "category": "general"
         },
         "/san-diego/": {
-          "src": "/media/photos/general-hero-1-960.webp",
-          "srcset": "/media/photos/general-hero-1-480.webp 480w, /media/photos/general-hero-1-960.webp 960w, /media/photos/general-hero-1-1536.webp 1344w",
+          "src": "/media/photos/san-diego-hero-1-960.webp",
+          "srcset": "/media/photos/san-diego-hero-1-480.webp 480w, /media/photos/san-diego-hero-1-960.webp 960w, /media/photos/san-diego-hero-1-1536.webp 1344w",
           "width": 960,
           "height": 640,
-          "alt": "A woman arranges teal cushions on a cream sofa in a sunlit living room with wooden furniture and plants.",
-          "category": "general"
+          "alt": "An open report with blurred charts rests beside a pen and coffee cup on a sunlit wooden table.",
+          "category": "san diego"
         },
         "/scottsdale/": {
           "src": "/media/photos/general-hero-2-960.webp",
@@ -187,6 +187,14 @@
           "category": "general"
         },
         "/nashville/": {
+          "src": "/media/photos/nashville-hero-1-960.webp",
+          "srcset": "/media/photos/nashville-hero-1-480.webp 480w, /media/photos/nashville-hero-1-960.webp 960w, /media/photos/nashville-hero-1-1536.webp 1536w",
+          "width": 960,
+          "height": 640,
+          "alt": "A person sits at a laptop on a wooden desk beside a sunlit window overlooking a city skyline.",
+          "category": "nashville"
+        },
+        "/blog/": {
           "src": "/media/photos/general-hero-3-960.webp",
           "srcset": "/media/photos/general-hero-3-480.webp 480w, /media/photos/general-hero-3-960.webp 960w, /media/photos/general-hero-3-1536.webp 1344w",
           "width": 960,
@@ -194,7 +202,7 @@
           "alt": "A person sits at a laptop on a wooden desk in a sunlit office overlooking red rock cliffs.",
           "category": "general"
         },
-        "/blog/": {
+        "/blog/vacation-rental-management-agreement/": {
           "src": "/media/photos/general-hero-4-960.webp",
           "srcset": "/media/photos/general-hero-4-480.webp 480w, /media/photos/general-hero-4-960.webp 960w, /media/photos/general-hero-4-1536.webp 1344w",
           "width": 960,
@@ -202,7 +210,7 @@
           "alt": "A couple with luggage stands at a home's front door beneath a warm porch light at dusk.",
           "category": "general"
         },
-        "/blog/vacation-rental-management-agreement/": {
+        "/blog/vacation-rental-management-fees/": {
           "src": "/media/photos/general-hero-5-960.webp",
           "srcset": "/media/photos/general-hero-5-480.webp 480w, /media/photos/general-hero-5-960.webp 960w, /media/photos/general-hero-5-1536.webp 1344w",
           "width": 960,
@@ -216,6 +224,14 @@
           "width": 960,
           "height": 640,
           "alt": "A person sits at a laptop beside plants and a sunlit window overlooking red rock formations.",
+          "category": "general"
+        },
+        "/blog/airbnb-80-20-rule/": {
+          "src": "/media/photos/general-hero-7-960.webp",
+          "srcset": "/media/photos/general-hero-7-480.webp 480w, /media/photos/general-hero-7-960.webp 960w, /media/photos/general-hero-7-1536.webp 1344w",
+          "width": 960,
+          "height": 640,
+          "alt": "An open report with blurred charts rests beside a pen and coffee cup on a sunlit wooden table.",
           "category": "general"
         }
       },
@@ -367,7 +383,7 @@
             "srcset": "/media/photos/faq-brief-m3-1-480.webp 480w, /media/photos/faq-brief-m3-1-960.webp 960w, /media/photos/faq-brief-m3-1-1536.webp 1536w",
             "width": 960,
             "height": 640,
-            "alt": "A person reviews papers with a pen beside a laptop at a home office desk.",
+            "alt": "A rental owner reviews papers with a pen at a home desk beside a laptop.",
             "category": "general",
             "intent": "/faq/#brief-m3-1"
           },
@@ -379,24 +395,6 @@
             "alt": "A woman writes on a paper calendar beside an open laptop at a wooden kitchen table.",
             "category": "general",
             "intent": "/case-studies/#brief-related-1"
-          },
-          {
-            "src": "/media/photos/san-diego-brief-m4-1-960.webp",
-            "srcset": "/media/photos/san-diego-brief-m4-1-480.webp 480w, /media/photos/san-diego-brief-m4-1-960.webp 960w, /media/photos/san-diego-brief-m4-1-1536.webp 1536w",
-            "width": 960,
-            "height": 640,
-            "alt": "A man sits at a wooden desk facing a monitor with a blurred calendar, with palm trees visible through the window.",
-            "category": "general",
-            "intent": "/san-diego/#brief-m4-1"
-          },
-          {
-            "src": "/media/photos/san-diego-brief-m7-1-960.webp",
-            "srcset": "/media/photos/san-diego-brief-m7-1-480.webp 480w, /media/photos/san-diego-brief-m7-1-960.webp 960w, /media/photos/san-diego-brief-m7-1-1536.webp 1536w",
-            "width": 960,
-            "height": 640,
-            "alt": "A man examines a rusted latch on a wooden patio gate beside the ocean.",
-            "category": "general",
-            "intent": "/san-diego/#brief-m7-1"
           },
           {
             "src": "/media/photos/scottsdale-brief-m3-1-960.webp",
@@ -424,24 +422,6 @@
             "alt": "A technician rinses exposed air conditioner coils with a hose beside a stucco house.",
             "category": "general",
             "intent": "/scottsdale/#brief-m9-1"
-          },
-          {
-            "src": "/media/photos/nashville-brief-m3-1-960.webp",
-            "srcset": "/media/photos/nashville-brief-m3-1-480.webp 480w, /media/photos/nashville-brief-m3-1-960.webp 960w, /media/photos/nashville-brief-m3-1-1536.webp 1344w",
-            "width": 960,
-            "height": 640,
-            "alt": "A woman sorts photographs of houses and interiors on a wooden desk.",
-            "category": "general",
-            "intent": "/nashville/#brief-m3-1"
-          },
-          {
-            "src": "/media/photos/nashville-brief-m8-1-960.webp",
-            "srcset": "/media/photos/nashville-brief-m8-1-480.webp 480w, /media/photos/nashville-brief-m8-1-960.webp 960w, /media/photos/nashville-brief-m8-1-1536.webp 1536w",
-            "width": 960,
-            "height": 640,
-            "alt": "A woman tucks a white sheet around a mattress beside a woven basket of folded linens.",
-            "category": "general",
-            "intent": "/nashville/#brief-m8-1"
           }
         ],
         "lifestyle": [
@@ -494,14 +474,6 @@
             "category": "general"
           },
           {
-            "src": "/media/photos/general-lifestyle-7-960.webp",
-            "srcset": "/media/photos/general-lifestyle-7-480.webp 480w, /media/photos/general-lifestyle-7-960.webp 960w, /media/photos/general-lifestyle-7-1536.webp 1344w",
-            "width": 960,
-            "height": 640,
-            "alt": "Adults review printed charts at a wooden kitchen table beside glass doors overlooking a pool.",
-            "category": "general"
-          },
-          {
             "src": "/media/photos/home-brief-cta-1-960.webp",
             "srcset": "/media/photos/home-brief-cta-1-480.webp 480w, /media/photos/home-brief-cta-1-960.webp 960w, /media/photos/home-brief-cta-1-1536.webp 1536w",
             "width": 960,
@@ -518,33 +490,6 @@
             "alt": "A woman opens patio doors onto a shaded terrace overlooking cacti and rocky desert hills.",
             "category": "general",
             "intent": "/scottsdale/#brief-m10-1"
-          },
-          {
-            "src": "/media/photos/nashville-brief-m2-1-960.webp",
-            "srcset": "/media/photos/nashville-brief-m2-1-480.webp 480w, /media/photos/nashville-brief-m2-1-960.webp 960w, /media/photos/nashville-brief-m2-1-1536.webp 1344w",
-            "width": 960,
-            "height": 640,
-            "alt": "A headset-wearing worker sits at a desk with monitors beside a window overlooking a courtyard.",
-            "category": "general",
-            "intent": "/nashville/#brief-m2-1"
-          },
-          {
-            "src": "/media/photos/nashville-brief-m6-1-960.webp",
-            "srcset": "/media/photos/nashville-brief-m6-1-480.webp 480w, /media/photos/nashville-brief-m6-1-960.webp 960w, /media/photos/nashville-brief-m6-1-1536.webp 1536w",
-            "width": 960,
-            "height": 640,
-            "alt": "A homeowner unfolds a luggage rack beside a neatly made bed in a guest bedroom.",
-            "category": "general",
-            "intent": "/nashville/#brief-m6-1"
-          },
-          {
-            "src": "/media/photos/nashville-brief-m11-1-960.webp",
-            "srcset": "/media/photos/nashville-brief-m11-1-480.webp 480w, /media/photos/nashville-brief-m11-1-960.webp 960w, /media/photos/nashville-brief-m11-1-1536.webp 1536w",
-            "width": 960,
-            "height": 640,
-            "alt": "A woman presses weatherstripping into an open cabin doorframe with a porch and lake beyond.",
-            "category": "general",
-            "intent": "/nashville/#brief-m11-1"
           }
         ]
       },
@@ -581,6 +526,42 @@
               "alt": "A woman at an office desk gestures toward a chart on her monitor during a video call.",
               "category": "dynamic pricing",
               "intent": "/dynamic-pricing/#brief-m5-1"
+            }
+          ]
+        },
+        "/airbnb-booking-management/": {
+          "product": [
+            {
+              "src": "/media/photos/airbnb-booking-management-product-1-960.webp",
+              "srcset": "/media/photos/airbnb-booking-management-product-1-480.webp 480w, /media/photos/airbnb-booking-management-product-1-960.webp 960w",
+              "width": 960,
+              "height": 960,
+              "alt": "Hands use a green marker on a printed comparison sheet at a wooden desk overlooking a pool.",
+              "category": "airbnb booking management"
+            },
+            {
+              "src": "/media/photos/airbnb-booking-management-product-2-960.webp",
+              "srcset": "/media/photos/airbnb-booking-management-product-2-480.webp 480w, /media/photos/airbnb-booking-management-product-2-960.webp 960w",
+              "width": 960,
+              "height": 960,
+              "alt": "Papers, a calendar and colorful sticky notes sit on a wooden desk beside a sunlit pool.",
+              "category": "airbnb booking management"
+            },
+            {
+              "src": "/media/photos/airbnb-booking-management-product-3-960.webp",
+              "srcset": "/media/photos/airbnb-booking-management-product-3-480.webp 480w, /media/photos/airbnb-booking-management-product-3-960.webp 960w",
+              "width": 960,
+              "height": 960,
+              "alt": "A blurred computer screen on a desk with a notebook beside the keyboard.",
+              "category": "airbnb booking management"
+            },
+            {
+              "src": "/media/photos/airbnb-booking-management-product-4-960.webp",
+              "srcset": "/media/photos/airbnb-booking-management-product-4-480.webp 480w, /media/photos/airbnb-booking-management-product-4-960.webp 960w",
+              "width": 960,
+              "height": 960,
+              "alt": "A bound report with blurred details rests on a wooden meeting table beside a pen.",
+              "category": "airbnb booking management"
             }
           ]
         },
@@ -695,6 +676,90 @@
               "intent": "/short-term-rental-licensing-compliance/#brief-splitMedia-2-1"
             }
           ]
+        },
+        "/san-diego/": {
+          "product": [
+            {
+              "src": "/media/photos/san-diego-brief-m3-1-960.webp",
+              "srcset": "/media/photos/san-diego-brief-m3-1-480.webp 480w, /media/photos/san-diego-brief-m3-1-960.webp 960w",
+              "width": 960,
+              "height": 960,
+              "alt": "A hand compares blurred worksheets and listing summaries on a wooden desk.",
+              "category": "san diego",
+              "intent": "/san-diego/#brief-m3-1"
+            }
+          ],
+          "process": [
+            {
+              "src": "/media/photos/san-diego-brief-m4-1-960.webp",
+              "srcset": "/media/photos/san-diego-brief-m4-1-480.webp 480w, /media/photos/san-diego-brief-m4-1-960.webp 960w, /media/photos/san-diego-brief-m4-1-1536.webp 1536w",
+              "width": 960,
+              "height": 640,
+              "alt": "A man sits at a wooden desk facing a monitor with a blurred calendar, with palm trees visible through the window.",
+              "category": "san diego",
+              "intent": "/san-diego/#brief-m4-1"
+            },
+            {
+              "src": "/media/photos/san-diego-brief-m7-1-960.webp",
+              "srcset": "/media/photos/san-diego-brief-m7-1-480.webp 480w, /media/photos/san-diego-brief-m7-1-960.webp 960w, /media/photos/san-diego-brief-m7-1-1536.webp 1536w",
+              "width": 960,
+              "height": 640,
+              "alt": "A man examines a rusted latch on a wooden patio gate beside the ocean.",
+              "category": "san diego",
+              "intent": "/san-diego/#brief-m7-1"
+            }
+          ]
+        },
+        "/nashville/": {
+          "lifestyle": [
+            {
+              "src": "/media/photos/nashville-brief-m2-1-960.webp",
+              "srcset": "/media/photos/nashville-brief-m2-1-480.webp 480w, /media/photos/nashville-brief-m2-1-960.webp 960w, /media/photos/nashville-brief-m2-1-1536.webp 1344w",
+              "width": 960,
+              "height": 640,
+              "alt": "A headset-wearing worker sits at a desk with monitors beside a window overlooking a courtyard.",
+              "category": "nashville",
+              "intent": "/nashville/#brief-m2-1"
+            },
+            {
+              "src": "/media/photos/nashville-brief-m6-1-960.webp",
+              "srcset": "/media/photos/nashville-brief-m6-1-480.webp 480w, /media/photos/nashville-brief-m6-1-960.webp 960w, /media/photos/nashville-brief-m6-1-1536.webp 1536w",
+              "width": 960,
+              "height": 640,
+              "alt": "A homeowner unfolds a luggage rack beside a neatly made bed in a guest bedroom.",
+              "category": "nashville",
+              "intent": "/nashville/#brief-m6-1"
+            },
+            {
+              "src": "/media/photos/nashville-brief-m11-1-960.webp",
+              "srcset": "/media/photos/nashville-brief-m11-1-480.webp 480w, /media/photos/nashville-brief-m11-1-960.webp 960w, /media/photos/nashville-brief-m11-1-1536.webp 1536w",
+              "width": 960,
+              "height": 640,
+              "alt": "A woman presses weatherstripping into an open cabin doorframe with a porch and lake beyond.",
+              "category": "nashville",
+              "intent": "/nashville/#brief-m11-1"
+            }
+          ],
+          "process": [
+            {
+              "src": "/media/photos/nashville-brief-m3-1-960.webp",
+              "srcset": "/media/photos/nashville-brief-m3-1-480.webp 480w, /media/photos/nashville-brief-m3-1-960.webp 960w, /media/photos/nashville-brief-m3-1-1536.webp 1344w",
+              "width": 960,
+              "height": 640,
+              "alt": "A woman sorts photographs of houses and interiors on a wooden desk.",
+              "category": "nashville",
+              "intent": "/nashville/#brief-m3-1"
+            },
+            {
+              "src": "/media/photos/nashville-brief-m8-1-960.webp",
+              "srcset": "/media/photos/nashville-brief-m8-1-480.webp 480w, /media/photos/nashville-brief-m8-1-960.webp 960w, /media/photos/nashville-brief-m8-1-1536.webp 1536w",
+              "width": 960,
+              "height": 640,
+              "alt": "A woman tucks a white sheet around a mattress beside a woven basket of folded linens.",
+              "category": "nashville",
+              "intent": "/nashville/#brief-m8-1"
+            }
+          ]
         }
       },
       "routeCategories": {
@@ -704,7 +769,7 @@
         "/airbnb-design-furnishing/": "general",
         "/airbnb-co-hosting/": "general",
         "/dynamic-pricing/": "dynamic pricing",
-        "/airbnb-booking-management/": "general",
+        "/airbnb-booking-management/": "airbnb booking management",
         "/airbnb-property-maintenance/": "airbnb property maintenance",
         "/short-term-rental-licensing-compliance/": "short term rental licensing compliance",
         "/about-us/": "general",
@@ -716,22 +781,28 @@
         "/terms-and-conditions/": "general",
         "/request-a-quote/": "general",
         "/locations/": "general",
-        "/san-diego/": "general",
+        "/san-diego/": "san diego",
         "/scottsdale/": "general",
-        "/nashville/": "general",
+        "/nashville/": "nashville",
         "/blog/": "general",
         "/blog/vacation-rental-management-agreement/": "general",
-        "/blog/vacation-rental-profitability-tracking/": "general"
+        "/blog/vacation-rental-management-fees/": "general",
+        "/blog/vacation-rental-profitability-tracking/": "general",
+        "/blog/airbnb-80-20-rule/": "general"
+      },
+      "routeThemes": {
+        "/san-diego/": "family-locations",
+        "/nashville/": "family-locations"
       },
       "placeholders": []
     },
     "textRunWords": 1343,
     "densityBands": {
       "wordsPer1000px": {
-        "max": 266
+        "max": 252
       },
       "visualAreaPct": {
-        "min": 7,
+        "min": 6,
         "max": 36
       },
       "longestTextOnlyPx": {
@@ -755,7 +826,7 @@
     "heroByPageType": {
       "home": "media-overlay",
       "about": "media-overlay",
-      "solution": "media-form",
+      "solution": "media-overlay",
       "place": "media-form",
       "contact": "media-overlay"
     },
@@ -916,24 +987,24 @@
         "after": 0.31
       },
       "charts:*": {
-        "base": 99,
-        "perWord": 3.78,
-        "visual": 0.73,
-        "before": 0.11,
-        "after": 0.27
+        "base": 111,
+        "perWord": 3.57,
+        "visual": 0.85,
+        "before": 0,
+        "after": 0.18
       },
       "charts:": {
-        "base": 99,
-        "perWord": 3.78,
-        "visual": 0.73,
-        "before": 0.11,
-        "after": 0.27
+        "base": 111,
+        "perWord": 3.57,
+        "visual": 0.85,
+        "before": 0,
+        "after": 0.18
       },
       "cta:*": {
         "base": 252,
         "perWord": 3.08,
         "visual": 0.03,
-        "before": 0.95,
+        "before": 0.89,
         "after": 0.95
       },
       "cta:form+photo": {
@@ -953,7 +1024,7 @@
       "cta:image-band+photo": {
         "base": 446,
         "perWord": 0,
-        "visual": 0.52,
+        "visual": 0.5,
         "before": 0.08,
         "after": 0.08
       },
@@ -1000,9 +1071,9 @@
         "after": 0.53
       },
       "gallery:*": {
-        "base": 645,
+        "base": 630,
         "perWord": 0,
-        "visual": 0.86,
+        "visual": 0.85,
         "before": 0.06,
         "after": 0.06
       },
@@ -1016,37 +1087,37 @@
       "gallery:grid": {
         "base": 387,
         "perWord": 0,
-        "visual": 0.73,
+        "visual": 0.72,
         "before": 0.09,
         "after": 0.09
       },
       "hero:*": {
-        "base": 1067,
-        "perWord": 0,
+        "base": 40,
+        "perWord": 38.11,
         "visual": 1,
         "before": 0,
         "after": 0
       },
       "hero:media-overlay": {
-        "base": 1067,
-        "perWord": 0,
+        "base": 40,
+        "perWord": 38.11,
         "visual": 1,
         "before": 0,
         "after": 0
       },
       "iconList:*": {
-        "base": 58,
-        "perWord": 3.9,
-        "visual": 0,
-        "before": 1,
-        "after": 1
+        "base": 197,
+        "perWord": 3.06,
+        "visual": 0.02,
+        "before": 0.94,
+        "after": 0.94
       },
       "iconList:checks": {
-        "base": 51,
-        "perWord": 3.94,
-        "visual": 0,
-        "before": 1,
-        "after": 1
+        "base": 199,
+        "perWord": 3.06,
+        "visual": 0.02,
+        "before": 0.94,
+        "after": 0.93
       },
       "intro:*": {
         "base": 79,
@@ -1077,8 +1148,8 @@
         "after": 1
       },
       "process:*": {
-        "base": 196,
-        "perWord": 2.84,
+        "base": 281,
+        "perWord": 2.15,
         "visual": 0.02,
         "before": 0.98,
         "after": 0.96
@@ -1086,13 +1157,13 @@
       "process:circles": {
         "base": 453,
         "perWord": 0,
-        "visual": 0.48,
+        "visual": 0.44,
         "before": 0.41,
         "after": 0.08
       },
       "process:list": {
-        "base": 198,
-        "perWord": 2.85,
+        "base": 283,
+        "perWord": 2.16,
         "visual": 0,
         "before": 1,
         "after": 1
@@ -1135,9 +1206,9 @@
       "relatedPages:*": {
         "base": 186,
         "perWord": 0,
-        "visual": 0,
-        "before": 1,
-        "after": 1
+        "visual": 0.03,
+        "before": 0.93,
+        "after": 0.93
       },
       "relatedPages:": {
         "base": 476,
@@ -1156,16 +1227,16 @@
       "relatedPages:links": {
         "base": 186,
         "perWord": 0,
-        "visual": 0,
-        "before": 1,
-        "after": 1
+        "visual": 0.03,
+        "before": 0.93,
+        "after": 0.93
       },
       "splitMedia:*": {
-        "base": 632,
-        "perWord": 0.14,
-        "visual": 0.34,
-        "before": 0.08,
-        "after": 0.12
+        "base": 598,
+        "perWord": 0.52,
+        "visual": 0.35,
+        "before": 0.06,
+        "after": 0.1
       },
       "splitMedia:panel": {
         "base": 366,
@@ -1175,11 +1246,11 @@
         "after": 0.57
       },
       "splitMedia:single": {
-        "base": 632,
-        "perWord": 0.14,
-        "visual": 0.34,
-        "before": 0.08,
-        "after": 0.12
+        "base": 598,
+        "perWord": 0.52,
+        "visual": 0.35,
+        "before": 0.06,
+        "after": 0.1
       },
       "stats:*": {
         "base": 269,
@@ -1217,21 +1288,21 @@
         "after": 0.04
       },
       "trustBar:*": {
-        "base": 73,
-        "perWord": 0.76,
-        "visual": 0.14,
-        "before": 0.88,
-        "after": 0.88
+        "base": 69,
+        "perWord": 1.23,
+        "visual": 0.81,
+        "before": 0.26,
+        "after": 0.26
       },
       "trustBar:": {
-        "base": 73,
-        "perWord": 0.76,
-        "visual": 0.14,
-        "before": 0.88,
-        "after": 0.88
+        "base": 69,
+        "perWord": 1.23,
+        "visual": 0.81,
+        "before": 0.26,
+        "after": 0.26
       },
       "hero:media-overlay@solution": {
-        "base": 1347,
+        "base": 600,
         "perWord": 0,
         "visual": 1,
         "before": 0,
@@ -1275,7 +1346,7 @@
       "splitMedia:single@solution": {
         "base": 616,
         "perWord": 0.42,
-        "visual": 0.35,
+        "visual": 0.36,
         "before": 0.06,
         "after": 0.1
       },
@@ -1322,22 +1393,22 @@
         "after": 1
       },
       "faq:accordion": {
-        "base": 248,
-        "perWord": 2.8,
+        "base": 149,
+        "perWord": 4.49,
         "visual": 0,
         "before": 1,
         "after": 1
       },
       "faq:*": {
-        "base": 248,
-        "perWord": 2.8,
+        "base": 149,
+        "perWord": 4.49,
         "visual": 0,
         "before": 1,
         "after": 1
       },
       "faq:accordion@solution": {
-        "base": 312,
-        "perWord": 2.65,
+        "base": 124,
+        "perWord": 4.65,
         "visual": 0,
         "before": 1,
         "after": 1
@@ -1346,7 +1417,7 @@
         "base": 275,
         "perWord": 2.36,
         "visual": 0,
-        "before": 1,
+        "before": 0.93,
         "after": 1
       },
       "cta:band@solution": {
@@ -1387,14 +1458,14 @@
       "gallery:grid@solution": {
         "base": 387,
         "perWord": 0,
-        "visual": 0.73,
+        "visual": 0.72,
         "before": 0.09,
         "after": 0.09
       },
       "charts:@solution": {
         "base": 109,
         "perWord": 3.5,
-        "visual": 0.82,
+        "visual": 0.84,
         "before": 0,
         "after": 0.19
       },
@@ -1497,7 +1568,7 @@
         "after": 1
       },
       "faq:accordion@home": {
-        "base": 1695,
+        "base": 652,
         "perWord": 0,
         "visual": 0,
         "before": 1,
@@ -1506,14 +1577,14 @@
       "cta:image-band+photo@home": {
         "base": 446,
         "perWord": 0,
-        "visual": 0.52,
+        "visual": 0.5,
         "before": 0.08,
         "after": 0.08
       },
       "table:grid@solution": {
         "base": 1154,
         "perWord": 0,
-        "visual": 0.53,
+        "visual": 0.52,
         "before": 0.09,
         "after": 0.03
       },
@@ -1630,21 +1701,21 @@
         "after": 1
       },
       "iconList:checks@general": {
-        "base": 40,
-        "perWord": 4.15,
-        "visual": 0,
-        "before": 1,
-        "after": 1
-      },
-      "splitMedia:single@general": {
-        "base": 599,
+        "base": 442,
         "perWord": 0,
         "visual": 0.24,
-        "before": 0.37,
-        "after": 0.37
+        "before": 0.41,
+        "after": 0.33
+      },
+      "splitMedia:single@general": {
+        "base": 507,
+        "perWord": 8.53,
+        "visual": 0.37,
+        "before": 0.07,
+        "after": 0.04
       },
       "process:list@general": {
-        "base": 475,
+        "base": 493,
         "perWord": 0,
         "visual": 0,
         "before": 1,
@@ -1653,9 +1724,9 @@
       "relatedPages:links@general": {
         "base": 180,
         "perWord": 0,
-        "visual": 0,
-        "before": 1,
-        "after": 1
+        "visual": 0.11,
+        "before": 0.75,
+        "after": 0.75
       },
       "cta:inline": {
         "base": 221,
@@ -1693,11 +1764,11 @@
         "after": 0.04
       },
       "charts:@general": {
-        "base": 189,
+        "base": 282,
         "perWord": 0,
-        "visual": 0.42,
-        "before": 0.5,
-        "after": 0.56
+        "visual": 0.91,
+        "before": 0,
+        "after": 0.13
       },
       "featureGrid:bullets@general": {
         "base": 569,
@@ -1709,7 +1780,7 @@
       "process:circles@general": {
         "base": 453,
         "perWord": 0,
-        "visual": 0.48,
+        "visual": 0.44,
         "before": 0.41,
         "after": 0.08
       },
@@ -1833,18 +1904,18 @@
         "after": 1
       },
       "trustBar:@solution": {
-        "base": 85,
-        "perWord": 0,
-        "visual": 0,
-        "before": 1,
-        "after": 1
+        "base": 75,
+        "perWord": 0.89,
+        "visual": 0.95,
+        "before": 0.13,
+        "after": 0.13
       },
       "trustBar:@general": {
-        "base": 81,
-        "perWord": 0.47,
-        "visual": 0.29,
-        "before": 0.75,
-        "after": 0.75
+        "base": 67,
+        "perWord": 1.27,
+        "visual": 0.83,
+        "before": 0.26,
+        "after": 0.26
       },
       "trustBar:@places_hub": {
         "base": 85,
@@ -1854,11 +1925,11 @@
         "after": 1
       },
       "trustBar:@place": {
-        "base": 53,
-        "perWord": 2.33,
-        "visual": 0.34,
-        "before": 0.67,
-        "after": 0.67
+        "base": 42,
+        "perWord": 2.69,
+        "visual": 0.7,
+        "before": 0.34,
+        "after": 0.34
       },
       "page-toc:": {
         "base": 306,
@@ -2010,9 +2081,9 @@
       "cta:band@general": {
         "base": 284,
         "perWord": 1.43,
-        "visual": 0,
-        "before": 1,
-        "after": 1
+        "visual": 0.01,
+        "before": 0.75,
+        "after": 0.99
       },
       "featureGrid:cards@about": {
         "base": 335,
@@ -2022,6 +2093,9 @@
         "after": 1
       }
     },
-    "secondaryInk": true
+    "secondaryInk": true,
+    "landingPageTypes": [
+      "place"
+    ]
   }
 }

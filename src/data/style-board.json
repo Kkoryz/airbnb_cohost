@@ -6,7 +6,7 @@
       "key": "intro:text",
       "type": "intro",
       "variant": "text",
-      "uses": 24,
+      "uses": 25,
       "names": [
         "intro/proof"
       ],
@@ -134,7 +134,7 @@
         {
           "role": "shortest",
           "route": "/san-diego/",
-          "pageType": "general",
+          "pageType": "place",
           "blockId": "m12",
           "splitIndex": 0,
           "words": 38,
@@ -159,7 +159,7 @@
       "key": "gallery:band",
       "type": "gallery",
       "variant": "band",
-      "uses": 7,
+      "uses": 6,
       "names": [
         "gallery:band",
         "figure"
@@ -170,12 +170,12 @@
           "role": "longest",
           "route": "/",
           "pageType": "home",
-          "blockId": "media-module-budget-6",
+          "blockId": "media-module-budget-5",
           "splitIndex": 0,
           "words": 0,
           "slots": 1,
           "block": {
-            "id": "media-module-budget-6",
+            "id": "media-module-budget-5",
             "type": "gallery",
             "variant": "band",
             "items": [
@@ -407,7 +407,7 @@
       "key": "featureGrid:bullets",
       "type": "featureGrid",
       "variant": "bullets",
-      "uses": 11,
+      "uses": 10,
       "names": [
         "featureGrid:bullets"
       ],
@@ -464,7 +464,7 @@
               {
                 "heading": "Listing optimization",
                 "paragraphs": [
-                  "If your occupancy is low, [Airbnb Listing Optimization & SEO](/airbnb-listing-optimization-seo/) delivers measurable ranking gains for most listings within 2–4 weeks and full optimization within 30 to 90 days. We measure this by comparing the 12 months before handover with the 12 months after, or with the shorter period that has passed."
+                  "If your occupancy is low, [Airbnb Listing Optimization & SEO](/airbnb-listing-optimization-seo/) brought measurable ranking gains within 2–4 weeks for most Airbnb listings, 9 of 14 in 2025, with full optimization in 30 to 90 days. We track ranking weekly on fixed guest searches, and occupancy against the same months a year earlier."
                 ],
                 "placeholder": true
               },
@@ -677,50 +677,59 @@
       "samples": [
         {
           "role": "longest",
-          "route": "/san-diego/",
-          "pageType": "general",
-          "blockId": "m7",
-          "splitIndex": 2,
-          "words": 157,
-          "slots": 1,
+          "route": "/airbnb-co-hosting/",
+          "pageType": "solution",
+          "blockId": "splitMedia-1",
+          "splitIndex": 0,
+          "words": 155,
+          "slots": 0,
           "block": {
-            "id": "m7",
+            "id": "splitMedia-1",
             "type": "splitMedia",
             "sourceSectionIds": [
-              "m7"
+              "overview_2"
             ],
-            "heading": "Common Challenges San Diego Owners Face and How We Handle Them",
+            "heading": "Secure Co-Host Access That Keeps Your Password Private",
             "paragraphs": [
-              "During peak weeks, back-to-back turnovers leave no slack, so we book cleaning crews before the rush, and local partners clean and walk through your property after every stay. Those routine checks cover outdoor fixtures exposed to salt air, because corrosion caught late turns a small problem into a larger repair and a poor review. We approve any repair up to USD 300 per job without asking you.",
-              "Beach and downtown properties compete in a crowded field, so we adjust your rates up to 3 times a day against nearby listings. Strict noise and neighbor rules also shape how you host, so we set quiet hours and guest limits in your house rules.",
-              "One more rule shapes your calendar: as of November 2026, San Diego's [STRO Ordinance](https://www.sandiego.gov/treasurer/short-term-residential-occupancy) doesn't allow renting for 21 to 89 days a year, so we keep your calendar below or above that range."
+              "You add us through each platform’s co-host or team-access feature, so you never share your password. Ownership, payouts and security settings stay with you, and you can restrict or remove our access at any time.",
+              "Full management needs full co-host access, because that is how we edit your listing, set rates and calendar rules, and reply to guests. Reservations-only service needs calendar and inbox access, and that level of access doesn't let us change listing content or pricing rules unless you add dynamic pricing and the access it needs.",
+              "Our [privacy policy](/privacy-policy/) covers how we handle data: we use it only to deliver the service, guest details from platform bookings stay with the platforms, team access is restricted, and nothing is shared for marketing or sold. When the engagement ends, we remove our access within 1 business day and delete any copies we hold within 30 days."
             ],
-            "wordCount": 146,
+            "wordCount": 147,
             "media": null,
+            "variant": "single",
             "mediaKind": "process",
             "visuals": [
               {
-                "id": "m7-ranges",
+                "id": "overview_2_access_comparison",
                 "type": "data",
-                "purpose": "Shows the range of rental days per year that is not permitted in the city of San Diego.",
+                "purpose": "Shows which platform access level the owner needs to grant for each service option, and what each level lets us do.",
+                "caption": "Grant only the access your chosen service needs.",
                 "data": {
-                  "shape": "ranges",
-                  "items": [
-                    {
-                      "label": "Rental days not permitted",
-                      "min": 21,
-                      "max": 89,
-                      "unit": "days per year"
-                    }
-                  ]
+                  "shape": "comparison",
+                  "items": {
+                    "options": [
+                      "Full management",
+                      "Reservations only"
+                    ],
+                    "rows": [
+                      {
+                        "label": "Access needed",
+                        "values": [
+                          "Full co-host access",
+                          "Calendar and inbox access"
+                        ]
+                      },
+                      {
+                        "label": "Listing and pricing edits",
+                        "values": [
+                          "Yes",
+                          "Pricing only with dynamic pricing added"
+                        ]
+                      }
+                    ]
+                  }
                 }
-              },
-              {
-                "id": "brief-m7-1",
-                "type": "photo",
-                "content": "An independent local maintenance partner in plain, unmarked clothing examines salt corrosion on a patio gate latch during a between-stay inspection at a homeowner's coastal rental.",
-                "setting": "San Diego rental's coastal patio",
-                "caption": "Local partners check coastal wear between stays."
               }
             ]
           }
@@ -1000,7 +1009,7 @@
       "key": "relatedPages:links",
       "type": "relatedPages",
       "variant": "links",
-      "uses": 17,
+      "uses": 15,
       "names": [
         "relatedPages:links"
       ],
@@ -1072,20 +1081,20 @@
         },
         {
           "role": "shortest",
-          "route": "/terms-and-conditions/",
-          "pageType": "privacy",
-          "blockId": "related-2",
+          "route": "/san-diego/",
+          "pageType": "place",
+          "blockId": "related",
           "splitIndex": 0,
-          "words": 4,
+          "words": 3,
           "slots": 0,
           "block": {
-            "id": "related-2",
+            "id": "related",
             "type": "relatedPages",
-            "heading": "Related services",
+            "heading": "Related pages",
             "links": [
               {
-                "label": "Privacy Policy",
-                "href": "/privacy-policy/"
+                "label": "Locations",
+                "href": "/locations/"
               }
             ],
             "variant": "tiles"
@@ -1192,7 +1201,7 @@
         {
           "role": "shortest",
           "route": "/san-diego/",
-          "pageType": "general",
+          "pageType": "place",
           "blockId": "faq",
           "splitIndex": 0,
           "words": 177,
@@ -1213,7 +1222,8 @@
                 "question": "Could I rent to traveling nurses or Navy families for 30 days or more instead of nightly guests, and would the same city rules apply?",
                 "answer": "A stay of a full month or longer doesn’t need a San Diego STRO license. As of November 2026, the [STRO licensing rules](https://www.sandiego.gov/treasurer/short-term-residential-occupancy) cover stays of under one month. We treat stays of a full month or longer as a separate option with different licensing requirements, and we go by the full-month threshold rather than counting every 30-day stay as the same thing."
               }
-            ]
+            ],
+            "variant": "accordion"
           }
         }
       ]
@@ -1276,7 +1286,7 @@
       "key": "featureGrid:cards",
       "type": "featureGrid",
       "variant": "cards",
-      "uses": 29,
+      "uses": 30,
       "names": [
         "featureGrid:cards"
       ],
@@ -1487,7 +1497,7 @@
           "pageType": "general",
           "blockId": "cases",
           "splitIndex": 0,
-          "words": 130,
+          "words": 193,
           "slots": 0,
           "block": {
             "id": "cases",
@@ -1496,17 +1506,17 @@
             "items": [
               {
                 "product": "Vacation Rental Cleaning",
-                "text": "For a 3-bedroom vacation home near Orlando, we set up and coordinated a local cleaning partner with a full turnover checklist and laundry routine. The cleanliness rating rose from 4.6 to 4.9, and turnovers ready on time went from 88% to 99%.",
+                "text": "For a 3-bedroom vacation home near Orlando, we set up and coordinated a local cleaning partner with a full turnover checklist and laundry routine. From June–August 2025 against the same months of 2024, its Airbnb cleanliness rating (the average score in new reviews) rose from 4.6 to 4.9, and the share of turnovers ready by check-in time went from 88% to 99%.",
                 "placeholder": true
               },
               {
                 "product": "Airbnb Listing Optimization & SEO",
-                "text": "For a 2-bedroom Smoky Mountains cabin, we rewrote the listing, optimized its photos and set up dynamic pricing and guest messaging. Occupancy rose from 52% to 76%, and the average response time fell from 3 hours to 12 minutes.",
+                "text": "For a 2-bedroom Smoky Mountains cabin, we rewrote the listing, optimized its photos and set up dynamic pricing and guest messaging. On Airbnb, from June–August 2025 against the same months of 2024, occupancy (booked nights ÷ available nights) rose from 52% to 76%, and the average time to a first reply to guest messages fell from 3 hours to 12 minutes.",
                 "placeholder": true
               },
               {
                 "product": "Airbnb Design & Furnishing",
-                "text": "For a 2-bedroom Scottsdale condo, we built a furnishing strategy from nearby competitors, planned guest-proof furniture and amenities, and relaunched the listing. Occupancy rose from 48% to 71%, and the average rating went from 4.5 to 4.9.",
+                "text": "For a 2-bedroom Scottsdale condo, we built a furnishing strategy from nearby competitors, planned guest-proof furniture and amenities, and relaunched the listing. On Airbnb, from June–August 2025 against the same months of 2024, occupancy (booked nights ÷ available nights) rose from 48% to 71%, and the average star rating of new reviews went from 4.5 to 4.9.",
                 "placeholder": true
               }
             ]
@@ -1518,7 +1528,7 @@
           "pageType": "solution",
           "blockId": "cases",
           "splitIndex": 0,
-          "words": 42,
+          "words": 62,
           "slots": 0,
           "block": {
             "id": "cases",
@@ -1527,7 +1537,7 @@
             "items": [
               {
                 "product": "Airbnb Design & Furnishing",
-                "text": "For a 2-bedroom Scottsdale condo, we built a furnishing strategy from nearby competitors, planned guest-proof furniture and amenities, and relaunched the listing. Occupancy rose from 48% to 71%, and the average rating went from 4.5 to 4.9.",
+                "text": "For a 2-bedroom Scottsdale condo, we built a furnishing strategy from nearby competitors, planned guest-proof furniture and amenities, and relaunched the listing. On Airbnb, from June–August 2025 against the same months of 2024, occupancy (booked nights ÷ available nights) rose from 48% to 71%, and the average star rating of new reviews went from 4.5 to 4.9.",
                 "placeholder": true
               }
             ]
@@ -1539,7 +1549,7 @@
       "key": "cta:band",
       "type": "cta",
       "variant": "band",
-      "uses": 8,
+      "uses": 15,
       "names": [
         "cta:band"
       ],
@@ -1568,11 +1578,11 @@
       "samples": [
         {
           "role": "longest",
-          "route": "/airbnb-design-furnishing/",
-          "pageType": "solution",
+          "route": "/san-diego/",
+          "pageType": "place",
           "blockId": "cta",
           "splitIndex": 0,
-          "words": 45,
+          "words": 46,
           "slots": 0,
           "block": {
             "id": "cta",
@@ -1580,12 +1590,12 @@
             "sourceSectionIds": [
               "cta"
             ],
-            "heading": "Start Your Airbnb Furnishing Project With Us",
+            "heading": "Ask About Your San Diego Rental",
             "paragraphs": [
-              "Send us an enquiry with your property details, budget and goals. We reply within one business day and send your written quote within 3 business days of receiving the property details."
+              "Send us your San Diego property address, bedrooms, bathrooms, guest capacity and key amenities. We’ll reply within one business day; qualifying owners receive a free, no-obligation 30-minute discovery call with a property revenue projection."
             ],
             "cta": {
-              "label": "Talk to us about airbnb design & furnishing",
+              "label": "Talk to us about san diego",
               "href": "/request-a-quote/"
             },
             "links": [],
@@ -1594,11 +1604,11 @@
         },
         {
           "role": "shortest",
-          "route": "/vacation-rental-cleaning/",
-          "pageType": "solution",
+          "route": "/request-a-quote/",
+          "pageType": "general",
           "blockId": "cta",
           "splitIndex": 0,
-          "words": 30,
+          "words": 21,
           "slots": 0,
           "block": {
             "id": "cta",
@@ -1606,16 +1616,15 @@
             "sourceSectionIds": [
               "cta"
             ],
-            "heading": "Ask About Turnover Cleaning for Your Rental",
+            "heading": "Send Us Your Property Details",
             "paragraphs": [
-              "Send us an enquiry about turnover cleaning for your rental. We’ll respond within one business day."
+              "Send us your property details to request an earnings estimate and plan."
             ],
             "cta": {
-              "label": "Talk to us about vacation rental cleaning",
-              "href": "/request-a-quote/"
+              "label": "Prefer email? Contact us",
+              "href": "/contact-us/"
             },
-            "links": [],
-            "variant": "band"
+            "links": []
           }
         }
       ]
@@ -1764,7 +1773,7 @@
         {
           "role": "longest",
           "route": "/nashville/",
-          "pageType": "general",
+          "pageType": "place",
           "blockId": "m4",
           "splitIndex": 0,
           "words": 76,
@@ -1779,7 +1788,7 @@
             "paragraphs": [
               "Nashville's [peak leisure season](https://www.nashville.gov/sites/default/files/2026-02/Tourism-and-Convention-Commission-Minutes-120225.pdf?ct=1772139912) runs from March through early November. A [2025 Visit Music City report](https://www.visitmusiccity.com/media/press-release/2025/live-music-drives-surge-nashvilles-summer-tourism) found that on July 4th, short-term rentals earned 30% of Davidson County's $8.38 million in lodging room revenue. We open calendars early, set higher rates and stricter minimum stays for peak and event dates, and adjust rates as those dates approach, because a booking secured at a standard rate can't be repriced later."
             ],
-            "wordCount": 68,
+            "wordCount": 69,
             "mediaKind": "material"
           }
         },
@@ -1871,7 +1880,7 @@
       "key": "cta:dark",
       "type": "cta",
       "variant": "dark",
-      "uses": 1,
+      "uses": 2,
       "names": [
         "cta:dark"
       ],
@@ -1884,7 +1893,32 @@
       ],
       "samples": [
         {
-          "role": "only",
+          "role": "longest",
+          "route": "/blog/",
+          "pageType": "blog_hub",
+          "blockId": "cta",
+          "splitIndex": 0,
+          "words": 32,
+          "slots": 0,
+          "block": {
+            "id": "cta",
+            "type": "cta",
+            "sourceSectionIds": [
+              "cta"
+            ],
+            "heading": "Send Us an Enquiry & Work With Our Team",
+            "paragraphs": [
+              "[Send us an enquiry](/contact-us/) to discuss working with our team on your short-term rental. We’ll reply within one business day."
+            ],
+            "cta": {
+              "label": "Talk to our team",
+              "href": "/contact-us/"
+            },
+            "links": []
+          }
+        },
+        {
+          "role": "shortest",
           "route": "/about-us/",
           "pageType": "about",
           "blockId": "cta",
@@ -2198,7 +2232,7 @@
       "key": "cta:inline",
       "type": "cta",
       "variant": "inline",
-      "uses": 11,
+      "uses": 4,
       "names": [
         "cta:inline"
       ],
@@ -2212,11 +2246,11 @@
       "samples": [
         {
           "role": "longest",
-          "route": "/san-diego/",
-          "pageType": "general",
+          "route": "/contact-us/",
+          "pageType": "contact",
           "blockId": "cta",
           "splitIndex": 0,
-          "words": 46,
+          "words": 39,
           "slots": 0,
           "block": {
             "id": "cta",
@@ -2224,12 +2258,12 @@
             "sourceSectionIds": [
               "cta"
             ],
-            "heading": "Ask About Your San Diego Rental",
+            "heading": "Send Us Your Enquiry Today",
             "paragraphs": [
-              "Send us your San Diego property address, bedrooms, bathrooms, guest capacity and key amenities. We’ll reply within one business day; qualifying owners receive a free, no-obligation 30-minute discovery call with a property revenue projection."
+              "Send your enquiry through the form with your property details or question. Our owner team will reply within one business day and, for a new management enquiry, arrange your discovery call."
             ],
             "cta": {
-              "label": "Talk to us about san diego",
+              "label": "Request a quote",
               "href": "/request-a-quote/"
             },
             "links": []
@@ -2237,11 +2271,11 @@
         },
         {
           "role": "shortest",
-          "route": "/request-a-quote/",
-          "pageType": "general",
+          "route": "/terms-and-conditions/",
+          "pageType": "privacy",
           "blockId": "cta",
           "splitIndex": 0,
-          "words": 21,
+          "words": 23,
           "slots": 0,
           "block": {
             "id": "cta",
@@ -2249,12 +2283,12 @@
             "sourceSectionIds": [
               "cta"
             ],
-            "heading": "Send Us Your Property Details",
+            "heading": "Send Us an Enquiry",
             "paragraphs": [
-              "Send us your property details to request an earnings estimate and plan."
+              "Send us an enquiry about managing your short-term rental. Our team will reply within one business day."
             ],
             "cta": {
-              "label": "Prefer email? Contact us",
+              "label": "Contact us",
               "href": "/contact-us/"
             },
             "links": []
@@ -2278,12 +2312,43 @@
           "pageType": "privacy",
           "blockId": "data-practices",
           "splitIndex": 0,
-          "words": 4,
+          "words": 161,
           "slots": 0,
           "block": {
             "id": "data-practices",
             "type": "dataPractices",
-            "heading": "What this site collects"
+            "heading": "What this site collects",
+            "practices": {
+              "rows": [
+                {
+                  "id": "enquiry-form",
+                  "what": "The enquiry form",
+                  "recorded": "Your name, email and message; your company and phone if you give them; the details of your request if you give them (what it is about, how many, by when, a reference link), and that you agreed to this use",
+                  "why": "To answer your enquiry"
+                },
+                {
+                  "id": "enquiry-context",
+                  "what": "With each enquiry",
+                  "recorded": "The page you sent it from, the page that linked you here (referrer) and any campaign tags in the link you followed (UTM)",
+                  "why": "To know which pages and campaigns bring enquiries"
+                },
+                {
+                  "id": "resource-request",
+                  "what": "The resource request form",
+                  "recorded": "Your name, email and which resource; anything else you tell us, and that you agreed to this use; it carries the same page, referrer and campaign tags as an enquiry",
+                  "why": "To send you the resource you asked for"
+                },
+                {
+                  "id": "analytics",
+                  "what": "Visit statistics (Umami)",
+                  "recorded": "Pages viewed, the site you came from, browser, device type and country, and when a form is sent; counted without cookies and without identifying you",
+                  "why": "To see which pages help visitors"
+                }
+              ],
+              "retention": "",
+              "contact": "",
+              "placeholder": true
+            }
           }
         }
       ]
@@ -2334,6 +2399,112 @@
           }
         }
       ]
+    },
+    {
+      "key": "sources:default",
+      "type": "sources",
+      "variant": null,
+      "uses": 4,
+      "names": [
+        "sources"
+      ],
+      "evidence": [],
+      "samples": [
+        {
+          "role": "longest",
+          "route": "/blog/vacation-rental-management-agreement/",
+          "pageType": "blog_post",
+          "blockId": "sources",
+          "splitIndex": 0,
+          "words": 78,
+          "slots": 0,
+          "block": {
+            "id": "sources",
+            "type": "sources",
+            "items": [
+              {
+                "title": "iGMS",
+                "url": "https://www.igms.com/property-management-contract-template/"
+              },
+              {
+                "title": "AirDNA",
+                "url": "https://www.airdna.co/glossary/vacation-rental-manager"
+              },
+              {
+                "title": "AvantStay",
+                "url": "https://avantstay.com/blog/what-does-a-property-manager-do/"
+              },
+              {
+                "title": "Rentals United",
+                "url": "https://rentalsunited.com/blog/factors-to-consider-when-choosing-the-best-vacation-rental-management-company/"
+              },
+              {
+                "title": "East West",
+                "url": "https://eastwest.com/insights/vacation-rentals/how-to-choose-the-right-vacation-rental-management-company/"
+              },
+              {
+                "title": "SkyRun",
+                "url": "https://skyrun.com/blog/5-signs-its-time-to-switch-vacation-rental-management-companies/"
+              },
+              {
+                "title": "AvantStay",
+                "url": "https://avantstay.com/blog/how-to-switch-property-management-companies/"
+              },
+              {
+                "title": "Hosthub",
+                "url": "https://www.hosthub.com/blog/airbnb-co-host-agreement-template/"
+              },
+              {
+                "title": "CPM's guest-agreement discussion",
+                "url": "https://www.cpmlaw.com/additional-agreements-for-short-term-rentals/"
+              },
+              {
+                "title": "Mr. Props",
+                "url": "https://mrprops.io/templates/owner-relations/vacation-rental-property-management-agreement-template"
+              },
+              {
+                "title": "The Property Tool",
+                "url": "https://thepropertytool.com/templates/vacation-rental-management-agreement"
+              },
+              {
+                "title": "Jotform",
+                "url": "https://www.jotform.com/form-templates/vacation-rental-property-management-agreement"
+              },
+              {
+                "title": "Template.net",
+                "url": "https://www.template.net/agreements/vacation-rental"
+              },
+              {
+                "title": "RedAwning",
+                "url": "https://www.redawning.com/pm/post/vacation-rental-management-agreement-owner-contract-essentials"
+              }
+            ]
+          }
+        },
+        {
+          "role": "shortest",
+          "route": "/blog/airbnb-80-20-rule/",
+          "pageType": "blog_post",
+          "blockId": "sources",
+          "splitIndex": 0,
+          "words": 16,
+          "slots": 0,
+          "block": {
+            "id": "sources",
+            "type": "sources",
+            "items": [
+              {
+                "title": "Lodgify",
+                "url": "https://www.lodgify.com/blog/laws-licenses-taxes-short-term-rentals/"
+              },
+              {
+                "title": "Uplisting’s Airbnb Rules to Protect Your Property",
+                "url": "https://www.uplisting.io/blog/airbnb-rules-to-protect-your-property"
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
   "unbacked": [
@@ -2347,6 +2518,7 @@
     "team:default",
     "featureGrid:columns",
     "dataPractices:default",
-    "process:circles"
+    "process:circles",
+    "sources:default"
   ]
 }

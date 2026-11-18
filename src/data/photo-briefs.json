@@ -211,6 +211,15 @@
     ]
   },
   "/san-diego/": {
+    "m3": [
+      {
+        "id": "brief-m3-1",
+        "type": "photo",
+        "content": "An overhead close-up shows a hand comparing an anonymized property revenue worksheet with attached comparable-listing summaries, with gross-to-net deductions arranged in rows and every word, figure and identifying detail blurred beyond recognition.",
+        "setting": "Remote management office, analysis desk",
+        "caption": "A property-specific projection that accounts for management fees."
+      }
+    ],
     "m4": [
       {
         "id": "brief-m4-1",

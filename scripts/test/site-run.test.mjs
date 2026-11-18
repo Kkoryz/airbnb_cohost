@@ -186,7 +186,7 @@ test('the release step judges the release build, then makes the development buil
   assert.equal(release.keepGoing, true);
   // The comparison with the owner's other sites and the handoff are made by the step itself, before the preflight that
   // reads them (Fable's 11-14 plan, item 11: the preflight held until a person ran check:cross-site by hand).
-  assert.deepEqual(release.run.map((command) => (command[0] === 'node' ? command.slice(1).join(' ') : command.at(-1))), ['scripts/build-release.mjs', 'scripts/build-nginx-config.mjs', 'scripts/sf-report.mjs', 'scripts/check-cross-site.mjs --hold', 'scripts/handoff.mjs', 'scripts/preflight.mjs', 'build']);
+  assert.deepEqual(release.run.map((command) => (command[0] === 'node' ? command.slice(1).join(' ') : command.at(-1))), ['scripts/build-release.mjs', 'scripts/build-nginx-config.mjs', 'scripts/sf-report.mjs', 'scripts/check-cross-site.mjs --hold', 'scripts/handoff.mjs', 'scripts/prelaunch.mjs', 'scripts/preflight.mjs', 'build']);
 });
 
 test("a page nearly the same as one on the owner's other sites holds the release for the owner, it does not fail it", async () => {
@@ -814,6 +814,14 @@ test('a new capture and every blueprint write keep what the treatment and repair
   await writeFile(join(root, 'docs/research/pattern-inventory.json'), JSON.stringify({ pages: [{ pageType: 'about', heroVariant: 'media-overlay', heroOwn: 'media-banner', heroSamples: [{ url: 'u1', heroVariant: 'media-overlay' }, { url: 'u2', heroVariant: 'media-overlay' }], sections: [] }] }));
   await writeBlueprintPages({ root, pagesPlan });
   assert.equal(JSON.parse(await readFile(join(root, 'src/data/template-variants.json'), 'utf8')).components.heroByPageType.about, 'media-overlay');
+  // Owner 2026-11-18: the reference's one landing page with the enquiry form beside its hero gives its page type the same
+  // photo hero without the form, not the form on every page of the type; a site's own form hero stays.
+  await writeFile(join(root, 'docs/research/pattern-inventory.json'), JSON.stringify({ pages: ['solution', 'place'].map((pageType) => ({ pageType, heroVariant: 'media-banner', sections: [] })) }));
+  await writeFile(join(root, 'docs/research/analysis/section-modules.json'), JSON.stringify(['solution', 'place'].map((pageType) => ({ pageType, index: 1, module: 'hero:media-form' }))));
+  await writeFile(join(root, 'src/data/template-variants.json'), JSON.stringify({ schemaVersion: 'seo-site-template-variants-v1', components: { hero: 'plain', heroByPageType: { place: 'media-form' }, pageTypes: {} } }));
+  await writeBlueprintPages({ root, pagesPlan });
+  assert.deepEqual(JSON.parse(await readFile(join(root, 'src/data/template-variants.json'), 'utf8')).components.heroByPageType, { place: 'media-form', solution: 'media-overlay' });
+  await writeFile(join(root, 'docs/research/analysis/section-modules.json'), JSON.stringify(['home', 'about'].map((pageType) => ({ pageType, index: 1, module: 'hero:media-banner' }))));
   await writeFile(join(root, 'docs/research/pattern-inventory.json'), JSON.stringify({ pages: ['home', 'about'].map((pageType) => ({ pageType, heroVariant: 'media-overlay', sections: [] })) }));
   await writeFile(join(root, 'src/data/template-variants.json'), JSON.stringify({ schemaVersion: 'seo-site-template-variants-v1', components: { hero: 'plain', heroByPageType: { home: 'media-split', about: 'media-banner' }, pageTypes: { home: { blocks: { story: { variant: 'single' } } } } } }));
   assert.equal(written.tradePhotos, undefined, 'a clothing site photographs its products');

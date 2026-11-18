@@ -54,6 +54,7 @@ export const HOLDS = {
   nginx_csp_stale: ['template', '重新生成 Nginx 配置（pnpm build:nginx-config）并把安全头片段装到服务器：这一版的内联脚本不在内容安全策略（CSP）里，上线后会被浏览器拦下'],
   claude_seo_audit_missing: ['template', '发布构建还没跑 claude-seo 全盘审计（site-run 的 claude-seo-audit 步骤），或审计的不是这一版发布构建和服务器配置'],
   claude_seo_audit_blocking: ['template', 'claude-seo 审计里代码核对和模型复核都成立的 Critical / High 问题：逐条处理（问题清单 findings.json、报告和行动计划在 docs/research/seo-audit-N/）'],
+  prelaunch_blocked: ['template', '上线前验收里设成"卡发布"的项目有问题：按 docs/research/prelaunch/summary.md 逐项处理，或在 site.json 的 prelaunch 里把它改回 "report"'],
   contact_path_missing: ['owner', '联系页上还没有邮箱、电话或 WhatsApp，也没有接好的询盘表单：提供联系方式或接好表单'],
 };
 
@@ -88,6 +89,7 @@ const byCode = (entries) => [...entries.reduce((codes, entry) => codes.set(entry
 
 // Notices: the owner's to read, never a hold. Each code's line; a code not listed shows its code.
 export const NOTICES = {
+  claude_seo_audit_not_current: 'claude-seo 审计不是这一版发布构建的，也没有这一版的逐条复查；site.json 的 launchFlow 关掉了审计或把复查设成只报告，所以只提示',
   claude_seo_audit_open: 'claude-seo 审计里不拦截上线的问题（Medium、Low，以及核对未成立的 Critical / High）：按行动计划处理',
   entity_profiles_missing: '实体建设：上线后建 LinkedIn 公司页、Bing Places 等档案（清单见交接单的“实体建设”组），建好后把网址补进 sameAs（pnpm handoff -- --same-as <网址>）',
   people_missing: '网站上没有具名人员（关于页的团队、博文作者）：可以不公开，但会拉低 E-E-A-T 和 GEO（看不出谁在做、谁写的）。愿意公开时，把姓名、职位、从业年限和一句简介写进 src/data/site-proof.json 的 team',

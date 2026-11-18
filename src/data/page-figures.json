@@ -2,65 +2,61 @@
   "/vacation-rental-cleaning/": [
     {
       "value": "4 hours",
-      "label": "Turnover minimum, ≤3 bedrooms"
+      "label": "Minimum turnover gap, up to 3-bedrooms"
     },
     {
       "value": "5 hours",
-      "label": "Larger homes turnover minimum"
+      "label": "Minimum turnover gap for larger homes"
     },
     {
       "value": "6–24 hours",
-      "label": "Cleaning correction return"
+      "label": "Return to correct missed cleaning tasks"
     },
     {
       "value": "24–48 hours",
-      "label": "Off-site laundry return"
+      "label": "Off-site laundry return after collection"
     }
   ],
   "/airbnb-listing-optimization-seo/": [
     {
       "value": "2–4 weeks",
-      "label": "Measurable ranking gains"
-    },
-    {
-      "value": "30 to 90 days",
-      "label": "Typical full optimization"
+      "label": "Typical ranking gains after optimization"
     },
     {
       "value": "2 rounds",
       "label": "Included revisions"
     },
     {
-      "value": "14-point check",
-      "label": "Structured field audit"
+      "value": "90 days",
+      "label": "Search data review interval"
+    },
+    {
+      "value": "5 business days",
+      "label": "Search blocker fixes"
     }
   ],
   "/airbnb-design-furnishing/": [
     {
-      "value": "6–8 weeks",
-      "label": "Full furnishing timeline"
+      "value": "about 6–8 weeks",
+      "label": "Furnishing: depends on size, customization, availability"
     },
     {
       "value": "2-3 weeks",
-      "label": "Furniture arrival"
+      "label": "Usual furniture arrival time"
     },
     {
       "value": "2 rounds",
-      "label": "Included design revisions"
+      "label": "Revisions included after first concept"
     },
     {
       "value": "3 finish tiers",
-      "label": "Finish options"
+      "label": "Available finish tiers"
     }
   ],
   "/airbnb-co-hosting/": [
     {
       "value": "7–14 days",
-      "label": "Launch time"
-    },
-    {
-      "value": "1 hour",
-      "label": "Emergency notification"
+      "label": "Go live once home is guest-ready"
     },
     {
       "value": "30 days’ notice",
@@ -68,193 +64,185 @@
     },
     {
       "value": "24/7",
-      "label": "Emergency coordination"
+      "label": "Emergency maintenance coordination"
+    },
+    {
+      "value": "2 business days",
+      "label": "Time to make own fixes"
     }
   ],
   "/dynamic-pricing/": [
     {
       "value": "4 hours",
-      "label": "Failed update correction"
-    },
-    {
-      "value": "180 days",
-      "label": "Event planning horizon"
+      "label": "Flagged failed updates corrected within"
     },
     {
       "value": "1 to 30 nights",
-      "label": "Minimum stay range"
+      "label": "Your selectable minimum stay"
+    },
+    {
+      "value": "180 days",
+      "label": "Event and holiday calendar lookahead"
     },
     {
       "value": "10 to 15 active listings",
-      "label": "Market comparison set"
+      "label": "Comparable listings with matching bedroom count"
     }
   ],
   "/airbnb-booking-management/": [
     {
       "value": "1 hour",
-      "label": "Instant booking review"
+      "label": "Every instant booking reviewed within"
     },
     {
       "value": "12 hours",
-      "label": "Unanswered request decision"
-    },
-    {
-      "value": "24 hours",
-      "label": "Failed payment follow-up"
+      "label": "Booking decision if owner hasn't replied"
     },
     {
       "value": "24/7",
-      "label": "Guest messaging"
+      "label": "Guest messaging and inquiry responses"
     }
   ],
   "/airbnb-property-maintenance/": [
     {
       "value": "4 hours",
-      "label": "Target urgent arrival"
+      "label": "Target arrival: urgent leaks, AC, lockouts"
     },
     {
       "value": "24 hours",
-      "label": "Inspection report turnaround"
+      "label": "Inspection reports after each visit"
     },
     {
       "value": "1 hour",
-      "label": "Emergency spending notification"
+      "label": "Emergency notice when owner unreachable"
     },
     {
       "value": "24/7",
-      "label": "Emergency coordination"
+      "label": "Emergency coordination during guest stays"
     }
   ],
   "/short-term-rental-licensing-compliance/": [
     {
       "value": "90 days",
-      "label": "Advance expiry alerts"
+      "label": "Expiry alert before each deadline"
+    },
+    {
+      "value": "10 business days",
+      "label": "Resubmission target after receiving your documents"
     },
     {
       "value": "3 business days",
-      "label": "Eligibility summary turnaround"
+      "label": "Eligibility summary after receiving address"
     },
     {
       "value": "30 days",
-      "label": "Renewal filing lead time"
-    },
-    {
-      "value": "5 business days",
-      "label": "Rule change notification"
+      "label": "Renewal submission minimum before expiry"
     }
   ],
   "/contact-us/": [
     {
       "value": "24/7",
-      "label": "Urgent client support"
+      "label": "Urgent support during stays"
     },
     {
       "value": "3 business days",
-      "label": "Discovery call scheduling"
+      "label": "Call scheduling window after reply"
     },
     {
       "value": "30-minute",
-      "label": "Discovery call duration"
+      "label": "Revenue projection discovery call"
     }
   ],
   "/faq/": [
     {
       "value": "7–14 days",
-      "label": "Go live time"
+      "label": "Go-live once onboarding is complete"
     },
     {
       "value": "30 to 90 days",
-      "label": "Full optimization time"
-    },
-    {
-      "value": "30 days’ notice",
-      "label": "Cancellation notice"
+      "label": "Usual full optimization time"
     },
     {
       "value": "less than 15 minutes",
-      "label": "Signup time"
+      "label": "Sign-up time"
+    },
+    {
+      "value": "30 days",
+      "label": "Cancellation notice"
     }
   ],
   "/case-studies/": [
     {
       "value": "7–14 days",
-      "label": "Listing launch time"
-    },
-    {
-      "value": "30 to 90 days",
-      "label": "Full optimization time"
+      "label": "New listing goes live within"
     },
     {
       "value": "less than 15 minutes",
-      "label": "Sign-up time"
+      "label": "New listing sign-up time"
     }
   ],
   "/resources/": [
     {
       "value": "12 ready-to-edit messages",
-      "label": "Guest messaging pack"
+      "label": "Guest messaging pack contents"
     },
     {
       "value": "3 months",
-      "label": "Guide review interval"
+      "label": "Guides reviewed at least every"
     },
     {
       "value": "10 business days",
-      "label": "Policy change updates"
+      "label": "Updates after covered host-policy changes"
     },
     {
-      "value": "20-minute",
-      "label": "Checklist support call"
+      "value": "3 business days",
+      "label": "Checklist screen-share arranged within if easier"
     }
   ],
   "/request-a-quote/": [
     {
       "value": "7–14 days",
-      "label": "Typical launch time"
+      "label": "Most homes live within, after approval"
     },
     {
-      "value": "3 business days",
-      "label": "Discovery call scheduling"
+      "value": "under 15 minutes",
+      "label": "Sign-up time once approved"
     },
     {
       "value": "2 business days",
-      "label": "Proposal after call"
+      "label": "Written proposal within, after call"
     },
     {
-      "value": "30-minute",
-      "label": "Discovery call duration"
+      "value": "3 business days",
+      "label": "Discovery call within, after reply"
     }
   ],
   "/locations/": [
     {
-      "value": "365 days a year",
-      "label": "Urgent guest support"
-    },
-    {
       "value": "24/7",
-      "label": "Guest support"
+      "label": "Urgent guest issue support"
     },
     {
       "value": "14 days",
-      "label": "Local partner sourcing"
+      "label": "Source/vet partner where none exists"
     }
   ],
   "/san-diego/": [
-    {
-      "value": "more than 28 major booking sites",
-      "label": "Listing reach"
-    },
     {
       "value": "30 days' notice",
       "label": "Cancellation notice"
     },
     {
+      "value": "more than 28 major booking sites",
+      "label": "Potential property promotion reach"
+    },
+    {
       "value": "365 days a year",
-      "label": "Cleaning and upkeep coordination"
+      "label": "Cleaning and maintenance coordination"
     },
     {
       "value": "24/7",
-      "label": "Guest support"
+      "label": "Guest inquiry and reservation support"
     }
   ],
   "/scottsdale/": [
@@ -268,17 +256,17 @@
     },
     {
       "value": "30-minute",
-      "label": "Discovery call duration"
+      "label": "Discovery call if you qualify"
     }
   ],
   "/nashville/": [
     {
       "value": "4 hours",
-      "label": "Backup vendor threshold"
+      "label": "Partner unavailability triggering backup vendor"
     },
     {
       "value": "24/7",
-      "label": "Guest support"
+      "label": "Guest inquiries and urgent issue handling"
     },
     {
       "value": "30 days",
@@ -286,7 +274,7 @@
     },
     {
       "value": "30-minute",
-      "label": "Discovery call"
+      "label": "Discovery call for qualifying Nashville owners"
     }
   ]
 }
