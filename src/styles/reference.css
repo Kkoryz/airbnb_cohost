@@ -144,7 +144,25 @@ main[data-page-type='home'] .page-hero { --weight-heading: 400; }
 main[data-page-type='about'] .page-hero {
   --weight-heading: 700;
 }
-main[data-page-type='contact'] .page-hero { --hero-min-height: clamp(240px, 28vw, 400px); }
+/* First screens at the reference's share of the screen (hometeamluxuryrentals.com at 1440x1000: home a full screen,
+   about 572px, contact 412px, management and state pages 837px; owner 2026-11-18); the template caps each at the
+   screen under the header (--fold-screen). Other page types go by the nearest: FAQ, case studies, resources, quote,
+   legal and blog pages by the about page, the locations hub by a state page. Phones: the reference's phone heroes
+   fill the screen on the home and the management pages, about three quarters of it on the about page. */
+main[data-page-type='home'] .page-hero { --hero-min-height: 100svh; }
+main:is([data-page-type='about'], [data-page-type='general'], [data-page-type='privacy'], [data-page-type='blog_hub'], [data-page-type='blog_post']) .page-hero { --hero-min-height: clamp(400px, 57.2svh, 640px); }
+main[data-page-type='contact'] .page-hero { --hero-min-height: clamp(320px, 41.2svh, 460px); }
+main:is([data-page-type='solution'], [data-page-type='place'], [data-page-type='places_hub']) .page-hero { --hero-min-height: clamp(560px, 83.7svh, 900px); }
+@media (max-width: 767px) {
+  main:is([data-page-type='about'], [data-page-type='general'], [data-page-type='privacy'], [data-page-type='blog_hub'], [data-page-type='blog_post']) .page-hero { --hero-min-height: clamp(420px, 75svh, 640px); }
+  main[data-page-type='contact'] .page-hero { --hero-min-height: clamp(320px, 50svh, 480px); }
+  main:is([data-page-type='solution'], [data-page-type='place'], [data-page-type='places_hub']) .page-hero { --hero-min-height: clamp(480px, 85svh, 760px); }
+}
+/* The home's photo walls sit in the content's width between the gutters, as the reference's photos do (none of its
+   photos runs across the page), at about 2:1 (a 3:2 photo shows three quarters of its height); phones keep 4:3. */
+.block--gallery[data-variant='band'] { --band-ratio: 2 / 1; padding-inline: var(--gutter); }
+.block--gallery[data-variant='band'] .gallery__band { max-width: var(--container-max); margin-inline: auto; }
+@media (max-width: 767px) { .block--gallery[data-variant='band'] { --band-ratio: 4 / 3; } }
 @media (max-width: 767px) {
   :root:root { --header-height: 5rem; --gutter: 1rem; }
 }
@@ -509,3 +527,6 @@ main[data-page-type='blog_hub'] h1 { font-weight: 700; }
 @media (max-width: 767px) {
   .site-footer[data-layout='minimal'] nav[data-nav-source='header_nav'] .site-footer__links { flex-direction: column; align-items: center; }
 }
+/* With the taller first screens the phone's breadcrumb trail sits by the enquiry bar at the screen's foot: its links
+   are tap targets of 24px (WCAG 2.5.8, the layout audit's tap_target). */
+@media (max-width: 767px) { .breadcrumbs a { display: inline-flex; align-items: center; min-height: 24px; } }
