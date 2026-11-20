@@ -15,7 +15,7 @@
     "type": "Organization"
   },
   "image": {
-    "src": "/media/blog/vacation-rental-profitability-tracking/V1-1536.webp",
+    "src": "/media/blog/vacation-rental-profitability-tracking/owner-statement-laptop-blurred-booking-calendar-1536.webp",
     "alt": "An owner statement beside a laptop with a blurred booking calendar",
     "width": 1536,
     "height": 1024
@@ -98,8 +98,8 @@
         },
         {
           "figure": {
-            "src": "/media/blog/vacation-rental-profitability-tracking/V2-960.webp",
-            "srcset": "/media/blog/vacation-rental-profitability-tracking/V2-480.webp 480w, /media/blog/vacation-rental-profitability-tracking/V2-960.webp 960w, /media/blog/vacation-rental-profitability-tracking/V2-1536.webp 1536w",
+            "src": "/media/blog/vacation-rental-profitability-tracking/de-identified-owner-statement-review-table-960.webp",
+            "srcset": "/media/blog/vacation-rental-profitability-tracking/de-identified-owner-statement-review-table-480.webp 480w, /media/blog/vacation-rental-profitability-tracking/de-identified-owner-statement-review-table-960.webp 960w, /media/blog/vacation-rental-profitability-tracking/de-identified-owner-statement-review-table-1536.webp 1536w",
             "alt": "A de-identified owner statement on a review table",
             "width": 960,
             "height": 640,
@@ -241,8 +241,8 @@
         },
         {
           "figure": {
-            "src": "/media/blog/vacation-rental-profitability-tracking/V3-960.webp",
-            "srcset": "/media/blog/vacation-rental-profitability-tracking/V3-480.webp 480w, /media/blog/vacation-rental-profitability-tracking/V3-960.webp 960w, /media/blog/vacation-rental-profitability-tracking/V3-1536.webp 1536w",
+            "src": "/media/blog/vacation-rental-profitability-tracking/laptop-showing-fully-blurred-transaction-matching-960.webp",
+            "srcset": "/media/blog/vacation-rental-profitability-tracking/laptop-showing-fully-blurred-transaction-matching-480.webp 480w, /media/blog/vacation-rental-profitability-tracking/laptop-showing-fully-blurred-transaction-matching-960.webp 960w, /media/blog/vacation-rental-profitability-tracking/laptop-showing-fully-blurred-transaction-matching-1536.webp 1536w",
             "alt": "A laptop showing a fully blurred transaction-matching screen",
             "width": 960,
             "height": 640,
@@ -583,8 +583,8 @@
         },
         {
           "figure": {
-            "src": "/media/blog/vacation-rental-profitability-tracking/V6-960.webp",
-            "srcset": "/media/blog/vacation-rental-profitability-tracking/V6-480.webp 480w, /media/blog/vacation-rental-profitability-tracking/V6-960.webp 960w, /media/blog/vacation-rental-profitability-tracking/V6-1536.webp 1536w",
+            "src": "/media/blog/vacation-rental-profitability-tracking/printed-software-agreement-contents-obscured-960.webp",
+            "srcset": "/media/blog/vacation-rental-profitability-tracking/printed-software-agreement-contents-obscured-480.webp 480w, /media/blog/vacation-rental-profitability-tracking/printed-software-agreement-contents-obscured-960.webp 960w, /media/blog/vacation-rental-profitability-tracking/printed-software-agreement-contents-obscured-1536.webp 1536w",
             "alt": "A printed software agreement with its contents obscured",
             "width": 960,
             "height": 640,

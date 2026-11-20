@@ -504,37 +504,6 @@
         ]
       },
       {
-        "id": "owner-logos",
-        "type": "logos",
-        "heading": "Clients we work with",
-        "items": [
-          {
-            "name": "Bayline Hospitality",
-            "note": "Florida, USA"
-          },
-          {
-            "name": "Maple Crest Partners",
-            "note": "Tennessee, USA"
-          },
-          {
-            "name": "Willow Bend Hotel Group",
-            "note": "Oregon, USA"
-          },
-          {
-            "name": "Quail Hollow Ventures",
-            "note": "Ohio, USA"
-          },
-          {
-            "name": "Red Barn Hospitality Partners",
-            "note": "Arizona, USA"
-          },
-          {
-            "name": "Eagle Rock Owners Group",
-            "note": "Minnesota, USA"
-          }
-        ]
-      },
-      {
         "id": "related",
         "type": "relatedPages",
         "heading": "Related pages",
@@ -700,120 +669,10 @@
     "pageType": "solution",
     "status": "authored",
     "seo": {
-      "title": "Vacation Rental Cleaning With Photo Checks Before Guests",
+      "title": "Vacation Rental Cleaning With Photo Checks | Staylumen",
       "description": "Vacation rental cleaning that leaves every turnover guest-ready: bedroom staging and linen changes, photo checks before arrivals, and damage reporting.",
       "canonical": "/vacation-rental-cleaning/"
     },
-    "jsonLd": [
-      {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Short Term Rental Management",
-            "item": "/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Services",
-            "item": "/services/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "Vacation Rental Cleaning",
-            "item": "/vacation-rental-cleaning/"
-          }
-        ]
-      },
-      {
-        "@context": "https://schema.org",
-        "@type": "Service",
-        "name": "Vacation Rental Cleaning for Every Guest Turnover",
-        "url": "/vacation-rental-cleaning/",
-        "description": "We schedule and supervise local cleaning partners who leave your rental clean, stocked and at a hotel standard between stays.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Staylumen",
-          "url": "/"
-        },
-        "serviceType": "Vacation Rental Cleaning for Every Guest Turnover",
-        "areaServed": "Worldwide"
-      },
-      {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "Can I engage you just to coordinate turnover cleaning while keeping listing management and guest communication with my current team?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. You can hire us just to coordinate turnover cleaning, and your current team keeps handling listing management and guest communication. We take care of all contact with local cleaning partners and pass on the schedules from your booking calendar along with your special requests."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How much should I charge for Airbnb cleaning?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Under full management, we propose a guest cleaning fee that covers the partner's turnover invoice, including laundry and restocking. We compare it with similar listings nearby so the guest's total stays competitive. The fee goes live only after you approve it. We review it whenever the partner's rate changes, and at least every 6 months. Cleaning fees come to you with each booking payout and are excluded from the rental revenue we use to calculate our 10% management fee."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Can you coordinate turnovers through my existing property-management or cleaning app, or would I need to change systems?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "No, you don't need to change systems. We connect cleaning assignments to most major property-management platforms through a direct calendar link or your channel manager. If your cleaning app offers team or partner access, we work inside it. If it doesn't, we sync turnovers from your platform calendars."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "If a guest reports a missed cleaning task at arrival, how quickly can your partners return to correct it?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "The cleaning partner comes back within 6–24 hours to redo the missed area, at no extra cost to you. If that partner can't return within that window, we send a different local partner to make the correction."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Which conditions, such as severe smoke residue, bodily fluids or pest contamination, are outside turnover-cleaning scope and require specialist treatment?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Turnover cleaning doesn't cover severe smoke residue, blood or other bodily fluids beyond normal bathroom use, pest infestations, animal waste beyond routine pet hair, or any repair and restoration work. When our cleaning partners find any of these conditions, they photograph them. We then arrange a separate assessment by a licensed specialist, such as a biohazard, odor-remediation or pest-control company, and the specialist invoices you directly."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How do cleaners distinguish forgotten belongings from trash, and who handles storage and return of items found during a turnover?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Our cleaning partners throw away only items that are clearly disposable, such as food leftovers, empty packaging and used toiletries. Anything that could have value, including clothing, chargers, documents and jewelry, gets photographed, bagged, labeled and kept as a found item. The partner stores it securely for 30 days. We contact the guest through the booking platform within 24 hours, and if they want the item back, we arrange shipping at their cost."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Can you handle laundry for a smaller property with no washer or dryer, or when its machines break down?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. When your property has no washer or dryer, we arrange for a local laundry partner to collect the used linens and bring back clean sets. For this off-site laundry service, you keep 3 full sets of linens and towels for each bed and bathroom. If your machines break down, we move that turnover to off-site laundry the same day and arrange the appliance repair through our maintenance partners."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What checkout-to-check-in window do you require for my property, including days when several of my units turn over at once?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "We need at least 4 hours between checkout and check-in for homes with up to 3 bedrooms, and 5 hours for larger homes. A standard 11 a.m. checkout with a 4 p.m. check-in meets both. When several of your units turn over on the same day, each unit gets its own partner crew, so the same window applies to every property."
-            }
-          }
-        ]
-      }
-    ],
     "hero": {
       "heading": "Vacation Rental Cleaning for Every Guest Turnover",
       "lead": [
@@ -1303,17 +1162,6 @@
       "package": "sf/authoring/v1",
       "project": "str-cohost",
       "pageId": "c-1670b50700e7:service"
-    }
-  },
-  {
-    "id": "c-3fba3491d5da:service",
-    "route": "/airbnb-listing-optimization-seo/",
-    "pageType": "solution",
-    "status": "authored",
-    "seo": {
-      "title": "Airbnb Listing Optimization for Higher Search Rank",
-      "description": "Airbnb listing optimization built to lift your search ranking: sharper content and photos, faster responses, more reviews, and you keep full control.",
-      "canonical": "/airbnb-listing-optimization-seo/"
     },
     "jsonLd": [
       {
@@ -1335,23 +1183,23 @@
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "Airbnb Listing Optimization & SEO",
-            "item": "/airbnb-listing-optimization-seo/"
+            "name": "Vacation Rental Cleaning",
+            "item": "/vacation-rental-cleaning/"
           }
         ]
       },
       {
         "@context": "https://schema.org",
         "@type": "Service",
-        "name": "Airbnb Listing Optimization That Gets Your Rental Found",
-        "url": "/airbnb-listing-optimization-seo/",
-        "description": "We pick your listing’s search terms from real search data rather than guesswork.",
+        "name": "Vacation Rental Cleaning for Every Guest Turnover",
+        "url": "/vacation-rental-cleaning/",
+        "description": "We schedule and supervise local cleaning partners who leave your rental clean, stocked and at a hotel standard between stays.",
         "provider": {
           "@type": "Organization",
           "name": "Staylumen",
           "url": "/"
         },
-        "serviceType": "Airbnb Listing Optimization That Gets Your Rental Found",
+        "serviceType": "Vacation Rental Cleaning for Every Guest Turnover",
         "areaServed": "Worldwide"
       },
       {
@@ -1360,63 +1208,82 @@
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "How to optimize airbnb listing?",
+            "name": "Can I engage you just to coordinate turnover cleaning while keeping listing management and guest communication with my current team?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "We optimize your listing by matching its content to what guests search for and by coordinating your photos, pricing, booking settings, responses and calendar availability."
+              "text": "Yes. You can hire us just to coordinate turnover cleaning, and your current team keeps handling listing management and guest communication. We take care of all contact with local cleaning partners and pass on the schedules from your booking calendar along with your special requests."
             }
           },
           {
             "@type": "Question",
-            "name": "Can I hire you just to optimize my Airbnb listing once, or is optimization only available as part of an ongoing management plan?",
+            "name": "How much should I charge for Airbnb cleaning?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, you can book a standalone project without signing up for full management or reservations-only co-hosting. We audit and rebuild your title, description, photos and their order, amenity fields and listing settings, and we change nothing outside that scope. If you have a co-host or revenue manager, they carry on with their work. Before we start, we agree in writing who owns which settings, and we share our change log with you. You keep your listing, your access and your control, and you can add ongoing services later."
+              "text": "Under full management, we propose a guest cleaning fee that covers the partner's turnover invoice, including laundry and restocking. We compare it with similar listings nearby so the guest's total stays competitive. The fee goes live only after you approve it. We review it whenever the partner's rate changes, and at least every 6 months. Cleaning fees come to you with each booking payout and are excluded from the rental revenue we use to calculate our 10% management fee."
             }
           },
           {
             "@type": "Question",
-            "name": "Do you optimize my Vrbo and Booking.com listings for their search too, or only my Airbnb listing?",
+            "name": "Can you coordinate turnovers through my existing property-management or cleaning app, or would I need to change systems?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, we optimize your listings on Vrbo, Booking.com and the other platforms we manage, and we adapt to each site's search requirements. On Vrbo that covers the property-type and amenity fields, and on Booking.com the room and facility settings."
+              "text": "No, you don't need to change systems. We connect cleaning assignments to most major property-management platforms through a direct calendar link or your channel manager. If your cleaning app offers team or partner access, we work inside it. If it doesn't, we sync turnovers from your platform calendars."
             }
           },
           {
             "@type": "Question",
-            "name": "Does this service address only Airbnb's internal search, or do you also work on visibility in Google and other external search engines?",
+            "name": "If a guest reports a missed cleaning task at arrival, how quickly can your partners return to correct it?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "We cover search inside Airbnb and the other platforms we manage. We also offer work on Google, AI answer engines, generative AI tools and a direct booking presence. The external work includes Google Vacation Rentals listings and keeping your property names, descriptions and photos consistent so search engines match your listings."
+              "text": "The cleaning partner comes back within 6–24 hours to redo the missed area, at no extra cost to you. If that partner can't return within that window, we send a different local partner to make the correction."
             }
           },
           {
             "@type": "Question",
-            "name": "What record of your work will I receive, such as audit findings, final listing copy, a photo plan or a summary of settings changed?",
+            "name": "Which conditions, such as severe smoke residue, bodily fluids or pest contamination, are outside turnover-cleaning scope and require specialist treatment?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Within 5 business days of publication, you get the audit findings, the final titles and descriptions for each platform, a photo shot list and photo order, and every booking or listing setting we changed with its old and new values. Any later updates go into your monthly performance report."
+              "text": "Turnover cleaning doesn't cover severe smoke residue, blood or other bodily fluids beyond normal bathroom use, pest infestations, animal waste beyond routine pet hair, or any repair and restoration work. When our cleaning partners find any of these conditions, they photograph them. We then arrange a separate assessment by a licensed specialist, such as a biohazard, odor-remediation or pest-control company, and the specialist invoices you directly."
             }
           },
           {
             "@type": "Question",
-            "name": "Can you optimize a listing connected to my existing property management system or channel manager without synced content overwriting your changes?",
+            "name": "How do cleaners distinguish forgotten belongings from trash, and who handles storage and return of items found during a turnover?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes. We check which fields your system pushes to each platform, and we edit synced titles, descriptions, photos and amenities inside that system. When an edit can only be made on the platform, we turn off syncing for that field with your approval. We recheck the live listing 24 hours after each change."
+              "text": "Our cleaning partners throw away only items that are clearly disposable, such as food leftovers, empty packaging and used toiletries. Anything that could have value, including clothing, chargers, documents and jewelry, gets photographed, bagged, labeled and kept as a found item. The partner stores it securely for 30 days. We contact the guest through the booking platform within 24 hours, and if they want the item back, we arrange shipping at their cost."
             }
           },
           {
             "@type": "Question",
-            "name": "If visibility or bookings do not improve after the expected initial period, what diagnostic and revision work is included?",
+            "name": "Can you handle laundry for a smaller property with no washer or dryer, or when its machines break down?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "If your ranking or bookings haven't improved after 4 weeks, we review impressions, click-through, booking rate, pricing and competing listings. Within 5 business days, we revise your titles, photos, amenities or settings in phases, and this is part of your engagement. We repeat these reviews every 30 days until a review finds nothing left to change, and most listings get there within 30 to 90 days, as 9 of the 14 Airbnb listings we optimized in 2025 did."
+              "text": "Yes. When your property has no washer or dryer, we arrange for a local laundry partner to collect the used linens and bring back clean sets. For this off-site laundry service, you keep 3 full sets of linens and towels for each bed and bathroom. If your machines break down, we move that turnover to off-site laundry the same day and arrange the appliance repair through our maintenance partners."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What checkout-to-check-in window do you require for my property, including days when several of my units turn over at once?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We need at least 4 hours between checkout and check-in for homes with up to 3 bedrooms, and 5 hours for larger homes. A standard 11 a.m. checkout with a 4 p.m. check-in meets both. When several of your units turn over on the same day, each unit gets its own partner crew, so the same window applies to every property."
             }
           }
         ]
       }
-    ],
+    ]
+  },
+  {
+    "id": "c-3fba3491d5da:service",
+    "route": "/airbnb-listing-optimization-seo/",
+    "pageType": "solution",
+    "status": "authored",
+    "seo": {
+      "title": "Airbnb Listing Optimization: Higher Search Rank | Staylumen",
+      "description": "Airbnb listing optimization built to lift your search ranking: sharper content and photos, faster responses, more reviews, and you keep full control.",
+      "canonical": "/airbnb-listing-optimization-seo/"
+    },
     "hero": {
       "heading": "Airbnb Listing Optimization That Gets Your Rental Found",
       "lead": [
@@ -1845,7 +1712,109 @@
       "package": "sf/authoring/v1",
       "project": "str-cohost",
       "pageId": "c-3fba3491d5da:service"
-    }
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Short Term Rental Management",
+            "item": "/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Airbnb Listing Optimization & SEO",
+            "item": "/airbnb-listing-optimization-seo/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Airbnb Listing Optimization That Gets Your Rental Found",
+        "url": "/airbnb-listing-optimization-seo/",
+        "description": "We pick your listing’s search terms from real search data rather than guesswork.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Staylumen",
+          "url": "/"
+        },
+        "serviceType": "Airbnb Listing Optimization That Gets Your Rental Found",
+        "areaServed": "Worldwide"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How to optimize airbnb listing?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We optimize your listing by matching its content to what guests search for and by coordinating your photos, pricing, booking settings, responses and calendar availability."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I hire you just to optimize my Airbnb listing once, or is optimization only available as part of an ongoing management plan?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, you can book a standalone project without signing up for full management or reservations-only co-hosting. We audit and rebuild your title, description, photos and their order, amenity fields and listing settings, and we change nothing outside that scope. If you have a co-host or revenue manager, they carry on with their work. Before we start, we agree in writing who owns which settings, and we share our change log with you. You keep your listing, your access and your control, and you can add ongoing services later."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you optimize my Vrbo and Booking.com listings for their search too, or only my Airbnb listing?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, we optimize your listings on Vrbo, Booking.com and the other platforms we manage, and we adapt to each site's search requirements. On Vrbo that covers the property-type and amenity fields, and on Booking.com the room and facility settings."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does this service address only Airbnb's internal search, or do you also work on visibility in Google and other external search engines?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We cover search inside Airbnb and the other platforms we manage. We also offer work on Google, AI answer engines, generative AI tools and a direct booking presence. The external work includes Google Vacation Rentals listings and keeping your property names, descriptions and photos consistent so search engines match your listings."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What record of your work will I receive, such as audit findings, final listing copy, a photo plan or a summary of settings changed?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Within 5 business days of publication, you get the audit findings, the final titles and descriptions for each platform, a photo shot list and photo order, and every booking or listing setting we changed with its old and new values. Any later updates go into your monthly performance report."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can you optimize a listing connected to my existing property management system or channel manager without synced content overwriting your changes?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. We check which fields your system pushes to each platform, and we edit synced titles, descriptions, photos and amenities inside that system. When an edit can only be made on the platform, we turn off syncing for that field with your approval. We recheck the live listing 24 hours after each change."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "If visibility or bookings do not improve after the expected initial period, what diagnostic and revision work is included?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "If your ranking or bookings haven't improved after 4 weeks, we review impressions, click-through, booking rate, pricing and competing listings. Within 5 business days, we revise your titles, photos, amenities or settings in phases, and this is part of your engagement. We repeat these reviews every 30 days until a review finds nothing left to change, and most listings get there within 30 to 90 days, as 9 of the 14 Airbnb listings we optimized in 2025 did."
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "c-555717483840:service",
@@ -1853,7 +1822,7 @@
     "pageType": "solution",
     "status": "authored",
     "seo": {
-      "title": "Airbnb Design & Furnishing With White Glove Delivery",
+      "title": "Airbnb Design & Furnishing: White Glove Delivery | Staylumen",
       "description": "Airbnb design and furnishing for a guest-ready home: durable furniture, smart home setup, and white glove delivery and assembly.",
       "canonical": "/airbnb-design-furnishing/"
     },
@@ -2541,7 +2510,7 @@
     "pageType": "solution",
     "status": "authored",
     "seo": {
-      "title": "Airbnb Co Host Service with Secure Account Access",
+      "title": "Airbnb Co Host Service: Secure Account Access | Staylumen",
       "description": "An Airbnb co host service that runs your listing in your own account: secure co-host access, clear fees, monthly invoicing and multi-channel distribution.",
       "canonical": "/airbnb-co-hosting/"
     },
@@ -3141,104 +3110,10 @@
     "pageType": "solution",
     "status": "authored",
     "seo": {
-      "title": "Airbnb Dynamic Pricing with Daily Human-Reviewed Rates",
+      "title": "Airbnb Dynamic Pricing: Human-Reviewed Rates | Staylumen",
       "description": "Managed Airbnb dynamic pricing: a listing audit to set a baseline, daily rates from market and event data, and gap-night control.",
       "canonical": "/dynamic-pricing/"
     },
-    "jsonLd": [
-      {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Short Term Rental Management",
-            "item": "/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Services",
-            "item": "/services/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "name": "Dynamic Pricing",
-            "item": "/dynamic-pricing/"
-          }
-        ]
-      },
-      {
-        "@context": "https://schema.org",
-        "@type": "Service",
-        "name": "Airbnb Dynamic Pricing Managed by a Real Revenue Manager",
-        "url": "/dynamic-pricing/",
-        "description": "We manage your rental's dynamic pricing for you, so you don't have to run pricing software yourself.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Staylumen",
-          "url": "/"
-        },
-        "serviceType": "Airbnb Dynamic Pricing Managed by a Real Revenue Manager",
-        "areaServed": "Worldwide"
-      },
-      {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "Which pricing tools, property management systems and channel managers can you work with without requiring me to switch systems?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "We work with whichever pricing tool, property management system or channel manager you already use, so you don't have to switch. You add us to your Airbnb, Vrbo, Booking.com and other platform accounts through their co-host or team-access features."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Does my minimum nightly rate remain protected after platform promotions and length-of-stay discounts are applied?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. Your floor is the minimum you receive per night after promotions, last-minute deals and weekly or monthly discounts, and that includes low season. Before we turn on a discount, we check the nightly rate it produces. If a discount would take you below your floor, we reduce it or turn it off."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Do you adjust rates separately across booking platforms to account for their different commissions and protect my net earnings?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes, where the platform's rules allow it. On channels with higher commissions, we raise your rates by the commission amount so your net earnings per night stay level across channels. Every month we check those markups against current host fees, and every channel stays at or above your floor."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Can you coordinate pricing across similar units in my portfolio so they do not unnecessarily undercut one another?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. We use one shared demand calendar, stagger discounts and keep a set rate gap between similar units. For example, in a given week we lower the price on only the unit with the most open nights, so your properties don't compete for the same guest."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "How do you detect and correct pricing updates that fail to reach a booking platform, and what rates remain active during an outage?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "We check that your daily pricing updates reach each platform, and we fix any that fail. During a pricing-tool or channel outage, each platform keeps the last rates it successfully received, within your floor and ceiling. We pause automatic changes until the connection is back and we've checked it."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What do you need from me to keep the pricing working, and what happens if I change prices myself in the platform?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Keep our team access active and tell us about planned works. Block your personal dates yourself or tell us about them, and aim to give us at least 14 days' notice. If you edit prices yourself, your changes stay live until our next daily update, which replaces any edits on unlocked dates. Tell us within 24 hours and we'll lock the date or adjust your floor and ceiling."
-            }
-          }
-        ]
-      }
-    ],
     "hero": {
       "heading": "Airbnb Dynamic Pricing Managed by a Real Revenue Manager",
       "lead": [
@@ -3670,17 +3545,6 @@
       "package": "sf/authoring/v1",
       "project": "str-cohost",
       "pageId": "c-5f78bf68dde8:service"
-    }
-  },
-  {
-    "id": "c-72015ea64385:service",
-    "route": "/airbnb-booking-management/",
-    "pageType": "solution",
-    "status": "authored",
-    "seo": {
-      "title": "Airbnb Booking Management: 24/7 Guest Messaging",
-      "description": "Get 24/7 guest messaging, inquiry screening and synced calendars across every channel with our Airbnb booking management, so double bookings are avoided.",
-      "canonical": "/airbnb-booking-management/"
     },
     "jsonLd": [
       {
@@ -3702,23 +3566,23 @@
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "Airbnb Booking Management",
-            "item": "/airbnb-booking-management/"
+            "name": "Dynamic Pricing",
+            "item": "/dynamic-pricing/"
           }
         ]
       },
       {
         "@context": "https://schema.org",
         "@type": "Service",
-        "name": "Airbnb Booking Management With 24/7 Guest Messaging",
-        "url": "/airbnb-booking-management/",
-        "description": "We only turn down a booking for reasons tied to the stay itself: the guest hasn't completed the platform's ID verification, host reviews report damage or broken house rules, there are signs of a party or event, or the group is larger than your listing's capacity.",
+        "name": "Airbnb Dynamic Pricing Managed by a Real Revenue Manager",
+        "url": "/dynamic-pricing/",
+        "description": "We manage your rental's dynamic pricing for you, so you don't have to run pricing software yourself.",
         "provider": {
           "@type": "Organization",
           "name": "Staylumen",
           "url": "/"
         },
-        "serviceType": "Airbnb Booking Management With 24/7 Guest Messaging",
+        "serviceType": "Airbnb Dynamic Pricing Managed by a Real Revenue Manager",
         "areaServed": "Worldwide"
       },
       {
@@ -3727,55 +3591,66 @@
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "For channels or rate plans where the property has to collect payment, do you manage payment requests, failed payments and security deposits, or do I handle them?",
+            "name": "Which pricing tools, property management systems and channel managers can you work with without requiring me to switch systems?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "We manage payment requests and follow up on any that fail. If a reservation stays unpaid, we need your approval to cancel it under your policy. Payouts go straight into your own platform accounts, and we never hold your rental income. On platforms that support it, including Vrbo, we set a refundable security deposit. After the post-stay walkthrough, we either claim against it or release it. Deposits don't count toward the revenue we use to calculate our fee."
+              "text": "We work with whichever pricing tool, property management system or channel manager you already use, so you don't have to switch. You add us to your Airbnb, Vrbo, Booking.com and other platform accounts through their co-host or team-access features."
             }
           },
           {
             "@type": "Question",
-            "name": "If a double booking still happens, how do you fix it, and who pays any rebooking cost or platform penalty?",
+            "name": "Does my minimum nightly rate remain protected after platform promotions and length-of-stay discounts are applied?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "We move the affected guest to a comparable stay nearby on the same day. We also handle the cancellation through the platform so it's recorded correctly. If our calendar handling caused the conflict, we pay the platform penalties and any extra rehousing costs. If the conflict came from a stay you booked or blocked outside the master calendar, you pay those costs."
+              "text": "Yes. Your floor is the minimum you receive per night after promotions, last-minute deals and weekly or monthly discounts, and that includes low season. Before we turn on a discount, we check the nightly rate it produces. If a discount would take you below your floor, we reduce it or turn it off."
             }
           },
           {
             "@type": "Question",
-            "name": "Can you manage linked calendars if I rent out individual rooms and the whole property as separate listings?",
+            "name": "Do you adjust rates separately across booking platforms to account for their different commissions and protect my net earnings?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes. We link your room listings and your whole-property listing in the master calendar. A whole-home booking blocks every room, and any room booking blocks the whole home across Airbnb, Vrbo, Booking.com and your other platforms. During onboarding we test every channel with a trial block, and we test again whenever you add or change a listing."
+              "text": "Yes, where the platform's rules allow it. On channels with higher commissions, we raise your rates by the commission amount so your net earnings per night stay level across channels. Every month we check those markups against current host fees, and every channel stays at or above your floor."
             }
           },
           {
             "@type": "Question",
-            "name": "If an urgent guest problem needs someone on site and the local partner isn't available, what do I or my local contact have to do?",
+            "name": "Can you coordinate pricing across similar units in my portfolio so they do not unnecessarily undercut one another?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Under full management, you don't have to go to the property: we arrange backup help on site and call you to agree on any refund for nights the guest couldn't use. With booking management only, on-site help stays with you and your local contacts, and we keep the guest updated. Before go-live, you also give us property access details, your existing cleaning or maintenance contacts, and the locations of the water, gas and electrical shutoffs."
+              "text": "Yes. We use one shared demand calendar, stagger discounts and keep a set rate gap between similar units. For example, in a given week we lower the price on only the unit with the most open nights, so your properties don't compete for the same guest."
             }
           },
           {
             "@type": "Question",
-            "name": "Can I set spending limits so you need my approval before offering refunds, discounts or other guest compensation?",
+            "name": "How do you detect and correct pricing updates that fail to reach a booking platform, and what rates remain active during an outage?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes. By default, we can offer up to USD 200 per booking in goodwill refunds, discounts and other compensation, and that amount comes out of the booking's payout. Anything larger needs your written approval. You can lower this limit all the way to zero. We record it during onboarding and ask for your approval before offering anything above it. If your limit covers routine complaints, we settle those complaints on the spot. Refunds required by your listing's cancellation policy or by a platform decision go through without prior approval."
+              "text": "We check that your daily pricing updates reach each platform, and we fix any that fail. During a pricing-tool or channel outage, each platform keeps the last rates it successfully received, within your floor and ceiling. We pause automatic changes until the connection is back and we've checked it."
             }
           },
           {
             "@type": "Question",
-            "name": "When a guest wants to cancel, change dates or get a refund, who decides, and what cancellation policy will you set on my listings?",
+            "name": "What do you need from me to keep the pricing working, and what happens if I change prices myself in the platform?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "We accept date changes that fall within your pricing limits, unless you want to approve every change yourself. We process cancellations and refunds that follow your listing's policy or a platform decision. During onboarding, we walk you through the policy options and recommend terms that suit your market and ranking: Firm on Airbnb, Moderate on Vrbo, and on Booking.com a flexible rate with free cancellation up to 14 days plus a non-refundable rate. The final choice is yours, and you can make any listing stricter or more flexible whenever you like."
+              "text": "Keep our team access active and tell us about planned works. Block your personal dates yourself or tell us about them, and aim to give us at least 14 days' notice. If you edit prices yourself, your changes stay live until our next daily update, which replaces any edits on unlocked dates. Tell us within 24 hours and we'll lock the date or adjust your floor and ceiling."
             }
           }
         ]
       }
-    ],
+    ]
+  },
+  {
+    "id": "c-72015ea64385:service",
+    "route": "/airbnb-booking-management/",
+    "pageType": "solution",
+    "status": "authored",
+    "seo": {
+      "title": "Airbnb Booking Management: 24/7 Guest Messaging | Staylumen",
+      "description": "Get 24/7 guest messaging, inquiry screening and synced calendars across every channel with our Airbnb booking management, so double bookings are avoided.",
+      "canonical": "/airbnb-booking-management/"
+    },
     "hero": {
       "heading": "Airbnb Booking Management With 24/7 Guest Messaging",
       "lead": [
@@ -4185,17 +4060,6 @@
       "package": "sf/authoring/v1",
       "project": "str-cohost",
       "pageId": "c-72015ea64385:service"
-    }
-  },
-  {
-    "id": "c-cf28f3c9154b:service",
-    "route": "/airbnb-property-maintenance/",
-    "pageType": "solution",
-    "status": "authored",
-    "seo": {
-      "title": "Vacation Rental Maintenance with 24/7 Emergency Response",
-      "description": "Vacation rental maintenance through local partners: turnover inspections, 24/7 emergency repairs and home warranty coordination for a guest-ready Airbnb.",
-      "canonical": "/airbnb-property-maintenance/"
     },
     "jsonLd": [
       {
@@ -4217,23 +4081,23 @@
           {
             "@type": "ListItem",
             "position": 3,
-            "name": "Airbnb Property Maintenance",
-            "item": "/airbnb-property-maintenance/"
+            "name": "Airbnb Booking Management",
+            "item": "/airbnb-booking-management/"
           }
         ]
       },
       {
         "@context": "https://schema.org",
         "@type": "Service",
-        "name": "Vacation Rental Maintenance Handled Through Local Partners",
-        "url": "/airbnb-property-maintenance/",
-        "description": "We coordinate both one-off repairs and ongoing Airbnb property maintenance through local partners, and we handle every repair job on your behalf.",
+        "name": "Airbnb Booking Management With 24/7 Guest Messaging",
+        "url": "/airbnb-booking-management/",
+        "description": "We only turn down a booking for reasons tied to the stay itself: the guest hasn't completed the platform's ID verification, host reviews report damage or broken house rules, there are signs of a party or event, or the group is larger than your listing's capacity.",
         "provider": {
           "@type": "Organization",
           "name": "Staylumen",
           "url": "/"
         },
-        "serviceType": "Vacation Rental Maintenance Handled Through Local Partners",
+        "serviceType": "Airbnb Booking Management With 24/7 Guest Messaging",
         "areaServed": "Worldwide"
       },
       {
@@ -4242,47 +4106,66 @@
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "Can I hire you just to coordinate maintenance, or does it come only with full management?",
+            "name": "For channels or rate plans where the property has to collect payment, do you manage payment requests, failed payments and security deposits, or do I handle them?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Maintenance coordination is only available as part of our full management service. We don't offer it separately. Full management also takes care of your listing, pricing, guest support and cleaning, and local partners we arrange do all the on-site work. If you choose our reservations-only option, you handle cleaning and maintenance yourself."
+              "text": "We manage payment requests and follow up on any that fail. If a reservation stays unpaid, we need your approval to cancel it under your policy. Payouts go straight into your own platform accounts, and we never hold your rental income. On platforms that support it, including Vrbo, we set a refundable security deposit. After the post-stay walkthrough, we either claim against it or release it. Deposits don't count toward the revenue we use to calculate our fee."
             }
           },
           {
             "@type": "Question",
-            "name": "If a repair takes several days, how do you fit it around my bookings, and will you block dates on the calendar?",
+            "name": "If a double booking still happens, how do you fix it, and who pays any rebooking cost or platform penalty?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "We first try to fit multi-day repairs into open gaps between stays, and we block extra dates only once you approve. When a job needs more nights than a gap allows, we propose dates for your approval before we block your master calendar. If the repair can wait, we send that proposal at least 7 days ahead. We never block dates that overlap a confirmed booking. The dates reopen the same day the partner confirms the work is finished. When parts delay the fix, a local partner we arrange makes a temporary repair. That could mean isolating and drying out a leak, bringing in portable AC or fans, or fitting a temporary lock. We order the parts on the supplier's fastest delivery and chase any delay, keeping you informed."
+              "text": "We move the affected guest to a comparable stay nearby on the same day. We also handle the cancellation through the platform so it's recorded correctly. If our calendar handling caused the conflict, we pay the platform penalties and any extra rehousing costs. If the conflict came from a stay you booked or blocked outside the master calendar, you pay those costs."
             }
           },
           {
             "@type": "Question",
-            "name": "What will drive my maintenance costs up or down with you, beyond the management fee?",
+            "name": "Can you manage linked calendars if I rent out individual rooms and the whole property as separate listings?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Your costs go up with a larger or older property, with a pool or hot tub that needs weekly service, and with more frequent preventive checks (monthly instead of quarterly). Emergency callouts outside normal hours are billed at partners' after-hours rates, and partners in remote markets charge for their travel time. A newer home, fewer high-upkeep amenities and less frequent checks bring your costs down. Local partners bill you directly at their own rates, and we add no markup. Our 10% management fee stays the same no matter how much maintenance your property needs."
+              "text": "Yes. We link your room listings and your whole-property listing in the master calendar. A whole-home booking blocks every room, and any room booking blocks the whole home across Airbnb, Vrbo, Booking.com and your other platforms. During onboarding we test every channel with a trial block, and we test again whenever you add or change a listing."
             }
           },
           {
             "@type": "Question",
-            "name": "If the AC fails or there's a leak mid-stay, how do you handle refunds or relocating the guest, and do you check with me first?",
+            "name": "If an urgent guest problem needs someone on site and the local partner isn't available, what do I or my local contact have to do?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "We approve goodwill refunds of up to USD 200 per reservation without asking you, and the amount is deducted from that booking's payout. A larger refund needs your written approval first. Moving the guest to another nearby stay at your cost also needs your written approval first."
+              "text": "Under full management, you don't have to go to the property: we arrange backup help on site and call you to agree on any refund for nights the guest couldn't use. With booking management only, on-site help stays with you and your local contacts, and we keep the guest updated. Before go-live, you also give us property access details, your existing cleaning or maintenance contacts, and the locations of the water, gas and electrical shutoffs."
             }
           },
           {
             "@type": "Question",
-            "name": "How do you arrange authorized contractor entry while guests are staying and prevent continued access after the job?",
+            "name": "Can I set spending limits so you need my approval before offering refunds, discounts or other guest compensation?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "We arrange the visit with your guest and give the contractor temporary access for that job only, not ongoing access to your property. When the work is done, we remove that access. We also keep an entry record so you can see who went in and when."
+              "text": "Yes. By default, we can offer up to USD 200 per booking in goodwill refunds, discounts and other compensation, and that amount comes out of the booking's payout. Anything larger needs your written approval. You can lower this limit all the way to zero. We record it during onboarding and ask for your approval before offering anything above it. If your limit covers routine complaints, we settle those complaints on the spot. Refunds required by your listing's cancellation policy or by a platform decision go through without prior approval."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When a guest wants to cancel, change dates or get a refund, who decides, and what cancellation policy will you set on my listings?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We accept date changes that fall within your pricing limits, unless you want to approve every change yourself. We process cancellations and refunds that follow your listing's policy or a platform decision. During onboarding, we walk you through the policy options and recommend terms that suit your market and ranking: Firm on Airbnb, Moderate on Vrbo, and on Booking.com a flexible rate with free cancellation up to 14 days plus a non-refundable rate. The final choice is yours, and you can make any listing stricter or more flexible whenever you like."
             }
           }
         ]
       }
-    ],
+    ]
+  },
+  {
+    "id": "c-cf28f3c9154b:service",
+    "route": "/airbnb-property-maintenance/",
+    "pageType": "solution",
+    "status": "authored",
+    "seo": {
+      "title": "Vacation Rental Maintenance: Emergency Response | Staylumen",
+      "description": "Vacation rental maintenance through local partners: turnover inspections, 24/7 emergency repairs and home warranty coordination for a guest-ready Airbnb.",
+      "canonical": "/airbnb-property-maintenance/"
+    },
     "hero": {
       "heading": "Vacation Rental Maintenance Handled Through Local Partners",
       "lead": [
@@ -4760,7 +4643,93 @@
       "package": "sf/authoring/v1",
       "project": "str-cohost",
       "pageId": "c-cf28f3c9154b:service"
-    }
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Short Term Rental Management",
+            "item": "/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "/services/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Airbnb Property Maintenance",
+            "item": "/airbnb-property-maintenance/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Vacation Rental Maintenance Handled Through Local Partners",
+        "url": "/airbnb-property-maintenance/",
+        "description": "We coordinate both one-off repairs and ongoing Airbnb property maintenance through local partners, and we handle every repair job on your behalf.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Staylumen",
+          "url": "/"
+        },
+        "serviceType": "Vacation Rental Maintenance Handled Through Local Partners",
+        "areaServed": "Worldwide"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Can I hire you just to coordinate maintenance, or does it come only with full management?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Maintenance coordination is only available as part of our full management service. We don't offer it separately. Full management also takes care of your listing, pricing, guest support and cleaning, and local partners we arrange do all the on-site work. If you choose our reservations-only option, you handle cleaning and maintenance yourself."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "If a repair takes several days, how do you fit it around my bookings, and will you block dates on the calendar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We first try to fit multi-day repairs into open gaps between stays, and we block extra dates only once you approve. When a job needs more nights than a gap allows, we propose dates for your approval before we block your master calendar. If the repair can wait, we send that proposal at least 7 days ahead. We never block dates that overlap a confirmed booking. The dates reopen the same day the partner confirms the work is finished. When parts delay the fix, a local partner we arrange makes a temporary repair. That could mean isolating and drying out a leak, bringing in portable AC or fans, or fitting a temporary lock. We order the parts on the supplier's fastest delivery and chase any delay, keeping you informed."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What will drive my maintenance costs up or down with you, beyond the management fee?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Your costs go up with a larger or older property, with a pool or hot tub that needs weekly service, and with more frequent preventive checks (monthly instead of quarterly). Emergency callouts outside normal hours are billed at partners' after-hours rates, and partners in remote markets charge for their travel time. A newer home, fewer high-upkeep amenities and less frequent checks bring your costs down. Local partners bill you directly at their own rates, and we add no markup. Our 10% management fee stays the same no matter how much maintenance your property needs."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "If the AC fails or there's a leak mid-stay, how do you handle refunds or relocating the guest, and do you check with me first?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We approve goodwill refunds of up to USD 200 per reservation without asking you, and the amount is deducted from that booking's payout. A larger refund needs your written approval first. Moving the guest to another nearby stay at your cost also needs your written approval first."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do you arrange authorized contractor entry while guests are staying and prevent continued access after the job?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We arrange the visit with your guest and give the contractor temporary access for that job only, not ongoing access to your property. When the work is done, we remove that access. We also keep an entry record so you can see who went in and when."
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "service:short-term-rental-licensing-compliance",
@@ -4768,7 +4737,7 @@
     "pageType": "solution",
     "status": "authored",
     "seo": {
-      "title": "Short Term Rental Compliance | Eligibility Before You Buy",
+      "title": "Short Term Rental Compliance: Eligibility | Staylumen",
       "description": "Short term rental compliance support: a written eligibility summary before you buy, HOA and deed review, permit renewals and rule tracking.",
       "canonical": "/short-term-rental-licensing-compliance/"
     },
@@ -5576,37 +5545,6 @@
         "continues": "m6"
       },
       {
-        "id": "owner-logos",
-        "type": "logos",
-        "heading": "Clients we work with",
-        "items": [
-          {
-            "name": "Bayline Hospitality",
-            "note": "Florida, USA"
-          },
-          {
-            "name": "Maple Crest Partners",
-            "note": "Tennessee, USA"
-          },
-          {
-            "name": "Willow Bend Hotel Group",
-            "note": "Oregon, USA"
-          },
-          {
-            "name": "Quail Hollow Ventures",
-            "note": "Ohio, USA"
-          },
-          {
-            "name": "Red Barn Hospitality Partners",
-            "note": "Arizona, USA"
-          },
-          {
-            "name": "Eagle Rock Owners Group",
-            "note": "Minnesota, USA"
-          }
-        ]
-      },
-      {
         "id": "owner-testimonials",
         "type": "testimonials",
         "heading": "What clients say",
@@ -6329,7 +6267,7 @@
     "pageType": "general",
     "status": "authored",
     "seo": {
-      "title": "Case Studies: Results for Vacation Rental Owners",
+      "title": "Case Studies: Results for Vacation Rental Owners | Staylumen",
       "description": "See how homeowners got results in our case studies, learn about our company, explore related services and send an enquiry to get started.",
       "canonical": "/case-studies/"
     },
@@ -6545,7 +6483,7 @@
     "pageType": "general",
     "status": "authored",
     "seo": {
-      "title": "Resources: Guides, Templates and Checklists for Owners",
+      "title": "Resources: Guides, Templates and Checklists | Staylumen",
       "description": "Guides, templates and checklists for property owners, with what each covers, how to get it and when it helps most.",
       "canonical": "/resources/"
     },
@@ -6823,30 +6761,10 @@
     "pageType": "privacy",
     "status": "authored",
     "seo": {
-      "title": "Privacy Policy: Account Access, Guest Data and Deletion",
+      "title": "Privacy Policy: Account Access | Staylumen",
       "description": "How we access your accounts without your password, use guest data only to run your listing, cover direct bookings and delete copies within 30 days.",
       "canonical": "/privacy-policy/"
     },
-    "jsonLd": [
-      {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Short Term Rental Management",
-            "item": "/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Privacy Policy",
-            "item": "/privacy-policy/"
-          }
-        ]
-      }
-    ],
     "hero": {
       "heading": "Our Privacy Policy",
       "cta": {
@@ -6974,17 +6892,6 @@
       "package": "sf/authoring/v1",
       "project": "str-cohost",
       "pageId": "site:privacy"
-    }
-  },
-  {
-    "id": "site:terms",
-    "route": "/terms-and-conditions/",
-    "pageType": "privacy",
-    "status": "authored",
-    "seo": {
-      "title": "Terms and Conditions: Service Fixes, Fees and Cancellation",
-      "description": "Our terms for putting substandard work right, fees and monthly invoicing, cancelling on 30 days' notice with no fee, and handover within 5 business days.",
-      "canonical": "/terms-and-conditions/"
     },
     "jsonLd": [
       {
@@ -7000,12 +6907,23 @@
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "Terms and Conditions",
-            "item": "/terms-and-conditions/"
+            "name": "Privacy Policy",
+            "item": "/privacy-policy/"
           }
         ]
       }
-    ],
+    ]
+  },
+  {
+    "id": "site:terms",
+    "route": "/terms-and-conditions/",
+    "pageType": "privacy",
+    "status": "authored",
+    "seo": {
+      "title": "Terms and Conditions: Cancellation | Staylumen",
+      "description": "Our terms for putting substandard work right, fees and monthly invoicing, cancelling on 30 days' notice with no fee, and handover within 5 business days.",
+      "canonical": "/terms-and-conditions/"
+    },
     "hero": {
       "heading": "Terms and Conditions for Working With Us",
       "cta": {
@@ -7115,17 +7033,6 @@
       "package": "sf/authoring/v1",
       "project": "str-cohost",
       "pageId": "site:terms"
-    }
-  },
-  {
-    "id": "site:inquiry",
-    "route": "/request-a-quote/",
-    "pageType": "general",
-    "status": "authored",
-    "seo": {
-      "title": "Request a Quote: Exact Proposal for Your Rental Property",
-      "description": "Share your rental's details and results when you request a quote to get an exact proposal, plus each step to a signed engagement and the first terms.",
-      "canonical": "/request-a-quote/"
     },
     "jsonLd": [
       {
@@ -7141,50 +7048,23 @@
           {
             "@type": "ListItem",
             "position": 2,
-            "name": "Request a Quote",
-            "item": "/request-a-quote/"
-          }
-        ]
-      },
-      {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "Is the proposal free, and am I committed to anything once I receive it?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes, your proposal and revenue analysis are free, and you're under no obligation to go ahead. Send us your property details and we'll prepare an earnings estimate and plan, then walk you through the projection on a free 30-minute discovery call."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "What if my property is new and has no bookings or revenue yet?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Your property doesn't need its own booking history. We use the nightly rates, occupancy and seasonality of comparable local listings over the past 12 months. The projection is an estimate, not a guarantee. It shows your gross rental revenue and your estimated net payout after platform host fees, our 10% fee and the monthly software fee per listing. Cleaning fees, taxes and security deposits aren't included. If you're turning a home into a short-term rental, we help you choose the property, furnish it and set it up, and then we manage it from there."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Will you visit the property before you send me a proposal?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "No. We work entirely online, and none of our own staff are at any property. We handle your listings, pricing, calendars, guest messages and reviews through co-host or team access in your own platform accounts. You stay the account holder, so your listing, booking history, reviews and payouts remain yours when the engagement ends."
-            }
-          },
-          {
-            "@type": "Question",
-            "name": "Will you keep the booking and revenue figures I send you confidential?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes. We use your account, payout and guest data only to run your listing. We never sell it or share it for marketing, and only the team members working on your account can access it. Guest personal details from platform bookings stay inside the booking platforms, and we delete any copies we hold within 30 days of the engagement ending."
-            }
+            "name": "Terms and Conditions",
+            "item": "/terms-and-conditions/"
           }
         ]
       }
-    ],
+    ]
+  },
+  {
+    "id": "site:inquiry",
+    "route": "/request-a-quote/",
+    "pageType": "general",
+    "status": "authored",
+    "seo": {
+      "title": "Request a Quote: Exact Proposal | Staylumen",
+      "description": "Share your rental's details and results when you request a quote to get an exact proposal, plus each step to a signed engagement and the first terms.",
+      "canonical": "/request-a-quote/"
+    },
     "hero": {
       "heading": "Request a Quote and Get an Exact Proposal",
       "lead": [
@@ -7481,7 +7361,65 @@
       "package": "sf/authoring/v1",
       "project": "str-cohost",
       "pageId": "site:inquiry"
-    }
+    },
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Short Term Rental Management",
+            "item": "/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Request a Quote",
+            "item": "/request-a-quote/"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is the proposal free, and am I committed to anything once I receive it?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, your proposal and revenue analysis are free, and you're under no obligation to go ahead. Send us your property details and we'll prepare an earnings estimate and plan, then walk you through the projection on a free 30-minute discovery call."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What if my property is new and has no bookings or revenue yet?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Your property doesn't need its own booking history. We use the nightly rates, occupancy and seasonality of comparable local listings over the past 12 months. The projection is an estimate, not a guarantee. It shows your gross rental revenue and your estimated net payout after platform host fees, our 10% fee and the monthly software fee per listing. Cleaning fees, taxes and security deposits aren't included. If you're turning a home into a short-term rental, we help you choose the property, furnish it and set it up, and then we manage it from there."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will you visit the property before you send me a proposal?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. We work entirely online, and none of our own staff are at any property. We handle your listings, pricing, calendars, guest messages and reviews through co-host or team access in your own platform accounts. You stay the account holder, so your listing, booking history, reviews and payouts remain yours when the engagement ends."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will you keep the booking and revenue figures I send you confidential?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. We use your account, payout and guest data only to run your listing. We never sell it or share it for marketing, and only the team members working on your account can access it. Guest personal details from platform bookings stay inside the booking platforms, and we delete any copies we hold within 30 days of the engagement ending."
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "places",
@@ -7489,7 +7427,7 @@
     "pageType": "places_hub",
     "status": "authored",
     "seo": {
-      "title": "Locations: San Diego, Scottsdale and Nashville",
+      "title": "Locations: San Diego, Scottsdale and Nashville | Staylumen",
       "description": "Remote short-term rental management for San Diego, Scottsdale and Nashville owners, with local partners handling cleaning and maintenance at each home.",
       "canonical": "/locations/"
     },
@@ -7664,7 +7602,7 @@
     "pageType": "place",
     "status": "authored",
     "seo": {
-      "title": "San Diego Short Term Rental Management | 24/7 Guest Support",
+      "title": "San Diego Short Term Rental Management | Staylumen",
       "description": "Get full-service San Diego short term rental management with cleaning coordination and 24/7 guest support, plus a revenue estimate for your home.",
       "canonical": "/san-diego/"
     },
@@ -8182,7 +8120,7 @@
     "pageType": "place",
     "status": "authored",
     "seo": {
-      "title": "Vacation Rental Management Scottsdale | 24/7 Guest Support",
+      "title": "Vacation Rental Management Scottsdale: Licensing | Staylumen",
       "description": "Get hands-off vacation rental management Scottsdale owners trust, with 24/7 guest support, a revenue estimate and guidance on local licenses and taxes.",
       "canonical": "/scottsdale/"
     },
@@ -8659,7 +8597,7 @@
     "pageType": "place",
     "status": "authored",
     "seo": {
-      "title": "Airbnb Management Nashville: 24/7 Guest Support & Cleaning",
+      "title": "Airbnb Management Nashville: 24/7 Guest Support | Staylumen",
       "description": "Hands-off Airbnb management Nashville owners trust: cleaning, restocking and 24/7 guest support, a free revenue estimate, and local licensing help.",
       "canonical": "/nashville/"
     },

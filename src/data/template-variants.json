@@ -19,216 +19,216 @@
     "media": {
       "origin": "library",
       "hero": {
-        "src": "/media/photos/general-hero-1-960.webp",
-        "srcset": "/media/photos/general-hero-1-480.webp 480w, /media/photos/general-hero-1-960.webp 960w, /media/photos/general-hero-1-1536.webp 1344w",
+        "src": "/media/photos/woman-arranges-teal-cushions-cream-sofa-sunlit-960.webp",
+        "srcset": "/media/photos/woman-arranges-teal-cushions-cream-sofa-sunlit-480.webp 480w, /media/photos/woman-arranges-teal-cushions-cream-sofa-sunlit-960.webp 960w, /media/photos/woman-arranges-teal-cushions-cream-sofa-sunlit-1536.webp 1344w",
         "width": 960,
         "height": 640,
         "alt": "A woman arranges teal cushions on a cream sofa in a sunlit living room with wooden furniture and plants."
       },
       "heroByRoute": {
         "/": {
-          "src": "/media/photos/general-hero-1-960.webp",
-          "srcset": "/media/photos/general-hero-1-480.webp 480w, /media/photos/general-hero-1-960.webp 960w, /media/photos/general-hero-1-1536.webp 1344w",
+          "src": "/media/photos/woman-arranges-teal-cushions-cream-sofa-sunlit-960.webp",
+          "srcset": "/media/photos/woman-arranges-teal-cushions-cream-sofa-sunlit-480.webp 480w, /media/photos/woman-arranges-teal-cushions-cream-sofa-sunlit-960.webp 960w, /media/photos/woman-arranges-teal-cushions-cream-sofa-sunlit-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "A woman arranges teal cushions on a cream sofa in a sunlit living room with wooden furniture and plants.",
           "category": "general"
         },
         "/vacation-rental-cleaning/": {
-          "src": "/media/photos/general-hero-2-960.webp",
-          "srcset": "/media/photos/general-hero-2-480.webp 480w, /media/photos/general-hero-2-960.webp 960w, /media/photos/general-hero-2-1536.webp 1344w",
+          "src": "/media/photos/modern-house-overlooks-pool-patio-warm-golden-hour-960.webp",
+          "srcset": "/media/photos/modern-house-overlooks-pool-patio-warm-golden-hour-480.webp 480w, /media/photos/modern-house-overlooks-pool-patio-warm-golden-hour-960.webp 960w, /media/photos/modern-house-overlooks-pool-patio-warm-golden-hour-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "A modern house overlooks a pool and patio in warm golden-hour light.",
           "category": "general"
         },
         "/airbnb-listing-optimization-seo/": {
-          "src": "/media/photos/airbnb-listing-optimization-seo-hero-1-960.webp",
-          "srcset": "/media/photos/airbnb-listing-optimization-seo-hero-1-480.webp 480w, /media/photos/airbnb-listing-optimization-seo-hero-1-960.webp 960w, /media/photos/airbnb-listing-optimization-seo-hero-1-1536.webp 1344w",
+          "src": "/media/photos/modern-house-turquoise-pool-furnished-stone-patio-960.webp",
+          "srcset": "/media/photos/modern-house-turquoise-pool-furnished-stone-patio-480.webp 480w, /media/photos/modern-house-turquoise-pool-furnished-stone-patio-960.webp 960w, /media/photos/modern-house-turquoise-pool-furnished-stone-patio-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "A modern house with a turquoise pool, furnished stone patio and warm lights overlooking a desert sunset.",
           "category": "airbnb listing optimization seo"
         },
         "/airbnb-design-furnishing/": {
-          "src": "/media/photos/general-hero-3-960.webp",
-          "srcset": "/media/photos/general-hero-3-480.webp 480w, /media/photos/general-hero-3-960.webp 960w, /media/photos/general-hero-3-1536.webp 1344w",
+          "src": "/media/photos/person-sits-laptop-wooden-desk-sunlit-office-960.webp",
+          "srcset": "/media/photos/person-sits-laptop-wooden-desk-sunlit-office-480.webp 480w, /media/photos/person-sits-laptop-wooden-desk-sunlit-office-960.webp 960w, /media/photos/person-sits-laptop-wooden-desk-sunlit-office-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "A person sits at a laptop on a wooden desk in a sunlit office overlooking red rock cliffs.",
           "category": "general"
         },
         "/airbnb-co-hosting/": {
-          "src": "/media/photos/general-hero-4-960.webp",
-          "srcset": "/media/photos/general-hero-4-480.webp 480w, /media/photos/general-hero-4-960.webp 960w, /media/photos/general-hero-4-1536.webp 1344w",
+          "src": "/media/photos/couple-luggage-stands-home-front-door-warm-porch-960.webp",
+          "srcset": "/media/photos/couple-luggage-stands-home-front-door-warm-porch-480.webp 480w, /media/photos/couple-luggage-stands-home-front-door-warm-porch-960.webp 960w, /media/photos/couple-luggage-stands-home-front-door-warm-porch-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "A couple with luggage stands at a home's front door beneath a warm porch light at dusk.",
           "category": "general"
         },
         "/dynamic-pricing/": {
-          "src": "/media/photos/dynamic-pricing-hero-1-960.webp",
-          "srcset": "/media/photos/dynamic-pricing-hero-1-480.webp 480w, /media/photos/dynamic-pricing-hero-1-960.webp 960w, /media/photos/dynamic-pricing-hero-1-1536.webp 1344w",
+          "src": "/media/photos/warm-sunlight-fills-living-room-teal-cushions-960.webp",
+          "srcset": "/media/photos/warm-sunlight-fills-living-room-teal-cushions-480.webp 480w, /media/photos/warm-sunlight-fills-living-room-teal-cushions-960.webp 960w, /media/photos/warm-sunlight-fills-living-room-teal-cushions-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "Warm sunlight fills a living room with teal cushions, a wooden coffee table, a stone fireplace and an open cream wall.",
           "category": "dynamic pricing"
         },
         "/airbnb-booking-management/": {
-          "src": "/media/photos/airbnb-booking-management-hero-1-960.webp",
-          "srcset": "/media/photos/airbnb-booking-management-hero-1-480.webp 480w, /media/photos/airbnb-booking-management-hero-1-960.webp 960w, /media/photos/airbnb-booking-management-hero-1-1536.webp 1536w",
+          "src": "/media/photos/open-report-blurred-charts-lies-sunlit-wooden-960.webp",
+          "srcset": "/media/photos/open-report-blurred-charts-lies-sunlit-wooden-480.webp 480w, /media/photos/open-report-blurred-charts-lies-sunlit-wooden-960.webp 960w, /media/photos/open-report-blurred-charts-lies-sunlit-wooden-1536.webp 1536w",
           "width": 960,
           "height": 640,
           "alt": "An open report with blurred charts lies on a sunlit wooden table beside a pen and a coffee cup.",
           "category": "airbnb booking management"
         },
         "/airbnb-property-maintenance/": {
-          "src": "/media/photos/airbnb-property-maintenance-hero-1-960.webp",
-          "srcset": "/media/photos/airbnb-property-maintenance-hero-1-480.webp 480w, /media/photos/airbnb-property-maintenance-hero-1-960.webp 960w, /media/photos/airbnb-property-maintenance-hero-1-1536.webp 1536w",
+          "src": "/media/photos/papers-sticky-notes-fanned-sunlit-wooden-desk-960.webp",
+          "srcset": "/media/photos/papers-sticky-notes-fanned-sunlit-wooden-desk-480.webp 480w, /media/photos/papers-sticky-notes-fanned-sunlit-wooden-desk-960.webp 960w, /media/photos/papers-sticky-notes-fanned-sunlit-wooden-desk-1536.webp 1536w",
           "width": 960,
           "height": 640,
           "alt": "Papers and sticky notes are fanned out on a sunlit wooden desk.",
           "category": "airbnb property maintenance"
         },
         "/short-term-rental-licensing-compliance/": {
-          "src": "/media/photos/short-term-rental-licensing-compliance-hero-1-960.webp",
-          "srcset": "/media/photos/short-term-rental-licensing-compliance-hero-1-480.webp 480w, /media/photos/short-term-rental-licensing-compliance-hero-1-960.webp 960w, /media/photos/short-term-rental-licensing-compliance-hero-1-1536.webp 1344w",
+          "src": "/media/photos/papers-calendar-sticky-notes-spread-sunlit-wooden-960.webp",
+          "srcset": "/media/photos/papers-calendar-sticky-notes-spread-sunlit-wooden-480.webp 480w, /media/photos/papers-calendar-sticky-notes-spread-sunlit-wooden-960.webp 960w, /media/photos/papers-calendar-sticky-notes-spread-sunlit-wooden-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "Papers, a calendar and sticky notes are spread across a sunlit wooden desk.",
           "category": "short term rental licensing compliance"
         },
         "/about-us/": {
-          "src": "/media/photos/general-hero-5-960.webp",
-          "srcset": "/media/photos/general-hero-5-480.webp 480w, /media/photos/general-hero-5-960.webp 960w, /media/photos/general-hero-5-1536.webp 1344w",
+          "src": "/media/photos/open-binder-blurred-charts-rests-wooden-desk-960.webp",
+          "srcset": "/media/photos/open-binder-blurred-charts-rests-wooden-desk-480.webp 480w, /media/photos/open-binder-blurred-charts-rests-wooden-desk-960.webp 960w, /media/photos/open-binder-blurred-charts-rests-wooden-desk-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "An open binder with blurred charts rests on a wooden desk beside a sunlit window.",
           "category": "general"
         },
         "/contact-us/": {
-          "src": "/media/photos/general-hero-6-960.webp",
-          "srcset": "/media/photos/general-hero-6-480.webp 480w, /media/photos/general-hero-6-960.webp 960w, /media/photos/general-hero-6-1536.webp 1344w",
+          "src": "/media/photos/person-sits-laptop-plants-sunlit-window-960.webp",
+          "srcset": "/media/photos/person-sits-laptop-plants-sunlit-window-480.webp 480w, /media/photos/person-sits-laptop-plants-sunlit-window-960.webp 960w, /media/photos/person-sits-laptop-plants-sunlit-window-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "A person sits at a laptop beside plants and a sunlit window overlooking red rock formations.",
           "category": "general"
         },
         "/faq/": {
-          "src": "/media/photos/general-hero-7-960.webp",
-          "srcset": "/media/photos/general-hero-7-480.webp 480w, /media/photos/general-hero-7-960.webp 960w, /media/photos/general-hero-7-1536.webp 1344w",
+          "src": "/media/photos/open-report-blurred-charts-rests-pen-coffee-cup-960.webp",
+          "srcset": "/media/photos/open-report-blurred-charts-rests-pen-coffee-cup-480.webp 480w, /media/photos/open-report-blurred-charts-rests-pen-coffee-cup-960.webp 960w, /media/photos/open-report-blurred-charts-rests-pen-coffee-cup-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "An open report with blurred charts rests beside a pen and coffee cup on a sunlit wooden table.",
           "category": "general"
         },
         "/case-studies/": {
-          "src": "/media/photos/general-hero-2-960.webp",
-          "srcset": "/media/photos/general-hero-2-480.webp 480w, /media/photos/general-hero-2-960.webp 960w, /media/photos/general-hero-2-1536.webp 1344w",
+          "src": "/media/photos/modern-house-overlooks-pool-patio-warm-golden-hour-960.webp",
+          "srcset": "/media/photos/modern-house-overlooks-pool-patio-warm-golden-hour-480.webp 480w, /media/photos/modern-house-overlooks-pool-patio-warm-golden-hour-960.webp 960w, /media/photos/modern-house-overlooks-pool-patio-warm-golden-hour-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "A modern house overlooks a pool and patio in warm golden-hour light.",
           "category": "general"
         },
         "/resources/": {
-          "src": "/media/photos/general-hero-3-960.webp",
-          "srcset": "/media/photos/general-hero-3-480.webp 480w, /media/photos/general-hero-3-960.webp 960w, /media/photos/general-hero-3-1536.webp 1344w",
+          "src": "/media/photos/person-sits-laptop-wooden-desk-sunlit-office-960.webp",
+          "srcset": "/media/photos/person-sits-laptop-wooden-desk-sunlit-office-480.webp 480w, /media/photos/person-sits-laptop-wooden-desk-sunlit-office-960.webp 960w, /media/photos/person-sits-laptop-wooden-desk-sunlit-office-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "A person sits at a laptop on a wooden desk in a sunlit office overlooking red rock cliffs.",
           "category": "general"
         },
         "/privacy-policy/": {
-          "src": "/media/photos/general-hero-4-960.webp",
-          "srcset": "/media/photos/general-hero-4-480.webp 480w, /media/photos/general-hero-4-960.webp 960w, /media/photos/general-hero-4-1536.webp 1344w",
+          "src": "/media/photos/couple-luggage-stands-home-front-door-warm-porch-960.webp",
+          "srcset": "/media/photos/couple-luggage-stands-home-front-door-warm-porch-480.webp 480w, /media/photos/couple-luggage-stands-home-front-door-warm-porch-960.webp 960w, /media/photos/couple-luggage-stands-home-front-door-warm-porch-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "A couple with luggage stands at a home's front door beneath a warm porch light at dusk.",
           "category": "general"
         },
         "/terms-and-conditions/": {
-          "src": "/media/photos/general-hero-5-960.webp",
-          "srcset": "/media/photos/general-hero-5-480.webp 480w, /media/photos/general-hero-5-960.webp 960w, /media/photos/general-hero-5-1536.webp 1344w",
+          "src": "/media/photos/open-binder-blurred-charts-rests-wooden-desk-960.webp",
+          "srcset": "/media/photos/open-binder-blurred-charts-rests-wooden-desk-480.webp 480w, /media/photos/open-binder-blurred-charts-rests-wooden-desk-960.webp 960w, /media/photos/open-binder-blurred-charts-rests-wooden-desk-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "An open binder with blurred charts rests on a wooden desk beside a sunlit window.",
           "category": "general"
         },
         "/request-a-quote/": {
-          "src": "/media/photos/general-hero-6-960.webp",
-          "srcset": "/media/photos/general-hero-6-480.webp 480w, /media/photos/general-hero-6-960.webp 960w, /media/photos/general-hero-6-1536.webp 1344w",
+          "src": "/media/photos/person-sits-laptop-plants-sunlit-window-960.webp",
+          "srcset": "/media/photos/person-sits-laptop-plants-sunlit-window-480.webp 480w, /media/photos/person-sits-laptop-plants-sunlit-window-960.webp 960w, /media/photos/person-sits-laptop-plants-sunlit-window-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "A person sits at a laptop beside plants and a sunlit window overlooking red rock formations.",
           "category": "general"
         },
         "/locations/": {
-          "src": "/media/photos/general-hero-7-960.webp",
-          "srcset": "/media/photos/general-hero-7-480.webp 480w, /media/photos/general-hero-7-960.webp 960w, /media/photos/general-hero-7-1536.webp 1344w",
+          "src": "/media/photos/open-report-blurred-charts-rests-pen-coffee-cup-960.webp",
+          "srcset": "/media/photos/open-report-blurred-charts-rests-pen-coffee-cup-480.webp 480w, /media/photos/open-report-blurred-charts-rests-pen-coffee-cup-960.webp 960w, /media/photos/open-report-blurred-charts-rests-pen-coffee-cup-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "An open report with blurred charts rests beside a pen and coffee cup on a sunlit wooden table.",
           "category": "general"
         },
         "/san-diego/": {
-          "src": "/media/photos/san-diego-hero-1-960.webp",
-          "srcset": "/media/photos/san-diego-hero-1-480.webp 480w, /media/photos/san-diego-hero-1-960.webp 960w, /media/photos/san-diego-hero-1-1536.webp 1344w",
+          "src": "/media/photos/open-report-blurred-charts-rests-pen-coffee-cup-2-960.webp",
+          "srcset": "/media/photos/open-report-blurred-charts-rests-pen-coffee-cup-2-480.webp 480w, /media/photos/open-report-blurred-charts-rests-pen-coffee-cup-2-960.webp 960w, /media/photos/open-report-blurred-charts-rests-pen-coffee-cup-2-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "An open report with blurred charts rests beside a pen and coffee cup on a sunlit wooden table.",
           "category": "san diego"
         },
         "/scottsdale/": {
-          "src": "/media/photos/general-hero-2-960.webp",
-          "srcset": "/media/photos/general-hero-2-480.webp 480w, /media/photos/general-hero-2-960.webp 960w, /media/photos/general-hero-2-1536.webp 1344w",
+          "src": "/media/photos/modern-house-overlooks-pool-patio-warm-golden-hour-960.webp",
+          "srcset": "/media/photos/modern-house-overlooks-pool-patio-warm-golden-hour-480.webp 480w, /media/photos/modern-house-overlooks-pool-patio-warm-golden-hour-960.webp 960w, /media/photos/modern-house-overlooks-pool-patio-warm-golden-hour-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "A modern house overlooks a pool and patio in warm golden-hour light.",
           "category": "general"
         },
         "/nashville/": {
-          "src": "/media/photos/nashville-hero-1-960.webp",
-          "srcset": "/media/photos/nashville-hero-1-480.webp 480w, /media/photos/nashville-hero-1-960.webp 960w, /media/photos/nashville-hero-1-1536.webp 1536w",
+          "src": "/media/photos/person-sits-laptop-wooden-desk-sunlit-window-960.webp",
+          "srcset": "/media/photos/person-sits-laptop-wooden-desk-sunlit-window-480.webp 480w, /media/photos/person-sits-laptop-wooden-desk-sunlit-window-960.webp 960w, /media/photos/person-sits-laptop-wooden-desk-sunlit-window-1536.webp 1536w",
           "width": 960,
           "height": 640,
           "alt": "A person sits at a laptop on a wooden desk beside a sunlit window overlooking a city skyline.",
           "category": "nashville"
         },
         "/blog/": {
-          "src": "/media/photos/general-hero-3-960.webp",
-          "srcset": "/media/photos/general-hero-3-480.webp 480w, /media/photos/general-hero-3-960.webp 960w, /media/photos/general-hero-3-1536.webp 1344w",
+          "src": "/media/photos/person-sits-laptop-wooden-desk-sunlit-office-960.webp",
+          "srcset": "/media/photos/person-sits-laptop-wooden-desk-sunlit-office-480.webp 480w, /media/photos/person-sits-laptop-wooden-desk-sunlit-office-960.webp 960w, /media/photos/person-sits-laptop-wooden-desk-sunlit-office-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "A person sits at a laptop on a wooden desk in a sunlit office overlooking red rock cliffs.",
           "category": "general"
         },
         "/blog/vacation-rental-management-agreement/": {
-          "src": "/media/photos/general-hero-4-960.webp",
-          "srcset": "/media/photos/general-hero-4-480.webp 480w, /media/photos/general-hero-4-960.webp 960w, /media/photos/general-hero-4-1536.webp 1344w",
+          "src": "/media/photos/couple-luggage-stands-home-front-door-warm-porch-960.webp",
+          "srcset": "/media/photos/couple-luggage-stands-home-front-door-warm-porch-480.webp 480w, /media/photos/couple-luggage-stands-home-front-door-warm-porch-960.webp 960w, /media/photos/couple-luggage-stands-home-front-door-warm-porch-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "A couple with luggage stands at a home's front door beneath a warm porch light at dusk.",
           "category": "general"
         },
         "/blog/vacation-rental-management-fees/": {
-          "src": "/media/photos/general-hero-5-960.webp",
-          "srcset": "/media/photos/general-hero-5-480.webp 480w, /media/photos/general-hero-5-960.webp 960w, /media/photos/general-hero-5-1536.webp 1344w",
+          "src": "/media/photos/open-binder-blurred-charts-rests-wooden-desk-960.webp",
+          "srcset": "/media/photos/open-binder-blurred-charts-rests-wooden-desk-480.webp 480w, /media/photos/open-binder-blurred-charts-rests-wooden-desk-960.webp 960w, /media/photos/open-binder-blurred-charts-rests-wooden-desk-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "An open binder with blurred charts rests on a wooden desk beside a sunlit window.",
           "category": "general"
         },
         "/blog/vacation-rental-profitability-tracking/": {
-          "src": "/media/photos/general-hero-6-960.webp",
-          "srcset": "/media/photos/general-hero-6-480.webp 480w, /media/photos/general-hero-6-960.webp 960w, /media/photos/general-hero-6-1536.webp 1344w",
+          "src": "/media/photos/person-sits-laptop-plants-sunlit-window-960.webp",
+          "srcset": "/media/photos/person-sits-laptop-plants-sunlit-window-480.webp 480w, /media/photos/person-sits-laptop-plants-sunlit-window-960.webp 960w, /media/photos/person-sits-laptop-plants-sunlit-window-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "A person sits at a laptop beside plants and a sunlit window overlooking red rock formations.",
           "category": "general"
         },
         "/blog/airbnb-80-20-rule/": {
-          "src": "/media/photos/general-hero-7-960.webp",
-          "srcset": "/media/photos/general-hero-7-480.webp 480w, /media/photos/general-hero-7-960.webp 960w, /media/photos/general-hero-7-1536.webp 1344w",
+          "src": "/media/photos/open-report-blurred-charts-rests-pen-coffee-cup-960.webp",
+          "srcset": "/media/photos/open-report-blurred-charts-rests-pen-coffee-cup-480.webp 480w, /media/photos/open-report-blurred-charts-rests-pen-coffee-cup-960.webp 960w, /media/photos/open-report-blurred-charts-rests-pen-coffee-cup-1536.webp 1344w",
           "width": 960,
           "height": 640,
           "alt": "An open report with blurred charts rests beside a pen and coffee cup on a sunlit wooden table.",
@@ -238,40 +238,40 @@
       "pools": {
         "product": [
           {
-            "src": "/media/photos/general-product-1-960.webp",
-            "srcset": "/media/photos/general-product-1-480.webp 480w, /media/photos/general-product-1-960.webp 960w",
+            "src": "/media/photos/sunlit-guest-bedroom-crisp-white-linens-folded-960.webp",
+            "srcset": "/media/photos/sunlit-guest-bedroom-crisp-white-linens-folded-480.webp 480w, /media/photos/sunlit-guest-bedroom-crisp-white-linens-folded-960.webp 960w",
             "width": 960,
             "height": 960,
             "alt": "A sunlit guest bedroom with crisp white linens and folded towels on the bed.",
             "category": "general"
           },
           {
-            "src": "/media/photos/general-product-2-960.webp",
-            "srcset": "/media/photos/general-product-2-480.webp 480w, /media/photos/general-product-2-960.webp 960w",
+            "src": "/media/photos/woman-wipes-kitchen-island-set-wooden-dining-table-960.webp",
+            "srcset": "/media/photos/woman-wipes-kitchen-island-set-wooden-dining-table-480.webp 480w, /media/photos/woman-wipes-kitchen-island-set-wooden-dining-table-960.webp 960w",
             "width": 960,
             "height": 960,
             "alt": "A woman wipes a kitchen island beside a set wooden dining table in a sunlit room with exposed beams.",
             "category": "general"
           },
           {
-            "src": "/media/photos/general-product-3-960.webp",
-            "srcset": "/media/photos/general-product-3-480.webp 480w, /media/photos/general-product-3-960.webp 960w",
+            "src": "/media/photos/lounge-chairs-line-sunlit-stone-patio-turquoise-960.webp",
+            "srcset": "/media/photos/lounge-chairs-line-sunlit-stone-patio-turquoise-480.webp 480w, /media/photos/lounge-chairs-line-sunlit-stone-patio-turquoise-960.webp 960w",
             "width": 960,
             "height": 960,
             "alt": "Lounge chairs line a sunlit stone patio beside a turquoise pool, with a covered terrace and trees.",
             "category": "general"
           },
           {
-            "src": "/media/photos/general-product-4-960.webp",
-            "srcset": "/media/photos/general-product-4-480.webp 480w, /media/photos/general-product-4-960.webp 960w",
+            "src": "/media/photos/sunlit-living-room-sofa-throw-pillows-coffee-table-960.webp",
+            "srcset": "/media/photos/sunlit-living-room-sofa-throw-pillows-coffee-table-480.webp 480w, /media/photos/sunlit-living-room-sofa-throw-pillows-coffee-table-960.webp 960w",
             "width": 960,
             "height": 960,
             "alt": "A sunlit living room with a sofa, throw pillows and a coffee table.",
             "category": "general"
           },
           {
-            "src": "/media/photos/vacation-rental-cleaning-brief-splitmedia-1-1-960.webp",
-            "srcset": "/media/photos/vacation-rental-cleaning-brief-splitmedia-1-1-480.webp 480w, /media/photos/vacation-rental-cleaning-brief-splitmedia-1-1-960.webp 960w",
+            "src": "/media/photos/woman-wearing-headset-reviews-bedroom-photograph-960.webp",
+            "srcset": "/media/photos/woman-wearing-headset-reviews-bedroom-photograph-480.webp 480w, /media/photos/woman-wearing-headset-reviews-bedroom-photograph-960.webp 960w",
             "width": 960,
             "height": 960,
             "alt": "A woman wearing a headset reviews a bedroom photograph on a laptop in an office.",
@@ -279,8 +279,8 @@
             "intent": "/vacation-rental-cleaning/#brief-splitMedia-1-1"
           },
           {
-            "src": "/media/photos/vacation-rental-cleaning-brief-splitmedia-2-1-960.webp",
-            "srcset": "/media/photos/vacation-rental-cleaning-brief-splitmedia-2-1-480.webp 480w, /media/photos/vacation-rental-cleaning-brief-splitmedia-2-1-960.webp 960w",
+            "src": "/media/photos/cleaner-applies-liquid-unmarked-bottle-soft-cloth-960.webp",
+            "srcset": "/media/photos/cleaner-applies-liquid-unmarked-bottle-soft-cloth-480.webp 480w, /media/photos/cleaner-applies-liquid-unmarked-bottle-soft-cloth-960.webp 960w",
             "width": 960,
             "height": 960,
             "alt": "A cleaner applies liquid from an unmarked bottle to a soft cloth beside supplies on a bathroom vanity.",
@@ -288,8 +288,8 @@
             "intent": "/vacation-rental-cleaning/#brief-splitMedia-2-1"
           },
           {
-            "src": "/media/photos/airbnb-design-furnishing-brief-splitmedia-1-1-960.webp",
-            "srcset": "/media/photos/airbnb-design-furnishing-brief-splitmedia-1-1-480.webp 480w, /media/photos/airbnb-design-furnishing-brief-splitmedia-1-1-960.webp 960w",
+            "src": "/media/photos/man-kneels-wooden-stair-landing-stretches-tape-960.webp",
+            "srcset": "/media/photos/man-kneels-wooden-stair-landing-stretches-tape-480.webp 480w, /media/photos/man-kneels-wooden-stair-landing-stretches-tape-960.webp 960w",
             "width": 960,
             "height": 960,
             "alt": "A man kneels on a wooden stair landing and stretches a tape measure between the wall and banister.",
@@ -299,16 +299,16 @@
         ],
         "process": [
           {
-            "src": "/media/photos/general-process-1-960.webp",
-            "srcset": "/media/photos/general-process-1-480.webp 480w, /media/photos/general-process-1-960.webp 960w, /media/photos/general-process-1-1536.webp 1536w",
+            "src": "/media/photos/woman-sits-wooden-desk-monitors-plants-sunlit-home-960.webp",
+            "srcset": "/media/photos/woman-sits-wooden-desk-monitors-plants-sunlit-home-480.webp 480w, /media/photos/woman-sits-wooden-desk-monitors-plants-sunlit-home-960.webp 960w, /media/photos/woman-sits-wooden-desk-monitors-plants-sunlit-home-1536.webp 1536w",
             "width": 960,
             "height": 640,
             "alt": "A woman sits at a wooden desk with monitors and plants in a sunlit home office.",
             "category": "general"
           },
           {
-            "src": "/media/photos/home-brief-splitmedia-1-1-960.webp",
-            "srcset": "/media/photos/home-brief-splitmedia-1-1-480.webp 480w, /media/photos/home-brief-splitmedia-1-1-960.webp 960w, /media/photos/home-brief-splitmedia-1-1-1536.webp 1536w",
+            "src": "/media/photos/woman-holds-phone-ear-viewing-room-photograph-960.webp",
+            "srcset": "/media/photos/woman-holds-phone-ear-viewing-room-photograph-480.webp 480w, /media/photos/woman-holds-phone-ear-viewing-room-photograph-960.webp 960w, /media/photos/woman-holds-phone-ear-viewing-room-photograph-1536.webp 1536w",
             "width": 960,
             "height": 640,
             "alt": "A woman holds a phone to her ear while viewing a room photograph on a tablet at a wooden desk.",
@@ -316,8 +316,8 @@
             "intent": "/#brief-splitMedia-1-1"
           },
           {
-            "src": "/media/photos/home-brief-splitmedia-2-1-960.webp",
-            "srcset": "/media/photos/home-brief-splitmedia-2-1-480.webp 480w, /media/photos/home-brief-splitmedia-2-1-960.webp 960w, /media/photos/home-brief-splitmedia-2-1-1536.webp 1344w",
+            "src": "/media/photos/person-uses-calculator-basket-toiletries-receipts-960.webp",
+            "srcset": "/media/photos/person-uses-calculator-basket-toiletries-receipts-480.webp 480w, /media/photos/person-uses-calculator-basket-toiletries-receipts-960.webp 960w, /media/photos/person-uses-calculator-basket-toiletries-receipts-1536.webp 1344w",
             "width": 960,
             "height": 640,
             "alt": "A person uses a calculator beside a basket of toiletries and receipts on a kitchen counter.",
@@ -325,8 +325,8 @@
             "intent": "/#brief-splitMedia-2-1"
           },
           {
-            "src": "/media/photos/home-brief-m5-1-960.webp",
-            "srcset": "/media/photos/home-brief-m5-1-480.webp 480w, /media/photos/home-brief-m5-1-960.webp 960w, /media/photos/home-brief-m5-1-1536.webp 1536w",
+            "src": "/media/photos/woman-sits-wooden-office-desk-facing-monitor-960.webp",
+            "srcset": "/media/photos/woman-sits-wooden-office-desk-facing-monitor-480.webp 480w, /media/photos/woman-sits-wooden-office-desk-facing-monitor-960.webp 960w, /media/photos/woman-sits-wooden-office-desk-facing-monitor-1536.webp 1536w",
             "width": 960,
             "height": 640,
             "alt": "A woman sits at a wooden office desk facing a monitor displaying property photographs.",
@@ -334,8 +334,8 @@
             "intent": "/#brief-m5-1"
           },
           {
-            "src": "/media/photos/vacation-rental-cleaning-brief-m6-1-960.webp",
-            "srcset": "/media/photos/vacation-rental-cleaning-brief-m6-1-480.webp 480w, /media/photos/vacation-rental-cleaning-brief-m6-1-960.webp 960w, /media/photos/vacation-rental-cleaning-brief-m6-1-1536.webp 1344w",
+            "src": "/media/photos/person-crouches-wooden-coffee-table-chipped-corner-960.webp",
+            "srcset": "/media/photos/person-crouches-wooden-coffee-table-chipped-corner-480.webp 480w, /media/photos/person-crouches-wooden-coffee-table-chipped-corner-960.webp 960w, /media/photos/person-crouches-wooden-coffee-table-chipped-corner-1536.webp 1344w",
             "width": 960,
             "height": 640,
             "alt": "A person crouches beside a wooden coffee table with a chipped corner and holds a phone.",
@@ -343,8 +343,8 @@
             "intent": "/vacation-rental-cleaning/#brief-m6-1"
           },
           {
-            "src": "/media/photos/airbnb-design-furnishing-brief-splitmedia-2-1-960.webp",
-            "srcset": "/media/photos/airbnb-design-furnishing-brief-splitmedia-2-1-480.webp 480w, /media/photos/airbnb-design-furnishing-brief-splitmedia-2-1-960.webp 960w, /media/photos/airbnb-design-furnishing-brief-splitmedia-2-1-1536.webp 1536w",
+            "src": "/media/photos/man-points-furniture-laptop-woman-watches-him-960.webp",
+            "srcset": "/media/photos/man-points-furniture-laptop-woman-watches-him-480.webp 480w, /media/photos/man-points-furniture-laptop-woman-watches-him-960.webp 960w, /media/photos/man-points-furniture-laptop-woman-watches-him-1536.webp 1536w",
             "width": 960,
             "height": 640,
             "alt": "A man points to furniture on a laptop while a woman watches beside him at a wooden dining table.",
@@ -352,8 +352,8 @@
             "intent": "/airbnb-design-furnishing/#brief-splitMedia-2-1"
           },
           {
-            "src": "/media/photos/airbnb-co-hosting-brief-m2-1-960.webp",
-            "srcset": "/media/photos/airbnb-co-hosting-brief-m2-1-480.webp 480w, /media/photos/airbnb-co-hosting-brief-m2-1-960.webp 960w, /media/photos/airbnb-co-hosting-brief-m2-1-1536.webp 1536w",
+            "src": "/media/photos/photographer-adjusts-tripod-mounted-camera-neatly-960.webp",
+            "srcset": "/media/photos/photographer-adjusts-tripod-mounted-camera-neatly-480.webp 480w, /media/photos/photographer-adjusts-tripod-mounted-camera-neatly-960.webp 960w, /media/photos/photographer-adjusts-tripod-mounted-camera-neatly-1536.webp 1536w",
             "width": 960,
             "height": 640,
             "alt": "A photographer adjusts a tripod-mounted camera beside a neatly made bed in a sunlit bedroom.",
@@ -361,8 +361,8 @@
             "intent": "/airbnb-co-hosting/#brief-m2-1"
           },
           {
-            "src": "/media/photos/airbnb-co-hosting-brief-related-1-960.webp",
-            "srcset": "/media/photos/airbnb-co-hosting-brief-related-1-480.webp 480w, /media/photos/airbnb-co-hosting-brief-related-1-960.webp 960w, /media/photos/airbnb-co-hosting-brief-related-1-1536.webp 1536w",
+            "src": "/media/photos/woman-uses-laptop-displaying-blurred-calendar-960.webp",
+            "srcset": "/media/photos/woman-uses-laptop-displaying-blurred-calendar-480.webp 480w, /media/photos/woman-uses-laptop-displaying-blurred-calendar-960.webp 960w, /media/photos/woman-uses-laptop-displaying-blurred-calendar-1536.webp 1536w",
             "width": 960,
             "height": 640,
             "alt": "A woman uses a laptop displaying a blurred calendar at a wooden desk in a brick-walled office.",
@@ -370,8 +370,8 @@
             "intent": "/airbnb-co-hosting/#brief-related-1"
           },
           {
-            "src": "/media/photos/about-us-brief-m2-1-960.webp",
-            "srcset": "/media/photos/about-us-brief-m2-1-480.webp 480w, /media/photos/about-us-brief-m2-1-960.webp 960w, /media/photos/about-us-brief-m2-1-1536.webp 1536w",
+            "src": "/media/photos/colleagues-gather-wooden-office-desk-seated-woman-960.webp",
+            "srcset": "/media/photos/colleagues-gather-wooden-office-desk-seated-woman-480.webp 480w, /media/photos/colleagues-gather-wooden-office-desk-seated-woman-960.webp 960w, /media/photos/colleagues-gather-wooden-office-desk-seated-woman-1536.webp 1536w",
             "width": 960,
             "height": 640,
             "alt": "Colleagues gather at a wooden office desk as a seated woman points to a calendar grid on a monitor.",
@@ -379,8 +379,8 @@
             "intent": "/about-us/#brief-m2-1"
           },
           {
-            "src": "/media/photos/faq-brief-m3-1-960.webp",
-            "srcset": "/media/photos/faq-brief-m3-1-480.webp 480w, /media/photos/faq-brief-m3-1-960.webp 960w, /media/photos/faq-brief-m3-1-1536.webp 1536w",
+            "src": "/media/photos/rental-owner-reviews-papers-pen-home-desk-laptop-960.webp",
+            "srcset": "/media/photos/rental-owner-reviews-papers-pen-home-desk-laptop-480.webp 480w, /media/photos/rental-owner-reviews-papers-pen-home-desk-laptop-960.webp 960w, /media/photos/rental-owner-reviews-papers-pen-home-desk-laptop-1536.webp 1536w",
             "width": 960,
             "height": 640,
             "alt": "A rental owner reviews papers with a pen at a home desk beside a laptop.",
@@ -388,8 +388,8 @@
             "intent": "/faq/#brief-m3-1"
           },
           {
-            "src": "/media/photos/case-studies-brief-related-1-960.webp",
-            "srcset": "/media/photos/case-studies-brief-related-1-480.webp 480w, /media/photos/case-studies-brief-related-1-960.webp 960w, /media/photos/case-studies-brief-related-1-1536.webp 1536w",
+            "src": "/media/photos/woman-writes-paper-calendar-open-laptop-wooden-960.webp",
+            "srcset": "/media/photos/woman-writes-paper-calendar-open-laptop-wooden-480.webp 480w, /media/photos/woman-writes-paper-calendar-open-laptop-wooden-960.webp 960w, /media/photos/woman-writes-paper-calendar-open-laptop-wooden-1536.webp 1536w",
             "width": 960,
             "height": 640,
             "alt": "A woman writes on a paper calendar beside an open laptop at a wooden kitchen table.",
@@ -397,8 +397,8 @@
             "intent": "/case-studies/#brief-related-1"
           },
           {
-            "src": "/media/photos/scottsdale-brief-m3-1-960.webp",
-            "srcset": "/media/photos/scottsdale-brief-m3-1-480.webp 480w, /media/photos/scottsdale-brief-m3-1-960.webp 960w, /media/photos/scottsdale-brief-m3-1-1536.webp 1536w",
+            "src": "/media/photos/analyst-uses-calculator-open-laptop-office-desk-960.webp",
+            "srcset": "/media/photos/analyst-uses-calculator-open-laptop-office-desk-480.webp 480w, /media/photos/analyst-uses-calculator-open-laptop-office-desk-960.webp 960w, /media/photos/analyst-uses-calculator-open-laptop-office-desk-1536.webp 1536w",
             "width": 960,
             "height": 640,
             "alt": "An analyst uses a calculator beside an open laptop at an office desk.",
@@ -406,8 +406,8 @@
             "intent": "/scottsdale/#brief-m3-1"
           },
           {
-            "src": "/media/photos/scottsdale-brief-m7-1-960.webp",
-            "srcset": "/media/photos/scottsdale-brief-m7-1-480.webp 480w, /media/photos/scottsdale-brief-m7-1-960.webp 960w, /media/photos/scottsdale-brief-m7-1-1536.webp 1344w",
+            "src": "/media/photos/man-lifts-pool-skimmer-basket-filled-leaves-960.webp",
+            "srcset": "/media/photos/man-lifts-pool-skimmer-basket-filled-leaves-480.webp 480w, /media/photos/man-lifts-pool-skimmer-basket-filled-leaves-960.webp 960w, /media/photos/man-lifts-pool-skimmer-basket-filled-leaves-1536.webp 1344w",
             "width": 960,
             "height": 640,
             "alt": "A man lifts a pool skimmer basket filled with leaves beside a pool surrounded by desert plants.",
@@ -415,8 +415,8 @@
             "intent": "/scottsdale/#brief-m7-1"
           },
           {
-            "src": "/media/photos/scottsdale-brief-m9-1-960.webp",
-            "srcset": "/media/photos/scottsdale-brief-m9-1-480.webp 480w, /media/photos/scottsdale-brief-m9-1-960.webp 960w, /media/photos/scottsdale-brief-m9-1-1536.webp 1344w",
+            "src": "/media/photos/technician-rinses-exposed-air-conditioner-coils-960.webp",
+            "srcset": "/media/photos/technician-rinses-exposed-air-conditioner-coils-480.webp 480w, /media/photos/technician-rinses-exposed-air-conditioner-coils-960.webp 960w, /media/photos/technician-rinses-exposed-air-conditioner-coils-1536.webp 1344w",
             "width": 960,
             "height": 640,
             "alt": "A technician rinses exposed air conditioner coils with a hose beside a stucco house.",
@@ -426,56 +426,56 @@
         ],
         "lifestyle": [
           {
-            "src": "/media/photos/general-lifestyle-1-960.webp",
-            "srcset": "/media/photos/general-lifestyle-1-480.webp 480w, /media/photos/general-lifestyle-1-960.webp 960w, /media/photos/general-lifestyle-1-1536.webp 1344w",
+            "src": "/media/photos/guests-relax-patio-fire-pit-sunset-saguaro-cacti-960.webp",
+            "srcset": "/media/photos/guests-relax-patio-fire-pit-sunset-saguaro-cacti-480.webp 480w, /media/photos/guests-relax-patio-fire-pit-sunset-saguaro-cacti-960.webp 960w, /media/photos/guests-relax-patio-fire-pit-sunset-saguaro-cacti-1536.webp 1344w",
             "width": 960,
             "height": 640,
             "alt": "Guests relax around a patio fire pit at sunset with saguaro cacti and mountains beyond.",
             "category": "general"
           },
           {
-            "src": "/media/photos/general-lifestyle-2-960.webp",
-            "srcset": "/media/photos/general-lifestyle-2-480.webp 480w, /media/photos/general-lifestyle-2-960.webp 960w, /media/photos/general-lifestyle-2-1536.webp 1344w",
+            "src": "/media/photos/family-luggage-approaches-coastal-cottage-palm-960.webp",
+            "srcset": "/media/photos/family-luggage-approaches-coastal-cottage-palm-480.webp 480w, /media/photos/family-luggage-approaches-coastal-cottage-palm-960.webp 960w, /media/photos/family-luggage-approaches-coastal-cottage-palm-1536.webp 1344w",
             "width": 960,
             "height": 640,
             "alt": "A family with luggage approaches a coastal cottage beneath palm trees and a clear blue sky.",
             "category": "general"
           },
           {
-            "src": "/media/photos/general-lifestyle-3-960.webp",
-            "srcset": "/media/photos/general-lifestyle-3-480.webp 480w, /media/photos/general-lifestyle-3-960.webp 960w, /media/photos/general-lifestyle-3-1536.webp 1344w",
+            "src": "/media/photos/friends-sit-fire-table-warmly-lit-front-porch-960.webp",
+            "srcset": "/media/photos/friends-sit-fire-table-warmly-lit-front-porch-480.webp 480w, /media/photos/friends-sit-fire-table-warmly-lit-front-porch-960.webp 960w, /media/photos/friends-sit-fire-table-warmly-lit-front-porch-1536.webp 1344w",
             "width": 960,
             "height": 640,
             "alt": "Friends sit around a fire table on a warmly lit front porch overlooking a tree-lined street at dusk.",
             "category": "general"
           },
           {
-            "src": "/media/photos/general-lifestyle-4-960.webp",
-            "srcset": "/media/photos/general-lifestyle-4-480.webp 480w, /media/photos/general-lifestyle-4-960.webp 960w, /media/photos/general-lifestyle-4-1536.webp 1344w",
+            "src": "/media/photos/guests-read-books-lounge-chairs-turquoise-pool-960.webp",
+            "srcset": "/media/photos/guests-read-books-lounge-chairs-turquoise-pool-480.webp 480w, /media/photos/guests-read-books-lounge-chairs-turquoise-pool-960.webp 960w, /media/photos/guests-read-books-lounge-chairs-turquoise-pool-1536.webp 1344w",
             "width": 960,
             "height": 640,
             "alt": "Guests read books on lounge chairs beside a turquoise pool on a sunny afternoon.",
             "category": "general"
           },
           {
-            "src": "/media/photos/general-lifestyle-5-960.webp",
-            "srcset": "/media/photos/general-lifestyle-5-480.webp 480w, /media/photos/general-lifestyle-5-960.webp 960w, /media/photos/general-lifestyle-5-1536.webp 1344w",
+            "src": "/media/photos/home-exterior-blue-hour-warmly-glowing-windows-960.webp",
+            "srcset": "/media/photos/home-exterior-blue-hour-warmly-glowing-windows-480.webp 480w, /media/photos/home-exterior-blue-hour-warmly-glowing-windows-960.webp 960w, /media/photos/home-exterior-blue-hour-warmly-glowing-windows-1536.webp 1344w",
             "width": 960,
             "height": 640,
             "alt": "A home exterior at blue hour with warmly glowing windows.",
             "category": "general"
           },
           {
-            "src": "/media/photos/general-lifestyle-6-960.webp",
-            "srcset": "/media/photos/general-lifestyle-6-480.webp 480w, /media/photos/general-lifestyle-6-960.webp 960w, /media/photos/general-lifestyle-6-1536.webp 1536w",
+            "src": "/media/photos/adults-review-printed-report-together-kitchen-960.webp",
+            "srcset": "/media/photos/adults-review-printed-report-together-kitchen-480.webp 480w, /media/photos/adults-review-printed-report-together-kitchen-960.webp 960w, /media/photos/adults-review-printed-report-together-kitchen-1536.webp 1536w",
             "width": 960,
             "height": 640,
             "alt": "Adults review a printed report together at a kitchen table.",
             "category": "general"
           },
           {
-            "src": "/media/photos/home-brief-cta-1-960.webp",
-            "srcset": "/media/photos/home-brief-cta-1-480.webp 480w, /media/photos/home-brief-cta-1-960.webp 960w, /media/photos/home-brief-cta-1-1536.webp 1536w",
+            "src": "/media/photos/man-talks-phone-wooden-porch-open-front-door-960.webp",
+            "srcset": "/media/photos/man-talks-phone-wooden-porch-open-front-door-480.webp 480w, /media/photos/man-talks-phone-wooden-porch-open-front-door-960.webp 960w, /media/photos/man-talks-phone-wooden-porch-open-front-door-1536.webp 1536w",
             "width": 960,
             "height": 640,
             "alt": "A man talks on a phone on a wooden porch beside an open front door revealing a furnished entryway.",
@@ -483,8 +483,8 @@
             "intent": "/#brief-cta-1"
           },
           {
-            "src": "/media/photos/scottsdale-brief-m10-1-960.webp",
-            "srcset": "/media/photos/scottsdale-brief-m10-1-480.webp 480w, /media/photos/scottsdale-brief-m10-1-960.webp 960w, /media/photos/scottsdale-brief-m10-1-1536.webp 1344w",
+            "src": "/media/photos/woman-opens-patio-doors-shaded-terrace-overlooking-960.webp",
+            "srcset": "/media/photos/woman-opens-patio-doors-shaded-terrace-overlooking-480.webp 480w, /media/photos/woman-opens-patio-doors-shaded-terrace-overlooking-960.webp 960w, /media/photos/woman-opens-patio-doors-shaded-terrace-overlooking-1536.webp 1344w",
             "width": 960,
             "height": 640,
             "alt": "A woman opens patio doors onto a shaded terrace overlooking cacti and rocky desert hills.",
@@ -497,8 +497,8 @@
         "/airbnb-listing-optimization-seo/": {
           "process": [
             {
-              "src": "/media/photos/airbnb-listing-optimization-seo-brief-related-1-960.webp",
-              "srcset": "/media/photos/airbnb-listing-optimization-seo-brief-related-1-480.webp 480w, /media/photos/airbnb-listing-optimization-seo-brief-related-1-960.webp 960w, /media/photos/airbnb-listing-optimization-seo-brief-related-1-1536.webp 1344w",
+              "src": "/media/photos/woman-positions-reading-lamp-leather-armchair-960.webp",
+              "srcset": "/media/photos/woman-positions-reading-lamp-leather-armchair-480.webp 480w, /media/photos/woman-positions-reading-lamp-leather-armchair-960.webp 960w, /media/photos/woman-positions-reading-lamp-leather-armchair-1536.webp 1344w",
               "width": 960,
               "height": 640,
               "alt": "A woman positions a reading lamp beside a leather armchair in a sunlit living room.",
@@ -506,8 +506,8 @@
               "intent": "/airbnb-listing-optimization-seo/#brief-related-1"
             },
             {
-              "src": "/media/photos/airbnb-listing-optimization-seo-brief-m5-1-960.webp",
-              "srcset": "/media/photos/airbnb-listing-optimization-seo-brief-m5-1-480.webp 480w, /media/photos/airbnb-listing-optimization-seo-brief-m5-1-960.webp 960w, /media/photos/airbnb-listing-optimization-seo-brief-m5-1-1536.webp 1536w",
+              "src": "/media/photos/person-studies-unlabeled-line-graphs-monitor-960.webp",
+              "srcset": "/media/photos/person-studies-unlabeled-line-graphs-monitor-480.webp 480w, /media/photos/person-studies-unlabeled-line-graphs-monitor-960.webp 960w, /media/photos/person-studies-unlabeled-line-graphs-monitor-1536.webp 1536w",
               "width": 960,
               "height": 640,
               "alt": "A person studies unlabeled line graphs on a monitor at a wooden desk in a brick-walled office.",
@@ -519,8 +519,8 @@
         "/dynamic-pricing/": {
           "process": [
             {
-              "src": "/media/photos/dynamic-pricing-brief-m5-1-960.webp",
-              "srcset": "/media/photos/dynamic-pricing-brief-m5-1-480.webp 480w, /media/photos/dynamic-pricing-brief-m5-1-960.webp 960w, /media/photos/dynamic-pricing-brief-m5-1-1536.webp 1536w",
+              "src": "/media/photos/woman-office-desk-gestures-chart-monitor-during-960.webp",
+              "srcset": "/media/photos/woman-office-desk-gestures-chart-monitor-during-480.webp 480w, /media/photos/woman-office-desk-gestures-chart-monitor-during-960.webp 960w, /media/photos/woman-office-desk-gestures-chart-monitor-during-1536.webp 1536w",
               "width": 960,
               "height": 640,
               "alt": "A woman at an office desk gestures toward a chart on her monitor during a video call.",
@@ -532,32 +532,32 @@
         "/airbnb-booking-management/": {
           "product": [
             {
-              "src": "/media/photos/airbnb-booking-management-product-1-960.webp",
-              "srcset": "/media/photos/airbnb-booking-management-product-1-480.webp 480w, /media/photos/airbnb-booking-management-product-1-960.webp 960w",
+              "src": "/media/photos/hands-use-green-marker-printed-comparison-sheet-960.webp",
+              "srcset": "/media/photos/hands-use-green-marker-printed-comparison-sheet-480.webp 480w, /media/photos/hands-use-green-marker-printed-comparison-sheet-960.webp 960w",
               "width": 960,
               "height": 960,
               "alt": "Hands use a green marker on a printed comparison sheet at a wooden desk overlooking a pool.",
               "category": "airbnb booking management"
             },
             {
-              "src": "/media/photos/airbnb-booking-management-product-2-960.webp",
-              "srcset": "/media/photos/airbnb-booking-management-product-2-480.webp 480w, /media/photos/airbnb-booking-management-product-2-960.webp 960w",
+              "src": "/media/photos/papers-calendar-colorful-sticky-notes-sit-wooden-960.webp",
+              "srcset": "/media/photos/papers-calendar-colorful-sticky-notes-sit-wooden-480.webp 480w, /media/photos/papers-calendar-colorful-sticky-notes-sit-wooden-960.webp 960w",
               "width": 960,
               "height": 960,
               "alt": "Papers, a calendar and colorful sticky notes sit on a wooden desk beside a sunlit pool.",
               "category": "airbnb booking management"
             },
             {
-              "src": "/media/photos/airbnb-booking-management-product-3-960.webp",
-              "srcset": "/media/photos/airbnb-booking-management-product-3-480.webp 480w, /media/photos/airbnb-booking-management-product-3-960.webp 960w",
+              "src": "/media/photos/blurred-computer-screen-desk-notebook-keyboard-960.webp",
+              "srcset": "/media/photos/blurred-computer-screen-desk-notebook-keyboard-480.webp 480w, /media/photos/blurred-computer-screen-desk-notebook-keyboard-960.webp 960w",
               "width": 960,
               "height": 960,
               "alt": "A blurred computer screen on a desk with a notebook beside the keyboard.",
               "category": "airbnb booking management"
             },
             {
-              "src": "/media/photos/airbnb-booking-management-product-4-960.webp",
-              "srcset": "/media/photos/airbnb-booking-management-product-4-480.webp 480w, /media/photos/airbnb-booking-management-product-4-960.webp 960w",
+              "src": "/media/photos/bound-report-blurred-details-rests-wooden-meeting-960.webp",
+              "srcset": "/media/photos/bound-report-blurred-details-rests-wooden-meeting-480.webp 480w, /media/photos/bound-report-blurred-details-rests-wooden-meeting-960.webp 960w",
               "width": 960,
               "height": 960,
               "alt": "A bound report with blurred details rests on a wooden meeting table beside a pen.",
@@ -568,32 +568,32 @@
         "/airbnb-property-maintenance/": {
           "product": [
             {
-              "src": "/media/photos/airbnb-property-maintenance-product-1-960.webp",
-              "srcset": "/media/photos/airbnb-property-maintenance-product-1-480.webp 480w, /media/photos/airbnb-property-maintenance-product-1-960.webp 960w",
+              "src": "/media/photos/property-maintenance-hands-marking-printed-960.webp",
+              "srcset": "/media/photos/property-maintenance-hands-marking-printed-480.webp 480w, /media/photos/property-maintenance-hands-marking-printed-960.webp 960w",
               "width": 960,
               "height": 960,
               "alt": "Hands marking a printed comparison sheet of property maintenance work.",
               "category": "airbnb property maintenance"
             },
             {
-              "src": "/media/photos/airbnb-property-maintenance-product-2-960.webp",
-              "srcset": "/media/photos/airbnb-property-maintenance-product-2-480.webp 480w, /media/photos/airbnb-property-maintenance-product-2-960.webp 960w",
+              "src": "/media/photos/papers-calendar-sticky-notes-arranged-desk-natural-960.webp",
+              "srcset": "/media/photos/papers-calendar-sticky-notes-arranged-desk-natural-480.webp 480w, /media/photos/papers-calendar-sticky-notes-arranged-desk-natural-960.webp 960w",
               "width": 960,
               "height": 960,
               "alt": "Papers, a calendar and sticky notes arranged on a desk in natural daylight.",
               "category": "airbnb property maintenance"
             },
             {
-              "src": "/media/photos/airbnb-property-maintenance-product-3-960.webp",
-              "srcset": "/media/photos/airbnb-property-maintenance-product-3-480.webp 480w, /media/photos/airbnb-property-maintenance-product-3-960.webp 960w",
+              "src": "/media/photos/clipboard-calendar-colorful-sticky-notes-rest-960.webp",
+              "srcset": "/media/photos/clipboard-calendar-colorful-sticky-notes-rest-480.webp 480w, /media/photos/clipboard-calendar-colorful-sticky-notes-rest-960.webp 960w",
               "width": 960,
               "height": 960,
               "alt": "A clipboard, calendar and colorful sticky notes rest on a wooden desk beside a window overlooking a pool.",
               "category": "airbnb property maintenance"
             },
             {
-              "src": "/media/photos/airbnb-property-maintenance-product-4-960.webp",
-              "srcset": "/media/photos/airbnb-property-maintenance-product-4-480.webp 480w, /media/photos/airbnb-property-maintenance-product-4-960.webp 960w",
+              "src": "/media/photos/morning-light-fills-guest-bedroom-crisp-white-960.webp",
+              "srcset": "/media/photos/morning-light-fills-guest-bedroom-crisp-white-480.webp 480w, /media/photos/morning-light-fills-guest-bedroom-crisp-white-960.webp 960w",
               "width": 960,
               "height": 960,
               "alt": "Morning light fills a guest bedroom with crisp white linens and folded towels on the bed.",
@@ -602,8 +602,8 @@
           ],
           "process": [
             {
-              "src": "/media/photos/airbnb-property-maintenance-brief-splitmedia-1-1-960.webp",
-              "srcset": "/media/photos/airbnb-property-maintenance-brief-splitmedia-1-1-480.webp 480w, /media/photos/airbnb-property-maintenance-brief-splitmedia-1-1-960.webp 960w, /media/photos/airbnb-property-maintenance-brief-splitmedia-1-1-1536.webp 1536w",
+              "src": "/media/photos/coordinator-talks-phone-office-desk-open-laptop-960.webp",
+              "srcset": "/media/photos/coordinator-talks-phone-office-desk-open-laptop-480.webp 480w, /media/photos/coordinator-talks-phone-office-desk-open-laptop-960.webp 960w, /media/photos/coordinator-talks-phone-office-desk-open-laptop-1536.webp 1536w",
               "width": 960,
               "height": 640,
               "alt": "A coordinator talks on the phone at an office desk with an open laptop.",
@@ -615,40 +615,40 @@
         "/short-term-rental-licensing-compliance/": {
           "product": [
             {
-              "src": "/media/photos/short-term-rental-licensing-compliance-product-1-960.webp",
-              "srcset": "/media/photos/short-term-rental-licensing-compliance-product-1-480.webp 480w, /media/photos/short-term-rental-licensing-compliance-product-1-960.webp 960w",
+              "src": "/media/photos/open-folder-blurred-paperwork-calendar-sticky-960.webp",
+              "srcset": "/media/photos/open-folder-blurred-paperwork-calendar-sticky-480.webp 480w, /media/photos/open-folder-blurred-paperwork-calendar-sticky-960.webp 960w",
               "width": 960,
               "height": 960,
               "alt": "An open folder with blurred paperwork, a calendar, sticky notes and a pen rests on a wooden table beside a pool.",
               "category": "short term rental licensing compliance"
             },
             {
-              "src": "/media/photos/short-term-rental-licensing-compliance-product-2-960.webp",
-              "srcset": "/media/photos/short-term-rental-licensing-compliance-product-2-480.webp 480w, /media/photos/short-term-rental-licensing-compliance-product-2-960.webp 960w",
+              "src": "/media/photos/blurred-computer-screen-keyboard-handwritten-960.webp",
+              "srcset": "/media/photos/blurred-computer-screen-keyboard-handwritten-480.webp 480w, /media/photos/blurred-computer-screen-keyboard-handwritten-960.webp 960w",
               "width": 960,
               "height": 960,
               "alt": "A blurred computer screen, keyboard and handwritten notebook sit on a wooden desk beside a window.",
               "category": "short term rental licensing compliance"
             },
             {
-              "src": "/media/photos/short-term-rental-licensing-compliance-product-3-960.webp",
-              "srcset": "/media/photos/short-term-rental-licensing-compliance-product-3-480.webp 480w, /media/photos/short-term-rental-licensing-compliance-product-3-960.webp 960w",
+              "src": "/media/photos/blurred-computer-screen-desk-notebook-handwritten-960.webp",
+              "srcset": "/media/photos/blurred-computer-screen-desk-notebook-handwritten-480.webp 480w, /media/photos/blurred-computer-screen-desk-notebook-handwritten-960.webp 960w",
               "width": 960,
               "height": 960,
               "alt": "A blurred computer screen on a desk with a notebook of handwritten notes beside the keyboard.",
               "category": "short term rental licensing compliance"
             },
             {
-              "src": "/media/photos/short-term-rental-licensing-compliance-product-4-960.webp",
-              "srcset": "/media/photos/short-term-rental-licensing-compliance-product-4-480.webp 480w, /media/photos/short-term-rental-licensing-compliance-product-4-960.webp 960w",
+              "src": "/media/photos/staff-arrange-wooden-dining-table-clean-open-960.webp",
+              "srcset": "/media/photos/staff-arrange-wooden-dining-table-clean-open-480.webp 480w, /media/photos/staff-arrange-wooden-dining-table-clean-open-960.webp 960w",
               "width": 960,
               "height": 960,
               "alt": "Staff arrange a wooden dining table and clean an open kitchen beside sunlit glass doors.",
               "category": "short term rental licensing compliance"
             },
             {
-              "src": "/media/photos/short-term-rental-licensing-compliance-brief-splitmedia-3-1-960.webp",
-              "srcset": "/media/photos/short-term-rental-licensing-compliance-brief-splitmedia-3-1-480.webp 480w, /media/photos/short-term-rental-licensing-compliance-brief-splitmedia-3-1-960.webp 960w",
+              "src": "/media/photos/woman-hangs-jacket-hallway-living-room-furnished-960.webp",
+              "srcset": "/media/photos/woman-hangs-jacket-hallway-living-room-furnished-480.webp 480w, /media/photos/woman-hangs-jacket-hallway-living-room-furnished-960.webp 960w",
               "width": 960,
               "height": 960,
               "alt": "A woman hangs a jacket in a hallway with a living room and furnished bedroom visible.",
@@ -658,8 +658,8 @@
           ],
           "process": [
             {
-              "src": "/media/photos/short-term-rental-licensing-compliance-brief-splitmedia-1-1-960.webp",
-              "srcset": "/media/photos/short-term-rental-licensing-compliance-brief-splitmedia-1-1-480.webp 480w, /media/photos/short-term-rental-licensing-compliance-brief-splitmedia-1-1-960.webp 960w, /media/photos/short-term-rental-licensing-compliance-brief-splitmedia-1-1-1536.webp 1536w",
+              "src": "/media/photos/woman-holds-blurred-document-house-photograph-960.webp",
+              "srcset": "/media/photos/woman-holds-blurred-document-house-photograph-480.webp 480w, /media/photos/woman-holds-blurred-document-house-photograph-960.webp 960w, /media/photos/woman-holds-blurred-document-house-photograph-1536.webp 1536w",
               "width": 960,
               "height": 640,
               "alt": "A woman holds a blurred document beside a house photograph on a wooden dining table.",
@@ -667,8 +667,8 @@
               "intent": "/short-term-rental-licensing-compliance/#brief-splitMedia-1-1"
             },
             {
-              "src": "/media/photos/short-term-rental-licensing-compliance-brief-splitmedia-2-1-960.webp",
-              "srcset": "/media/photos/short-term-rental-licensing-compliance-brief-splitmedia-2-1-480.webp 480w, /media/photos/short-term-rental-licensing-compliance-brief-splitmedia-2-1-960.webp 960w, /media/photos/short-term-rental-licensing-compliance-brief-splitmedia-2-1-1536.webp 1536w",
+              "src": "/media/photos/man-points-blurred-document-open-binder-wooden-960.webp",
+              "srcset": "/media/photos/man-points-blurred-document-open-binder-wooden-480.webp 480w, /media/photos/man-points-blurred-document-open-binder-wooden-960.webp 960w, /media/photos/man-points-blurred-document-open-binder-wooden-1536.webp 1536w",
               "width": 960,
               "height": 640,
               "alt": "A man points to a blurred document beside an open binder on a wooden office desk.",
@@ -680,8 +680,8 @@
         "/san-diego/": {
           "product": [
             {
-              "src": "/media/photos/san-diego-brief-m3-1-960.webp",
-              "srcset": "/media/photos/san-diego-brief-m3-1-480.webp 480w, /media/photos/san-diego-brief-m3-1-960.webp 960w",
+              "src": "/media/photos/hand-compares-blurred-worksheets-listing-summaries-960.webp",
+              "srcset": "/media/photos/hand-compares-blurred-worksheets-listing-summaries-480.webp 480w, /media/photos/hand-compares-blurred-worksheets-listing-summaries-960.webp 960w",
               "width": 960,
               "height": 960,
               "alt": "A hand compares blurred worksheets and listing summaries on a wooden desk.",
@@ -691,8 +691,8 @@
           ],
           "process": [
             {
-              "src": "/media/photos/san-diego-brief-m4-1-960.webp",
-              "srcset": "/media/photos/san-diego-brief-m4-1-480.webp 480w, /media/photos/san-diego-brief-m4-1-960.webp 960w, /media/photos/san-diego-brief-m4-1-1536.webp 1536w",
+              "src": "/media/photos/man-sits-wooden-desk-facing-monitor-blurred-960.webp",
+              "srcset": "/media/photos/man-sits-wooden-desk-facing-monitor-blurred-480.webp 480w, /media/photos/man-sits-wooden-desk-facing-monitor-blurred-960.webp 960w, /media/photos/man-sits-wooden-desk-facing-monitor-blurred-1536.webp 1536w",
               "width": 960,
               "height": 640,
               "alt": "A man sits at a wooden desk facing a monitor with a blurred calendar, with palm trees visible through the window.",
@@ -700,8 +700,8 @@
               "intent": "/san-diego/#brief-m4-1"
             },
             {
-              "src": "/media/photos/san-diego-brief-m7-1-960.webp",
-              "srcset": "/media/photos/san-diego-brief-m7-1-480.webp 480w, /media/photos/san-diego-brief-m7-1-960.webp 960w, /media/photos/san-diego-brief-m7-1-1536.webp 1536w",
+              "src": "/media/photos/man-examines-rusted-latch-wooden-patio-gate-ocean-960.webp",
+              "srcset": "/media/photos/man-examines-rusted-latch-wooden-patio-gate-ocean-480.webp 480w, /media/photos/man-examines-rusted-latch-wooden-patio-gate-ocean-960.webp 960w, /media/photos/man-examines-rusted-latch-wooden-patio-gate-ocean-1536.webp 1536w",
               "width": 960,
               "height": 640,
               "alt": "A man examines a rusted latch on a wooden patio gate beside the ocean.",
@@ -713,8 +713,8 @@
         "/nashville/": {
           "lifestyle": [
             {
-              "src": "/media/photos/nashville-brief-m2-1-960.webp",
-              "srcset": "/media/photos/nashville-brief-m2-1-480.webp 480w, /media/photos/nashville-brief-m2-1-960.webp 960w, /media/photos/nashville-brief-m2-1-1536.webp 1344w",
+              "src": "/media/photos/headset-wearing-worker-sits-desk-monitors-window-960.webp",
+              "srcset": "/media/photos/headset-wearing-worker-sits-desk-monitors-window-480.webp 480w, /media/photos/headset-wearing-worker-sits-desk-monitors-window-960.webp 960w, /media/photos/headset-wearing-worker-sits-desk-monitors-window-1536.webp 1344w",
               "width": 960,
               "height": 640,
               "alt": "A headset-wearing worker sits at a desk with monitors beside a window overlooking a courtyard.",
@@ -722,8 +722,8 @@
               "intent": "/nashville/#brief-m2-1"
             },
             {
-              "src": "/media/photos/nashville-brief-m6-1-960.webp",
-              "srcset": "/media/photos/nashville-brief-m6-1-480.webp 480w, /media/photos/nashville-brief-m6-1-960.webp 960w, /media/photos/nashville-brief-m6-1-1536.webp 1536w",
+              "src": "/media/photos/homeowner-unfolds-luggage-rack-neatly-made-bed-960.webp",
+              "srcset": "/media/photos/homeowner-unfolds-luggage-rack-neatly-made-bed-480.webp 480w, /media/photos/homeowner-unfolds-luggage-rack-neatly-made-bed-960.webp 960w, /media/photos/homeowner-unfolds-luggage-rack-neatly-made-bed-1536.webp 1536w",
               "width": 960,
               "height": 640,
               "alt": "A homeowner unfolds a luggage rack beside a neatly made bed in a guest bedroom.",
@@ -731,8 +731,8 @@
               "intent": "/nashville/#brief-m6-1"
             },
             {
-              "src": "/media/photos/nashville-brief-m11-1-960.webp",
-              "srcset": "/media/photos/nashville-brief-m11-1-480.webp 480w, /media/photos/nashville-brief-m11-1-960.webp 960w, /media/photos/nashville-brief-m11-1-1536.webp 1536w",
+              "src": "/media/photos/woman-presses-weatherstripping-open-cabin-960.webp",
+              "srcset": "/media/photos/woman-presses-weatherstripping-open-cabin-480.webp 480w, /media/photos/woman-presses-weatherstripping-open-cabin-960.webp 960w, /media/photos/woman-presses-weatherstripping-open-cabin-1536.webp 1536w",
               "width": 960,
               "height": 640,
               "alt": "A woman presses weatherstripping into an open cabin doorframe with a porch and lake beyond.",
@@ -742,8 +742,8 @@
           ],
           "process": [
             {
-              "src": "/media/photos/nashville-brief-m3-1-960.webp",
-              "srcset": "/media/photos/nashville-brief-m3-1-480.webp 480w, /media/photos/nashville-brief-m3-1-960.webp 960w, /media/photos/nashville-brief-m3-1-1536.webp 1344w",
+              "src": "/media/photos/woman-sorts-photographs-houses-interiors-wooden-960.webp",
+              "srcset": "/media/photos/woman-sorts-photographs-houses-interiors-wooden-480.webp 480w, /media/photos/woman-sorts-photographs-houses-interiors-wooden-960.webp 960w, /media/photos/woman-sorts-photographs-houses-interiors-wooden-1536.webp 1344w",
               "width": 960,
               "height": 640,
               "alt": "A woman sorts photographs of houses and interiors on a wooden desk.",
@@ -751,8 +751,8 @@
               "intent": "/nashville/#brief-m3-1"
             },
             {
-              "src": "/media/photos/nashville-brief-m8-1-960.webp",
-              "srcset": "/media/photos/nashville-brief-m8-1-480.webp 480w, /media/photos/nashville-brief-m8-1-960.webp 960w, /media/photos/nashville-brief-m8-1-1536.webp 1536w",
+              "src": "/media/photos/woman-tucks-white-sheet-mattress-woven-basket-960.webp",
+              "srcset": "/media/photos/woman-tucks-white-sheet-mattress-woven-basket-480.webp 480w, /media/photos/woman-tucks-white-sheet-mattress-woven-basket-960.webp 960w, /media/photos/woman-tucks-white-sheet-mattress-woven-basket-1536.webp 1536w",
               "width": 960,
               "height": 640,
               "alt": "A woman tucks a white sheet around a mattress beside a woven basket of folded linens.",
@@ -989,14 +989,14 @@
       "charts:*": {
         "base": 111,
         "perWord": 3.57,
-        "visual": 0.85,
+        "visual": 0.83,
         "before": 0,
         "after": 0.18
       },
       "charts:": {
         "base": 111,
         "perWord": 3.57,
-        "visual": 0.85,
+        "visual": 0.83,
         "before": 0,
         "after": 0.18
       },
@@ -1024,7 +1024,7 @@
       "cta:image-band+photo": {
         "base": 446,
         "perWord": 0,
-        "visual": 0.5,
+        "visual": 0.52,
         "before": 0.08,
         "after": 0.08
       },
@@ -1071,16 +1071,16 @@
         "after": 0.53
       },
       "gallery:*": {
-        "base": 630,
+        "base": 568,
         "perWord": 0,
-        "visual": 0.85,
-        "before": 0.06,
-        "after": 0.06
+        "visual": 0.75,
+        "before": 0.07,
+        "after": 0.07
       },
       "gallery:band": {
-        "base": 792,
+        "base": 672,
         "perWord": 0,
-        "visual": 0.93,
+        "visual": 0.77,
         "before": 0.05,
         "after": 0.05
       },
@@ -1092,15 +1092,15 @@
         "after": 0.09
       },
       "hero:*": {
-        "base": 40,
-        "perWord": 38.11,
+        "base": 223,
+        "perWord": 25.93,
         "visual": 1,
         "before": 0,
         "after": 0
       },
       "hero:media-overlay": {
-        "base": 40,
-        "perWord": 38.11,
+        "base": 223,
+        "perWord": 25.93,
         "visual": 1,
         "before": 0,
         "after": 0
@@ -1115,7 +1115,7 @@
       "iconList:checks": {
         "base": 199,
         "perWord": 3.06,
-        "visual": 0.02,
+        "visual": 0.03,
         "before": 0.94,
         "after": 0.93
       },
@@ -1157,7 +1157,7 @@
       "process:circles": {
         "base": 453,
         "perWord": 0,
-        "visual": 0.44,
+        "visual": 0.48,
         "before": 0.41,
         "after": 0.08
       },
@@ -1234,7 +1234,7 @@
       "splitMedia:*": {
         "base": 598,
         "perWord": 0.52,
-        "visual": 0.35,
+        "visual": 0.36,
         "before": 0.06,
         "after": 0.1
       },
@@ -1248,7 +1248,7 @@
       "splitMedia:single": {
         "base": 598,
         "perWord": 0.52,
-        "visual": 0.35,
+        "visual": 0.36,
         "before": 0.06,
         "after": 0.1
       },
@@ -1290,19 +1290,19 @@
       "trustBar:*": {
         "base": 69,
         "perWord": 1.23,
-        "visual": 0.81,
+        "visual": 0.8,
         "before": 0.26,
         "after": 0.26
       },
       "trustBar:": {
         "base": 69,
         "perWord": 1.23,
-        "visual": 0.81,
+        "visual": 0.8,
         "before": 0.26,
         "after": 0.26
       },
       "hero:media-overlay@solution": {
-        "base": 600,
+        "base": 837,
         "perWord": 0,
         "visual": 1,
         "before": 0,
@@ -1465,12 +1465,12 @@
       "charts:@solution": {
         "base": 109,
         "perWord": 3.5,
-        "visual": 0.84,
+        "visual": 0.82,
         "before": 0,
         "after": 0.19
       },
       "hero:media-overlay@home": {
-        "base": 600,
+        "base": 1000,
         "perWord": 0,
         "visual": 1,
         "before": 0,
@@ -1505,9 +1505,9 @@
         "after": 0.04
       },
       "gallery:band@home": {
-        "base": 792,
+        "base": 672,
         "perWord": 0,
-        "visual": 0.93,
+        "visual": 0.77,
         "before": 0.05,
         "after": 0.05
       },
@@ -1577,7 +1577,7 @@
       "cta:image-band+photo@home": {
         "base": 446,
         "perWord": 0,
-        "visual": 0.5,
+        "visual": 0.52,
         "before": 0.08,
         "after": 0.08
       },
@@ -1589,7 +1589,7 @@
         "after": 0.03
       },
       "hero:media-overlay@about": {
-        "base": 600,
+        "base": 572,
         "perWord": 0,
         "visual": 1,
         "before": 0,
@@ -1619,7 +1619,7 @@
       "splitMedia:single@about": {
         "base": 643,
         "perWord": 0,
-        "visual": 0.36,
+        "visual": 0.38,
         "before": 0.06,
         "after": 0.06
       },
@@ -1680,7 +1680,7 @@
         "after": 1
       },
       "hero:media-overlay@general": {
-        "base": 600,
+        "base": 572,
         "perWord": 0,
         "visual": 1,
         "before": 0,
@@ -1703,14 +1703,14 @@
       "iconList:checks@general": {
         "base": 442,
         "perWord": 0,
-        "visual": 0.24,
+        "visual": 0.25,
         "before": 0.41,
         "after": 0.33
       },
       "splitMedia:single@general": {
         "base": 507,
         "perWord": 8.53,
-        "visual": 0.37,
+        "visual": 0.38,
         "before": 0.07,
         "after": 0.04
       },
@@ -1766,7 +1766,7 @@
       "charts:@general": {
         "base": 282,
         "perWord": 0,
-        "visual": 0.91,
+        "visual": 0.84,
         "before": 0,
         "after": 0.13
       },
@@ -1780,7 +1780,7 @@
       "process:circles@general": {
         "base": 453,
         "perWord": 0,
-        "visual": 0.44,
+        "visual": 0.48,
         "before": 0.41,
         "after": 0.08
       },
@@ -1792,7 +1792,7 @@
         "after": 1
       },
       "hero:media-overlay@places_hub": {
-        "base": 600,
+        "base": 837,
         "perWord": 0,
         "visual": 1,
         "before": 0,
@@ -1913,7 +1913,7 @@
       "trustBar:@general": {
         "base": 67,
         "perWord": 1.27,
-        "visual": 0.83,
+        "visual": 0.79,
         "before": 0.26,
         "after": 0.26
       },
@@ -2096,6 +2096,83 @@
     "secondaryInk": true,
     "landingPageTypes": [
       "place"
-    ]
+    ],
+    "heroHeights": {
+      "home": {
+        "desktop": {
+          "height": 1000,
+          "share": 1
+        },
+        "tablet": {
+          "height": 1024,
+          "share": 1
+        },
+        "phone": {
+          "height": 844,
+          "share": 1
+        }
+      },
+      "about": {
+        "desktop": {
+          "height": 572,
+          "share": 0.572
+        },
+        "tablet": {
+          "height": 644,
+          "share": 0.629
+        },
+        "phone": {
+          "height": 400,
+          "share": 0.474
+        }
+      },
+      "contact": {
+        "desktop": {
+          "height": 412,
+          "share": 0.412
+        },
+        "tablet": {
+          "height": 412,
+          "share": 0.402
+        },
+        "phone": {
+          "height": 223,
+          "share": 0.264
+        }
+      },
+      "solution": {
+        "desktop": {
+          "height": 837,
+          "share": 0.837
+        },
+        "tablet": {
+          "height": 837,
+          "share": 0.817
+        },
+        "phone": {
+          "height": 1742,
+          "share": 2.064
+        }
+      },
+      "place": {
+        "desktop": {
+          "height": 837,
+          "share": 0.837
+        },
+        "tablet": {
+          "height": 837,
+          "share": 0.817
+        },
+        "phone": {
+          "height": 1760,
+          "share": 2.085
+        }
+      }
+    },
+    "photoWall": {
+      "fit": "container",
+      "ratio": "2.11 / 1",
+      "height": 568
+    }
   }
 }
